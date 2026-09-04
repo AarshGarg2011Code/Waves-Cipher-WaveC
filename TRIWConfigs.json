@@ -1,0 +1,5002 @@
+{
+    "TRI1|1": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 1
+    },
+    "TRI1|2": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 2
+    },
+    "TRI1|3": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 3
+    },
+    "TRI1|4": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 4
+    },
+    "TRI1|5": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 5
+    },
+    "TRI1|6": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 6
+    },
+    "TRI1|7": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 7
+    },
+    "TRI1|8": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 8
+    },
+    "TRI1|9": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 9
+    },
+    "TRI1|10": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 10
+    },
+    "TRI1|11": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 11
+    },
+    "TRI1|12": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 12
+    },
+    "TRI1|13": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 13
+    },
+    "TRI1|14": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 14
+    },
+    "TRI1|15": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 15
+    },
+    "TRI1|16": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 16
+    },
+    "TRI1|17": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 17
+    },
+    "TRI1|18": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 18
+    },
+    "TRI1|19": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 19
+    },
+    "TRI1|20": {
+        "series": "TriangleWave",
+        "amplitude": 1,
+        "frequency": 20
+    },
+    "TRI2|1": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 1
+    },
+    "TRI2|2": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 2
+    },
+    "TRI2|3": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 3
+    },
+    "TRI2|4": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 4
+    },
+    "TRI2|5": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 5
+    },
+    "TRI2|6": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 6
+    },
+    "TRI2|7": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 7
+    },
+    "TRI2|8": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 8
+    },
+    "TRI2|9": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 9
+    },
+    "TRI2|10": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 10
+    },
+    "TRI2|11": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 11
+    },
+    "TRI2|12": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 12
+    },
+    "TRI2|13": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 13
+    },
+    "TRI2|14": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 14
+    },
+    "TRI2|15": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 15
+    },
+    "TRI2|16": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 16
+    },
+    "TRI2|17": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 17
+    },
+    "TRI2|18": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 18
+    },
+    "TRI2|19": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 19
+    },
+    "TRI2|20": {
+        "series": "TriangleWave",
+        "amplitude": 2,
+        "frequency": 20
+    },
+    "TRI3|1": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 1
+    },
+    "TRI3|2": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 2
+    },
+    "TRI3|3": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 3
+    },
+    "TRI3|4": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 4
+    },
+    "TRI3|5": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 5
+    },
+    "TRI3|6": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 6
+    },
+    "TRI3|7": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 7
+    },
+    "TRI3|8": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 8
+    },
+    "TRI3|9": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 9
+    },
+    "TRI3|10": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 10
+    },
+    "TRI3|11": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 11
+    },
+    "TRI3|12": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 12
+    },
+    "TRI3|13": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 13
+    },
+    "TRI3|14": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 14
+    },
+    "TRI3|15": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 15
+    },
+    "TRI3|16": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 16
+    },
+    "TRI3|17": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 17
+    },
+    "TRI3|18": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 18
+    },
+    "TRI3|19": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 19
+    },
+    "TRI3|20": {
+        "series": "TriangleWave",
+        "amplitude": 3,
+        "frequency": 20
+    },
+    "TRI4|1": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 1
+    },
+    "TRI4|2": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 2
+    },
+    "TRI4|3": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 3
+    },
+    "TRI4|4": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 4
+    },
+    "TRI4|5": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 5
+    },
+    "TRI4|6": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 6
+    },
+    "TRI4|7": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 7
+    },
+    "TRI4|8": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 8
+    },
+    "TRI4|9": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 9
+    },
+    "TRI4|10": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 10
+    },
+    "TRI4|11": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 11
+    },
+    "TRI4|12": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 12
+    },
+    "TRI4|13": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 13
+    },
+    "TRI4|14": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 14
+    },
+    "TRI4|15": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 15
+    },
+    "TRI4|16": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 16
+    },
+    "TRI4|17": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 17
+    },
+    "TRI4|18": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 18
+    },
+    "TRI4|19": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 19
+    },
+    "TRI4|20": {
+        "series": "TriangleWave",
+        "amplitude": 4,
+        "frequency": 20
+    },
+    "TRI5|1": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 1
+    },
+    "TRI5|2": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 2
+    },
+    "TRI5|3": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 3
+    },
+    "TRI5|4": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 4
+    },
+    "TRI5|5": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 5
+    },
+    "TRI5|6": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 6
+    },
+    "TRI5|7": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 7
+    },
+    "TRI5|8": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 8
+    },
+    "TRI5|9": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 9
+    },
+    "TRI5|10": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 10
+    },
+    "TRI5|11": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 11
+    },
+    "TRI5|12": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 12
+    },
+    "TRI5|13": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 13
+    },
+    "TRI5|14": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 14
+    },
+    "TRI5|15": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 15
+    },
+    "TRI5|16": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 16
+    },
+    "TRI5|17": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 17
+    },
+    "TRI5|18": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 18
+    },
+    "TRI5|19": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 19
+    },
+    "TRI5|20": {
+        "series": "TriangleWave",
+        "amplitude": 5,
+        "frequency": 20
+    },
+    "TRI6|1": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 1
+    },
+    "TRI6|2": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 2
+    },
+    "TRI6|3": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 3
+    },
+    "TRI6|4": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 4
+    },
+    "TRI6|5": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 5
+    },
+    "TRI6|6": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 6
+    },
+    "TRI6|7": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 7
+    },
+    "TRI6|8": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 8
+    },
+    "TRI6|9": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 9
+    },
+    "TRI6|10": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 10
+    },
+    "TRI6|11": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 11
+    },
+    "TRI6|12": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 12
+    },
+    "TRI6|13": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 13
+    },
+    "TRI6|14": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 14
+    },
+    "TRI6|15": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 15
+    },
+    "TRI6|16": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 16
+    },
+    "TRI6|17": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 17
+    },
+    "TRI6|18": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 18
+    },
+    "TRI6|19": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 19
+    },
+    "TRI6|20": {
+        "series": "TriangleWave",
+        "amplitude": 6,
+        "frequency": 20
+    },
+    "TRI7|1": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 1
+    },
+    "TRI7|2": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 2
+    },
+    "TRI7|3": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 3
+    },
+    "TRI7|4": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 4
+    },
+    "TRI7|5": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 5
+    },
+    "TRI7|6": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 6
+    },
+    "TRI7|7": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 7
+    },
+    "TRI7|8": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 8
+    },
+    "TRI7|9": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 9
+    },
+    "TRI7|10": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 10
+    },
+    "TRI7|11": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 11
+    },
+    "TRI7|12": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 12
+    },
+    "TRI7|13": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 13
+    },
+    "TRI7|14": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 14
+    },
+    "TRI7|15": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 15
+    },
+    "TRI7|16": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 16
+    },
+    "TRI7|17": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 17
+    },
+    "TRI7|18": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 18
+    },
+    "TRI7|19": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 19
+    },
+    "TRI7|20": {
+        "series": "TriangleWave",
+        "amplitude": 7,
+        "frequency": 20
+    },
+    "TRI8|1": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 1
+    },
+    "TRI8|2": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 2
+    },
+    "TRI8|3": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 3
+    },
+    "TRI8|4": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 4
+    },
+    "TRI8|5": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 5
+    },
+    "TRI8|6": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 6
+    },
+    "TRI8|7": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 7
+    },
+    "TRI8|8": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 8
+    },
+    "TRI8|9": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 9
+    },
+    "TRI8|10": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 10
+    },
+    "TRI8|11": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 11
+    },
+    "TRI8|12": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 12
+    },
+    "TRI8|13": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 13
+    },
+    "TRI8|14": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 14
+    },
+    "TRI8|15": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 15
+    },
+    "TRI8|16": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 16
+    },
+    "TRI8|17": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 17
+    },
+    "TRI8|18": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 18
+    },
+    "TRI8|19": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 19
+    },
+    "TRI8|20": {
+        "series": "TriangleWave",
+        "amplitude": 8,
+        "frequency": 20
+    },
+    "TRI9|1": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 1
+    },
+    "TRI9|2": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 2
+    },
+    "TRI9|3": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 3
+    },
+    "TRI9|4": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 4
+    },
+    "TRI9|5": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 5
+    },
+    "TRI9|6": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 6
+    },
+    "TRI9|7": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 7
+    },
+    "TRI9|8": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 8
+    },
+    "TRI9|9": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 9
+    },
+    "TRI9|10": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 10
+    },
+    "TRI9|11": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 11
+    },
+    "TRI9|12": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 12
+    },
+    "TRI9|13": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 13
+    },
+    "TRI9|14": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 14
+    },
+    "TRI9|15": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 15
+    },
+    "TRI9|16": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 16
+    },
+    "TRI9|17": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 17
+    },
+    "TRI9|18": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 18
+    },
+    "TRI9|19": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 19
+    },
+    "TRI9|20": {
+        "series": "TriangleWave",
+        "amplitude": 9,
+        "frequency": 20
+    },
+    "TRI10|1": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 1
+    },
+    "TRI10|2": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 2
+    },
+    "TRI10|3": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 3
+    },
+    "TRI10|4": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 4
+    },
+    "TRI10|5": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 5
+    },
+    "TRI10|6": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 6
+    },
+    "TRI10|7": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 7
+    },
+    "TRI10|8": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 8
+    },
+    "TRI10|9": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 9
+    },
+    "TRI10|10": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 10
+    },
+    "TRI10|11": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 11
+    },
+    "TRI10|12": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 12
+    },
+    "TRI10|13": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 13
+    },
+    "TRI10|14": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 14
+    },
+    "TRI10|15": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 15
+    },
+    "TRI10|16": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 16
+    },
+    "TRI10|17": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 17
+    },
+    "TRI10|18": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 18
+    },
+    "TRI10|19": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 19
+    },
+    "TRI10|20": {
+        "series": "TriangleWave",
+        "amplitude": 10,
+        "frequency": 20
+    },
+    "TRI11|1": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 1
+    },
+    "TRI11|2": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 2
+    },
+    "TRI11|3": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 3
+    },
+    "TRI11|4": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 4
+    },
+    "TRI11|5": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 5
+    },
+    "TRI11|6": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 6
+    },
+    "TRI11|7": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 7
+    },
+    "TRI11|8": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 8
+    },
+    "TRI11|9": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 9
+    },
+    "TRI11|10": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 10
+    },
+    "TRI11|11": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 11
+    },
+    "TRI11|12": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 12
+    },
+    "TRI11|13": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 13
+    },
+    "TRI11|14": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 14
+    },
+    "TRI11|15": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 15
+    },
+    "TRI11|16": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 16
+    },
+    "TRI11|17": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 17
+    },
+    "TRI11|18": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 18
+    },
+    "TRI11|19": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 19
+    },
+    "TRI11|20": {
+        "series": "TriangleWave",
+        "amplitude": 11,
+        "frequency": 20
+    },
+    "TRI12|1": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 1
+    },
+    "TRI12|2": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 2
+    },
+    "TRI12|3": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 3
+    },
+    "TRI12|4": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 4
+    },
+    "TRI12|5": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 5
+    },
+    "TRI12|6": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 6
+    },
+    "TRI12|7": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 7
+    },
+    "TRI12|8": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 8
+    },
+    "TRI12|9": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 9
+    },
+    "TRI12|10": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 10
+    },
+    "TRI12|11": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 11
+    },
+    "TRI12|12": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 12
+    },
+    "TRI12|13": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 13
+    },
+    "TRI12|14": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 14
+    },
+    "TRI12|15": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 15
+    },
+    "TRI12|16": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 16
+    },
+    "TRI12|17": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 17
+    },
+    "TRI12|18": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 18
+    },
+    "TRI12|19": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 19
+    },
+    "TRI12|20": {
+        "series": "TriangleWave",
+        "amplitude": 12,
+        "frequency": 20
+    },
+    "TRI13|1": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 1
+    },
+    "TRI13|2": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 2
+    },
+    "TRI13|3": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 3
+    },
+    "TRI13|4": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 4
+    },
+    "TRI13|5": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 5
+    },
+    "TRI13|6": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 6
+    },
+    "TRI13|7": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 7
+    },
+    "TRI13|8": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 8
+    },
+    "TRI13|9": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 9
+    },
+    "TRI13|10": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 10
+    },
+    "TRI13|11": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 11
+    },
+    "TRI13|12": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 12
+    },
+    "TRI13|13": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 13
+    },
+    "TRI13|14": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 14
+    },
+    "TRI13|15": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 15
+    },
+    "TRI13|16": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 16
+    },
+    "TRI13|17": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 17
+    },
+    "TRI13|18": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 18
+    },
+    "TRI13|19": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 19
+    },
+    "TRI13|20": {
+        "series": "TriangleWave",
+        "amplitude": 13,
+        "frequency": 20
+    },
+    "TRI14|1": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 1
+    },
+    "TRI14|2": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 2
+    },
+    "TRI14|3": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 3
+    },
+    "TRI14|4": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 4
+    },
+    "TRI14|5": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 5
+    },
+    "TRI14|6": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 6
+    },
+    "TRI14|7": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 7
+    },
+    "TRI14|8": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 8
+    },
+    "TRI14|9": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 9
+    },
+    "TRI14|10": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 10
+    },
+    "TRI14|11": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 11
+    },
+    "TRI14|12": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 12
+    },
+    "TRI14|13": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 13
+    },
+    "TRI14|14": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 14
+    },
+    "TRI14|15": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 15
+    },
+    "TRI14|16": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 16
+    },
+    "TRI14|17": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 17
+    },
+    "TRI14|18": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 18
+    },
+    "TRI14|19": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 19
+    },
+    "TRI14|20": {
+        "series": "TriangleWave",
+        "amplitude": 14,
+        "frequency": 20
+    },
+    "TRI15|1": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 1
+    },
+    "TRI15|2": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 2
+    },
+    "TRI15|3": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 3
+    },
+    "TRI15|4": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 4
+    },
+    "TRI15|5": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 5
+    },
+    "TRI15|6": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 6
+    },
+    "TRI15|7": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 7
+    },
+    "TRI15|8": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 8
+    },
+    "TRI15|9": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 9
+    },
+    "TRI15|10": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 10
+    },
+    "TRI15|11": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 11
+    },
+    "TRI15|12": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 12
+    },
+    "TRI15|13": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 13
+    },
+    "TRI15|14": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 14
+    },
+    "TRI15|15": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 15
+    },
+    "TRI15|16": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 16
+    },
+    "TRI15|17": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 17
+    },
+    "TRI15|18": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 18
+    },
+    "TRI15|19": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 19
+    },
+    "TRI15|20": {
+        "series": "TriangleWave",
+        "amplitude": 15,
+        "frequency": 20
+    },
+    "TRI16|1": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 1
+    },
+    "TRI16|2": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 2
+    },
+    "TRI16|3": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 3
+    },
+    "TRI16|4": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 4
+    },
+    "TRI16|5": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 5
+    },
+    "TRI16|6": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 6
+    },
+    "TRI16|7": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 7
+    },
+    "TRI16|8": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 8
+    },
+    "TRI16|9": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 9
+    },
+    "TRI16|10": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 10
+    },
+    "TRI16|11": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 11
+    },
+    "TRI16|12": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 12
+    },
+    "TRI16|13": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 13
+    },
+    "TRI16|14": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 14
+    },
+    "TRI16|15": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 15
+    },
+    "TRI16|16": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 16
+    },
+    "TRI16|17": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 17
+    },
+    "TRI16|18": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 18
+    },
+    "TRI16|19": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 19
+    },
+    "TRI16|20": {
+        "series": "TriangleWave",
+        "amplitude": 16,
+        "frequency": 20
+    },
+    "TRI17|1": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 1
+    },
+    "TRI17|2": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 2
+    },
+    "TRI17|3": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 3
+    },
+    "TRI17|4": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 4
+    },
+    "TRI17|5": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 5
+    },
+    "TRI17|6": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 6
+    },
+    "TRI17|7": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 7
+    },
+    "TRI17|8": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 8
+    },
+    "TRI17|9": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 9
+    },
+    "TRI17|10": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 10
+    },
+    "TRI17|11": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 11
+    },
+    "TRI17|12": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 12
+    },
+    "TRI17|13": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 13
+    },
+    "TRI17|14": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 14
+    },
+    "TRI17|15": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 15
+    },
+    "TRI17|16": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 16
+    },
+    "TRI17|17": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 17
+    },
+    "TRI17|18": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 18
+    },
+    "TRI17|19": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 19
+    },
+    "TRI17|20": {
+        "series": "TriangleWave",
+        "amplitude": 17,
+        "frequency": 20
+    },
+    "TRI18|1": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 1
+    },
+    "TRI18|2": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 2
+    },
+    "TRI18|3": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 3
+    },
+    "TRI18|4": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 4
+    },
+    "TRI18|5": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 5
+    },
+    "TRI18|6": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 6
+    },
+    "TRI18|7": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 7
+    },
+    "TRI18|8": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 8
+    },
+    "TRI18|9": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 9
+    },
+    "TRI18|10": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 10
+    },
+    "TRI18|11": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 11
+    },
+    "TRI18|12": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 12
+    },
+    "TRI18|13": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 13
+    },
+    "TRI18|14": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 14
+    },
+    "TRI18|15": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 15
+    },
+    "TRI18|16": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 16
+    },
+    "TRI18|17": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 17
+    },
+    "TRI18|18": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 18
+    },
+    "TRI18|19": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 19
+    },
+    "TRI18|20": {
+        "series": "TriangleWave",
+        "amplitude": 18,
+        "frequency": 20
+    },
+    "TRI19|1": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 1
+    },
+    "TRI19|2": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 2
+    },
+    "TRI19|3": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 3
+    },
+    "TRI19|4": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 4
+    },
+    "TRI19|5": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 5
+    },
+    "TRI19|6": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 6
+    },
+    "TRI19|7": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 7
+    },
+    "TRI19|8": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 8
+    },
+    "TRI19|9": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 9
+    },
+    "TRI19|10": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 10
+    },
+    "TRI19|11": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 11
+    },
+    "TRI19|12": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 12
+    },
+    "TRI19|13": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 13
+    },
+    "TRI19|14": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 14
+    },
+    "TRI19|15": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 15
+    },
+    "TRI19|16": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 16
+    },
+    "TRI19|17": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 17
+    },
+    "TRI19|18": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 18
+    },
+    "TRI19|19": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 19
+    },
+    "TRI19|20": {
+        "series": "TriangleWave",
+        "amplitude": 19,
+        "frequency": 20
+    },
+    "TRI20|1": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 1
+    },
+    "TRI20|2": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 2
+    },
+    "TRI20|3": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 3
+    },
+    "TRI20|4": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 4
+    },
+    "TRI20|5": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 5
+    },
+    "TRI20|6": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 6
+    },
+    "TRI20|7": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 7
+    },
+    "TRI20|8": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 8
+    },
+    "TRI20|9": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 9
+    },
+    "TRI20|10": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 10
+    },
+    "TRI20|11": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 11
+    },
+    "TRI20|12": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 12
+    },
+    "TRI20|13": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 13
+    },
+    "TRI20|14": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 14
+    },
+    "TRI20|15": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 15
+    },
+    "TRI20|16": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 16
+    },
+    "TRI20|17": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 17
+    },
+    "TRI20|18": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 18
+    },
+    "TRI20|19": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 19
+    },
+    "TRI20|20": {
+        "series": "TriangleWave",
+        "amplitude": 20,
+        "frequency": 20
+    },
+    "TRI21|1": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 1
+    },
+    "TRI21|2": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 2
+    },
+    "TRI21|3": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 3
+    },
+    "TRI21|4": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 4
+    },
+    "TRI21|5": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 5
+    },
+    "TRI21|6": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 6
+    },
+    "TRI21|7": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 7
+    },
+    "TRI21|8": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 8
+    },
+    "TRI21|9": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 9
+    },
+    "TRI21|10": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 10
+    },
+    "TRI21|11": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 11
+    },
+    "TRI21|12": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 12
+    },
+    "TRI21|13": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 13
+    },
+    "TRI21|14": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 14
+    },
+    "TRI21|15": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 15
+    },
+    "TRI21|16": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 16
+    },
+    "TRI21|17": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 17
+    },
+    "TRI21|18": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 18
+    },
+    "TRI21|19": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 19
+    },
+    "TRI21|20": {
+        "series": "TriangleWave",
+        "amplitude": 21,
+        "frequency": 20
+    },
+    "TRI22|1": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 1
+    },
+    "TRI22|2": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 2
+    },
+    "TRI22|3": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 3
+    },
+    "TRI22|4": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 4
+    },
+    "TRI22|5": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 5
+    },
+    "TRI22|6": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 6
+    },
+    "TRI22|7": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 7
+    },
+    "TRI22|8": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 8
+    },
+    "TRI22|9": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 9
+    },
+    "TRI22|10": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 10
+    },
+    "TRI22|11": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 11
+    },
+    "TRI22|12": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 12
+    },
+    "TRI22|13": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 13
+    },
+    "TRI22|14": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 14
+    },
+    "TRI22|15": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 15
+    },
+    "TRI22|16": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 16
+    },
+    "TRI22|17": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 17
+    },
+    "TRI22|18": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 18
+    },
+    "TRI22|19": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 19
+    },
+    "TRI22|20": {
+        "series": "TriangleWave",
+        "amplitude": 22,
+        "frequency": 20
+    },
+    "TRI23|1": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 1
+    },
+    "TRI23|2": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 2
+    },
+    "TRI23|3": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 3
+    },
+    "TRI23|4": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 4
+    },
+    "TRI23|5": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 5
+    },
+    "TRI23|6": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 6
+    },
+    "TRI23|7": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 7
+    },
+    "TRI23|8": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 8
+    },
+    "TRI23|9": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 9
+    },
+    "TRI23|10": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 10
+    },
+    "TRI23|11": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 11
+    },
+    "TRI23|12": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 12
+    },
+    "TRI23|13": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 13
+    },
+    "TRI23|14": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 14
+    },
+    "TRI23|15": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 15
+    },
+    "TRI23|16": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 16
+    },
+    "TRI23|17": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 17
+    },
+    "TRI23|18": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 18
+    },
+    "TRI23|19": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 19
+    },
+    "TRI23|20": {
+        "series": "TriangleWave",
+        "amplitude": 23,
+        "frequency": 20
+    },
+    "TRI24|1": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 1
+    },
+    "TRI24|2": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 2
+    },
+    "TRI24|3": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 3
+    },
+    "TRI24|4": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 4
+    },
+    "TRI24|5": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 5
+    },
+    "TRI24|6": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 6
+    },
+    "TRI24|7": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 7
+    },
+    "TRI24|8": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 8
+    },
+    "TRI24|9": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 9
+    },
+    "TRI24|10": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 10
+    },
+    "TRI24|11": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 11
+    },
+    "TRI24|12": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 12
+    },
+    "TRI24|13": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 13
+    },
+    "TRI24|14": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 14
+    },
+    "TRI24|15": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 15
+    },
+    "TRI24|16": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 16
+    },
+    "TRI24|17": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 17
+    },
+    "TRI24|18": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 18
+    },
+    "TRI24|19": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 19
+    },
+    "TRI24|20": {
+        "series": "TriangleWave",
+        "amplitude": 24,
+        "frequency": 20
+    },
+    "TRI25|1": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 1
+    },
+    "TRI25|2": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 2
+    },
+    "TRI25|3": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 3
+    },
+    "TRI25|4": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 4
+    },
+    "TRI25|5": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 5
+    },
+    "TRI25|6": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 6
+    },
+    "TRI25|7": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 7
+    },
+    "TRI25|8": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 8
+    },
+    "TRI25|9": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 9
+    },
+    "TRI25|10": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 10
+    },
+    "TRI25|11": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 11
+    },
+    "TRI25|12": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 12
+    },
+    "TRI25|13": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 13
+    },
+    "TRI25|14": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 14
+    },
+    "TRI25|15": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 15
+    },
+    "TRI25|16": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 16
+    },
+    "TRI25|17": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 17
+    },
+    "TRI25|18": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 18
+    },
+    "TRI25|19": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 19
+    },
+    "TRI25|20": {
+        "series": "TriangleWave",
+        "amplitude": 25,
+        "frequency": 20
+    },
+    "TRI26|1": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 1
+    },
+    "TRI26|2": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 2
+    },
+    "TRI26|3": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 3
+    },
+    "TRI26|4": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 4
+    },
+    "TRI26|5": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 5
+    },
+    "TRI26|6": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 6
+    },
+    "TRI26|7": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 7
+    },
+    "TRI26|8": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 8
+    },
+    "TRI26|9": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 9
+    },
+    "TRI26|10": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 10
+    },
+    "TRI26|11": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 11
+    },
+    "TRI26|12": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 12
+    },
+    "TRI26|13": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 13
+    },
+    "TRI26|14": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 14
+    },
+    "TRI26|15": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 15
+    },
+    "TRI26|16": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 16
+    },
+    "TRI26|17": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 17
+    },
+    "TRI26|18": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 18
+    },
+    "TRI26|19": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 19
+    },
+    "TRI26|20": {
+        "series": "TriangleWave",
+        "amplitude": 26,
+        "frequency": 20
+    },
+    "TRI27|1": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 1
+    },
+    "TRI27|2": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 2
+    },
+    "TRI27|3": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 3
+    },
+    "TRI27|4": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 4
+    },
+    "TRI27|5": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 5
+    },
+    "TRI27|6": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 6
+    },
+    "TRI27|7": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 7
+    },
+    "TRI27|8": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 8
+    },
+    "TRI27|9": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 9
+    },
+    "TRI27|10": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 10
+    },
+    "TRI27|11": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 11
+    },
+    "TRI27|12": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 12
+    },
+    "TRI27|13": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 13
+    },
+    "TRI27|14": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 14
+    },
+    "TRI27|15": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 15
+    },
+    "TRI27|16": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 16
+    },
+    "TRI27|17": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 17
+    },
+    "TRI27|18": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 18
+    },
+    "TRI27|19": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 19
+    },
+    "TRI27|20": {
+        "series": "TriangleWave",
+        "amplitude": 27,
+        "frequency": 20
+    },
+    "TRI28|1": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 1
+    },
+    "TRI28|2": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 2
+    },
+    "TRI28|3": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 3
+    },
+    "TRI28|4": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 4
+    },
+    "TRI28|5": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 5
+    },
+    "TRI28|6": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 6
+    },
+    "TRI28|7": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 7
+    },
+    "TRI28|8": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 8
+    },
+    "TRI28|9": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 9
+    },
+    "TRI28|10": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 10
+    },
+    "TRI28|11": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 11
+    },
+    "TRI28|12": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 12
+    },
+    "TRI28|13": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 13
+    },
+    "TRI28|14": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 14
+    },
+    "TRI28|15": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 15
+    },
+    "TRI28|16": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 16
+    },
+    "TRI28|17": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 17
+    },
+    "TRI28|18": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 18
+    },
+    "TRI28|19": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 19
+    },
+    "TRI28|20": {
+        "series": "TriangleWave",
+        "amplitude": 28,
+        "frequency": 20
+    },
+    "TRI29|1": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 1
+    },
+    "TRI29|2": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 2
+    },
+    "TRI29|3": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 3
+    },
+    "TRI29|4": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 4
+    },
+    "TRI29|5": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 5
+    },
+    "TRI29|6": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 6
+    },
+    "TRI29|7": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 7
+    },
+    "TRI29|8": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 8
+    },
+    "TRI29|9": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 9
+    },
+    "TRI29|10": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 10
+    },
+    "TRI29|11": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 11
+    },
+    "TRI29|12": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 12
+    },
+    "TRI29|13": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 13
+    },
+    "TRI29|14": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 14
+    },
+    "TRI29|15": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 15
+    },
+    "TRI29|16": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 16
+    },
+    "TRI29|17": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 17
+    },
+    "TRI29|18": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 18
+    },
+    "TRI29|19": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 19
+    },
+    "TRI29|20": {
+        "series": "TriangleWave",
+        "amplitude": 29,
+        "frequency": 20
+    },
+    "TRI30|1": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 1
+    },
+    "TRI30|2": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 2
+    },
+    "TRI30|3": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 3
+    },
+    "TRI30|4": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 4
+    },
+    "TRI30|5": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 5
+    },
+    "TRI30|6": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 6
+    },
+    "TRI30|7": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 7
+    },
+    "TRI30|8": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 8
+    },
+    "TRI30|9": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 9
+    },
+    "TRI30|10": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 10
+    },
+    "TRI30|11": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 11
+    },
+    "TRI30|12": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 12
+    },
+    "TRI30|13": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 13
+    },
+    "TRI30|14": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 14
+    },
+    "TRI30|15": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 15
+    },
+    "TRI30|16": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 16
+    },
+    "TRI30|17": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 17
+    },
+    "TRI30|18": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 18
+    },
+    "TRI30|19": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 19
+    },
+    "TRI30|20": {
+        "series": "TriangleWave",
+        "amplitude": 30,
+        "frequency": 20
+    },
+    "TRI31|1": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 1
+    },
+    "TRI31|2": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 2
+    },
+    "TRI31|3": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 3
+    },
+    "TRI31|4": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 4
+    },
+    "TRI31|5": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 5
+    },
+    "TRI31|6": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 6
+    },
+    "TRI31|7": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 7
+    },
+    "TRI31|8": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 8
+    },
+    "TRI31|9": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 9
+    },
+    "TRI31|10": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 10
+    },
+    "TRI31|11": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 11
+    },
+    "TRI31|12": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 12
+    },
+    "TRI31|13": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 13
+    },
+    "TRI31|14": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 14
+    },
+    "TRI31|15": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 15
+    },
+    "TRI31|16": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 16
+    },
+    "TRI31|17": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 17
+    },
+    "TRI31|18": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 18
+    },
+    "TRI31|19": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 19
+    },
+    "TRI31|20": {
+        "series": "TriangleWave",
+        "amplitude": 31,
+        "frequency": 20
+    },
+    "TRI32|1": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 1
+    },
+    "TRI32|2": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 2
+    },
+    "TRI32|3": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 3
+    },
+    "TRI32|4": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 4
+    },
+    "TRI32|5": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 5
+    },
+    "TRI32|6": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 6
+    },
+    "TRI32|7": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 7
+    },
+    "TRI32|8": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 8
+    },
+    "TRI32|9": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 9
+    },
+    "TRI32|10": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 10
+    },
+    "TRI32|11": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 11
+    },
+    "TRI32|12": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 12
+    },
+    "TRI32|13": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 13
+    },
+    "TRI32|14": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 14
+    },
+    "TRI32|15": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 15
+    },
+    "TRI32|16": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 16
+    },
+    "TRI32|17": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 17
+    },
+    "TRI32|18": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 18
+    },
+    "TRI32|19": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 19
+    },
+    "TRI32|20": {
+        "series": "TriangleWave",
+        "amplitude": 32,
+        "frequency": 20
+    },
+    "TRI33|1": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 1
+    },
+    "TRI33|2": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 2
+    },
+    "TRI33|3": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 3
+    },
+    "TRI33|4": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 4
+    },
+    "TRI33|5": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 5
+    },
+    "TRI33|6": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 6
+    },
+    "TRI33|7": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 7
+    },
+    "TRI33|8": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 8
+    },
+    "TRI33|9": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 9
+    },
+    "TRI33|10": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 10
+    },
+    "TRI33|11": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 11
+    },
+    "TRI33|12": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 12
+    },
+    "TRI33|13": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 13
+    },
+    "TRI33|14": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 14
+    },
+    "TRI33|15": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 15
+    },
+    "TRI33|16": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 16
+    },
+    "TRI33|17": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 17
+    },
+    "TRI33|18": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 18
+    },
+    "TRI33|19": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 19
+    },
+    "TRI33|20": {
+        "series": "TriangleWave",
+        "amplitude": 33,
+        "frequency": 20
+    },
+    "TRI34|1": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 1
+    },
+    "TRI34|2": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 2
+    },
+    "TRI34|3": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 3
+    },
+    "TRI34|4": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 4
+    },
+    "TRI34|5": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 5
+    },
+    "TRI34|6": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 6
+    },
+    "TRI34|7": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 7
+    },
+    "TRI34|8": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 8
+    },
+    "TRI34|9": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 9
+    },
+    "TRI34|10": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 10
+    },
+    "TRI34|11": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 11
+    },
+    "TRI34|12": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 12
+    },
+    "TRI34|13": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 13
+    },
+    "TRI34|14": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 14
+    },
+    "TRI34|15": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 15
+    },
+    "TRI34|16": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 16
+    },
+    "TRI34|17": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 17
+    },
+    "TRI34|18": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 18
+    },
+    "TRI34|19": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 19
+    },
+    "TRI34|20": {
+        "series": "TriangleWave",
+        "amplitude": 34,
+        "frequency": 20
+    },
+    "TRI35|1": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 1
+    },
+    "TRI35|2": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 2
+    },
+    "TRI35|3": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 3
+    },
+    "TRI35|4": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 4
+    },
+    "TRI35|5": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 5
+    },
+    "TRI35|6": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 6
+    },
+    "TRI35|7": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 7
+    },
+    "TRI35|8": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 8
+    },
+    "TRI35|9": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 9
+    },
+    "TRI35|10": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 10
+    },
+    "TRI35|11": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 11
+    },
+    "TRI35|12": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 12
+    },
+    "TRI35|13": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 13
+    },
+    "TRI35|14": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 14
+    },
+    "TRI35|15": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 15
+    },
+    "TRI35|16": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 16
+    },
+    "TRI35|17": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 17
+    },
+    "TRI35|18": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 18
+    },
+    "TRI35|19": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 19
+    },
+    "TRI35|20": {
+        "series": "TriangleWave",
+        "amplitude": 35,
+        "frequency": 20
+    },
+    "TRI36|1": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 1
+    },
+    "TRI36|2": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 2
+    },
+    "TRI36|3": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 3
+    },
+    "TRI36|4": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 4
+    },
+    "TRI36|5": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 5
+    },
+    "TRI36|6": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 6
+    },
+    "TRI36|7": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 7
+    },
+    "TRI36|8": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 8
+    },
+    "TRI36|9": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 9
+    },
+    "TRI36|10": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 10
+    },
+    "TRI36|11": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 11
+    },
+    "TRI36|12": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 12
+    },
+    "TRI36|13": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 13
+    },
+    "TRI36|14": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 14
+    },
+    "TRI36|15": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 15
+    },
+    "TRI36|16": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 16
+    },
+    "TRI36|17": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 17
+    },
+    "TRI36|18": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 18
+    },
+    "TRI36|19": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 19
+    },
+    "TRI36|20": {
+        "series": "TriangleWave",
+        "amplitude": 36,
+        "frequency": 20
+    },
+    "TRI37|1": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 1
+    },
+    "TRI37|2": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 2
+    },
+    "TRI37|3": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 3
+    },
+    "TRI37|4": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 4
+    },
+    "TRI37|5": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 5
+    },
+    "TRI37|6": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 6
+    },
+    "TRI37|7": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 7
+    },
+    "TRI37|8": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 8
+    },
+    "TRI37|9": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 9
+    },
+    "TRI37|10": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 10
+    },
+    "TRI37|11": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 11
+    },
+    "TRI37|12": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 12
+    },
+    "TRI37|13": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 13
+    },
+    "TRI37|14": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 14
+    },
+    "TRI37|15": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 15
+    },
+    "TRI37|16": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 16
+    },
+    "TRI37|17": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 17
+    },
+    "TRI37|18": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 18
+    },
+    "TRI37|19": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 19
+    },
+    "TRI37|20": {
+        "series": "TriangleWave",
+        "amplitude": 37,
+        "frequency": 20
+    },
+    "TRI38|1": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 1
+    },
+    "TRI38|2": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 2
+    },
+    "TRI38|3": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 3
+    },
+    "TRI38|4": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 4
+    },
+    "TRI38|5": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 5
+    },
+    "TRI38|6": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 6
+    },
+    "TRI38|7": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 7
+    },
+    "TRI38|8": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 8
+    },
+    "TRI38|9": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 9
+    },
+    "TRI38|10": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 10
+    },
+    "TRI38|11": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 11
+    },
+    "TRI38|12": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 12
+    },
+    "TRI38|13": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 13
+    },
+    "TRI38|14": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 14
+    },
+    "TRI38|15": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 15
+    },
+    "TRI38|16": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 16
+    },
+    "TRI38|17": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 17
+    },
+    "TRI38|18": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 18
+    },
+    "TRI38|19": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 19
+    },
+    "TRI38|20": {
+        "series": "TriangleWave",
+        "amplitude": 38,
+        "frequency": 20
+    },
+    "TRI39|1": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 1
+    },
+    "TRI39|2": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 2
+    },
+    "TRI39|3": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 3
+    },
+    "TRI39|4": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 4
+    },
+    "TRI39|5": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 5
+    },
+    "TRI39|6": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 6
+    },
+    "TRI39|7": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 7
+    },
+    "TRI39|8": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 8
+    },
+    "TRI39|9": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 9
+    },
+    "TRI39|10": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 10
+    },
+    "TRI39|11": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 11
+    },
+    "TRI39|12": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 12
+    },
+    "TRI39|13": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 13
+    },
+    "TRI39|14": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 14
+    },
+    "TRI39|15": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 15
+    },
+    "TRI39|16": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 16
+    },
+    "TRI39|17": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 17
+    },
+    "TRI39|18": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 18
+    },
+    "TRI39|19": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 19
+    },
+    "TRI39|20": {
+        "series": "TriangleWave",
+        "amplitude": 39,
+        "frequency": 20
+    },
+    "TRI40|1": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 1
+    },
+    "TRI40|2": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 2
+    },
+    "TRI40|3": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 3
+    },
+    "TRI40|4": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 4
+    },
+    "TRI40|5": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 5
+    },
+    "TRI40|6": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 6
+    },
+    "TRI40|7": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 7
+    },
+    "TRI40|8": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 8
+    },
+    "TRI40|9": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 9
+    },
+    "TRI40|10": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 10
+    },
+    "TRI40|11": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 11
+    },
+    "TRI40|12": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 12
+    },
+    "TRI40|13": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 13
+    },
+    "TRI40|14": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 14
+    },
+    "TRI40|15": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 15
+    },
+    "TRI40|16": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 16
+    },
+    "TRI40|17": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 17
+    },
+    "TRI40|18": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 18
+    },
+    "TRI40|19": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 19
+    },
+    "TRI40|20": {
+        "series": "TriangleWave",
+        "amplitude": 40,
+        "frequency": 20
+    },
+    "TRI41|1": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 1
+    },
+    "TRI41|2": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 2
+    },
+    "TRI41|3": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 3
+    },
+    "TRI41|4": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 4
+    },
+    "TRI41|5": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 5
+    },
+    "TRI41|6": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 6
+    },
+    "TRI41|7": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 7
+    },
+    "TRI41|8": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 8
+    },
+    "TRI41|9": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 9
+    },
+    "TRI41|10": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 10
+    },
+    "TRI41|11": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 11
+    },
+    "TRI41|12": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 12
+    },
+    "TRI41|13": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 13
+    },
+    "TRI41|14": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 14
+    },
+    "TRI41|15": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 15
+    },
+    "TRI41|16": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 16
+    },
+    "TRI41|17": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 17
+    },
+    "TRI41|18": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 18
+    },
+    "TRI41|19": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 19
+    },
+    "TRI41|20": {
+        "series": "TriangleWave",
+        "amplitude": 41,
+        "frequency": 20
+    },
+    "TRI42|1": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 1
+    },
+    "TRI42|2": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 2
+    },
+    "TRI42|3": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 3
+    },
+    "TRI42|4": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 4
+    },
+    "TRI42|5": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 5
+    },
+    "TRI42|6": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 6
+    },
+    "TRI42|7": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 7
+    },
+    "TRI42|8": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 8
+    },
+    "TRI42|9": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 9
+    },
+    "TRI42|10": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 10
+    },
+    "TRI42|11": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 11
+    },
+    "TRI42|12": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 12
+    },
+    "TRI42|13": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 13
+    },
+    "TRI42|14": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 14
+    },
+    "TRI42|15": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 15
+    },
+    "TRI42|16": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 16
+    },
+    "TRI42|17": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 17
+    },
+    "TRI42|18": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 18
+    },
+    "TRI42|19": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 19
+    },
+    "TRI42|20": {
+        "series": "TriangleWave",
+        "amplitude": 42,
+        "frequency": 20
+    },
+    "TRI43|1": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 1
+    },
+    "TRI43|2": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 2
+    },
+    "TRI43|3": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 3
+    },
+    "TRI43|4": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 4
+    },
+    "TRI43|5": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 5
+    },
+    "TRI43|6": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 6
+    },
+    "TRI43|7": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 7
+    },
+    "TRI43|8": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 8
+    },
+    "TRI43|9": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 9
+    },
+    "TRI43|10": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 10
+    },
+    "TRI43|11": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 11
+    },
+    "TRI43|12": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 12
+    },
+    "TRI43|13": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 13
+    },
+    "TRI43|14": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 14
+    },
+    "TRI43|15": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 15
+    },
+    "TRI43|16": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 16
+    },
+    "TRI43|17": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 17
+    },
+    "TRI43|18": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 18
+    },
+    "TRI43|19": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 19
+    },
+    "TRI43|20": {
+        "series": "TriangleWave",
+        "amplitude": 43,
+        "frequency": 20
+    },
+    "TRI44|1": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 1
+    },
+    "TRI44|2": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 2
+    },
+    "TRI44|3": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 3
+    },
+    "TRI44|4": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 4
+    },
+    "TRI44|5": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 5
+    },
+    "TRI44|6": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 6
+    },
+    "TRI44|7": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 7
+    },
+    "TRI44|8": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 8
+    },
+    "TRI44|9": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 9
+    },
+    "TRI44|10": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 10
+    },
+    "TRI44|11": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 11
+    },
+    "TRI44|12": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 12
+    },
+    "TRI44|13": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 13
+    },
+    "TRI44|14": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 14
+    },
+    "TRI44|15": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 15
+    },
+    "TRI44|16": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 16
+    },
+    "TRI44|17": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 17
+    },
+    "TRI44|18": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 18
+    },
+    "TRI44|19": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 19
+    },
+    "TRI44|20": {
+        "series": "TriangleWave",
+        "amplitude": 44,
+        "frequency": 20
+    },
+    "TRI45|1": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 1
+    },
+    "TRI45|2": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 2
+    },
+    "TRI45|3": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 3
+    },
+    "TRI45|4": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 4
+    },
+    "TRI45|5": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 5
+    },
+    "TRI45|6": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 6
+    },
+    "TRI45|7": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 7
+    },
+    "TRI45|8": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 8
+    },
+    "TRI45|9": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 9
+    },
+    "TRI45|10": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 10
+    },
+    "TRI45|11": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 11
+    },
+    "TRI45|12": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 12
+    },
+    "TRI45|13": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 13
+    },
+    "TRI45|14": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 14
+    },
+    "TRI45|15": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 15
+    },
+    "TRI45|16": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 16
+    },
+    "TRI45|17": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 17
+    },
+    "TRI45|18": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 18
+    },
+    "TRI45|19": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 19
+    },
+    "TRI45|20": {
+        "series": "TriangleWave",
+        "amplitude": 45,
+        "frequency": 20
+    },
+    "TRI46|1": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 1
+    },
+    "TRI46|2": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 2
+    },
+    "TRI46|3": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 3
+    },
+    "TRI46|4": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 4
+    },
+    "TRI46|5": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 5
+    },
+    "TRI46|6": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 6
+    },
+    "TRI46|7": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 7
+    },
+    "TRI46|8": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 8
+    },
+    "TRI46|9": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 9
+    },
+    "TRI46|10": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 10
+    },
+    "TRI46|11": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 11
+    },
+    "TRI46|12": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 12
+    },
+    "TRI46|13": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 13
+    },
+    "TRI46|14": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 14
+    },
+    "TRI46|15": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 15
+    },
+    "TRI46|16": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 16
+    },
+    "TRI46|17": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 17
+    },
+    "TRI46|18": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 18
+    },
+    "TRI46|19": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 19
+    },
+    "TRI46|20": {
+        "series": "TriangleWave",
+        "amplitude": 46,
+        "frequency": 20
+    },
+    "TRI47|1": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 1
+    },
+    "TRI47|2": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 2
+    },
+    "TRI47|3": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 3
+    },
+    "TRI47|4": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 4
+    },
+    "TRI47|5": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 5
+    },
+    "TRI47|6": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 6
+    },
+    "TRI47|7": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 7
+    },
+    "TRI47|8": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 8
+    },
+    "TRI47|9": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 9
+    },
+    "TRI47|10": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 10
+    },
+    "TRI47|11": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 11
+    },
+    "TRI47|12": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 12
+    },
+    "TRI47|13": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 13
+    },
+    "TRI47|14": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 14
+    },
+    "TRI47|15": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 15
+    },
+    "TRI47|16": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 16
+    },
+    "TRI47|17": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 17
+    },
+    "TRI47|18": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 18
+    },
+    "TRI47|19": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 19
+    },
+    "TRI47|20": {
+        "series": "TriangleWave",
+        "amplitude": 47,
+        "frequency": 20
+    },
+    "TRI48|1": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 1
+    },
+    "TRI48|2": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 2
+    },
+    "TRI48|3": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 3
+    },
+    "TRI48|4": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 4
+    },
+    "TRI48|5": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 5
+    },
+    "TRI48|6": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 6
+    },
+    "TRI48|7": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 7
+    },
+    "TRI48|8": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 8
+    },
+    "TRI48|9": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 9
+    },
+    "TRI48|10": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 10
+    },
+    "TRI48|11": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 11
+    },
+    "TRI48|12": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 12
+    },
+    "TRI48|13": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 13
+    },
+    "TRI48|14": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 14
+    },
+    "TRI48|15": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 15
+    },
+    "TRI48|16": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 16
+    },
+    "TRI48|17": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 17
+    },
+    "TRI48|18": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 18
+    },
+    "TRI48|19": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 19
+    },
+    "TRI48|20": {
+        "series": "TriangleWave",
+        "amplitude": 48,
+        "frequency": 20
+    },
+    "TRI49|1": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 1
+    },
+    "TRI49|2": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 2
+    },
+    "TRI49|3": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 3
+    },
+    "TRI49|4": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 4
+    },
+    "TRI49|5": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 5
+    },
+    "TRI49|6": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 6
+    },
+    "TRI49|7": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 7
+    },
+    "TRI49|8": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 8
+    },
+    "TRI49|9": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 9
+    },
+    "TRI49|10": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 10
+    },
+    "TRI49|11": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 11
+    },
+    "TRI49|12": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 12
+    },
+    "TRI49|13": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 13
+    },
+    "TRI49|14": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 14
+    },
+    "TRI49|15": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 15
+    },
+    "TRI49|16": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 16
+    },
+    "TRI49|17": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 17
+    },
+    "TRI49|18": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 18
+    },
+    "TRI49|19": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 19
+    },
+    "TRI49|20": {
+        "series": "TriangleWave",
+        "amplitude": 49,
+        "frequency": 20
+    },
+    "TRI50|1": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 1
+    },
+    "TRI50|2": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 2
+    },
+    "TRI50|3": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 3
+    },
+    "TRI50|4": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 4
+    },
+    "TRI50|5": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 5
+    },
+    "TRI50|6": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 6
+    },
+    "TRI50|7": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 7
+    },
+    "TRI50|8": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 8
+    },
+    "TRI50|9": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 9
+    },
+    "TRI50|10": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 10
+    },
+    "TRI50|11": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 11
+    },
+    "TRI50|12": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 12
+    },
+    "TRI50|13": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 13
+    },
+    "TRI50|14": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 14
+    },
+    "TRI50|15": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 15
+    },
+    "TRI50|16": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 16
+    },
+    "TRI50|17": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 17
+    },
+    "TRI50|18": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 18
+    },
+    "TRI50|19": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 19
+    },
+    "TRI50|20": {
+        "series": "TriangleWave",
+        "amplitude": 50,
+        "frequency": 20
+    }
+}

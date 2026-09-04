@@ -1,0 +1,5002 @@
+{
+    "SINE1|1": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 1
+    },
+    "SINE1|2": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 2
+    },
+    "SINE1|3": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 3
+    },
+    "SINE1|4": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 4
+    },
+    "SINE1|5": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 5
+    },
+    "SINE1|6": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 6
+    },
+    "SINE1|7": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 7
+    },
+    "SINE1|8": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 8
+    },
+    "SINE1|9": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 9
+    },
+    "SINE1|10": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 10
+    },
+    "SINE1|11": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 11
+    },
+    "SINE1|12": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 12
+    },
+    "SINE1|13": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 13
+    },
+    "SINE1|14": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 14
+    },
+    "SINE1|15": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 15
+    },
+    "SINE1|16": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 16
+    },
+    "SINE1|17": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 17
+    },
+    "SINE1|18": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 18
+    },
+    "SINE1|19": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 19
+    },
+    "SINE1|20": {
+        "series": "SineWave",
+        "amplitude": 1,
+        "frequency": 20
+    },
+    "SINE2|1": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 1
+    },
+    "SINE2|2": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 2
+    },
+    "SINE2|3": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 3
+    },
+    "SINE2|4": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 4
+    },
+    "SINE2|5": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 5
+    },
+    "SINE2|6": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 6
+    },
+    "SINE2|7": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 7
+    },
+    "SINE2|8": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 8
+    },
+    "SINE2|9": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 9
+    },
+    "SINE2|10": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 10
+    },
+    "SINE2|11": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 11
+    },
+    "SINE2|12": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 12
+    },
+    "SINE2|13": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 13
+    },
+    "SINE2|14": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 14
+    },
+    "SINE2|15": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 15
+    },
+    "SINE2|16": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 16
+    },
+    "SINE2|17": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 17
+    },
+    "SINE2|18": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 18
+    },
+    "SINE2|19": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 19
+    },
+    "SINE2|20": {
+        "series": "SineWave",
+        "amplitude": 2,
+        "frequency": 20
+    },
+    "SINE3|1": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 1
+    },
+    "SINE3|2": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 2
+    },
+    "SINE3|3": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 3
+    },
+    "SINE3|4": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 4
+    },
+    "SINE3|5": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 5
+    },
+    "SINE3|6": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 6
+    },
+    "SINE3|7": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 7
+    },
+    "SINE3|8": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 8
+    },
+    "SINE3|9": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 9
+    },
+    "SINE3|10": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 10
+    },
+    "SINE3|11": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 11
+    },
+    "SINE3|12": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 12
+    },
+    "SINE3|13": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 13
+    },
+    "SINE3|14": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 14
+    },
+    "SINE3|15": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 15
+    },
+    "SINE3|16": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 16
+    },
+    "SINE3|17": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 17
+    },
+    "SINE3|18": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 18
+    },
+    "SINE3|19": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 19
+    },
+    "SINE3|20": {
+        "series": "SineWave",
+        "amplitude": 3,
+        "frequency": 20
+    },
+    "SINE4|1": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 1
+    },
+    "SINE4|2": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 2
+    },
+    "SINE4|3": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 3
+    },
+    "SINE4|4": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 4
+    },
+    "SINE4|5": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 5
+    },
+    "SINE4|6": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 6
+    },
+    "SINE4|7": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 7
+    },
+    "SINE4|8": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 8
+    },
+    "SINE4|9": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 9
+    },
+    "SINE4|10": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 10
+    },
+    "SINE4|11": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 11
+    },
+    "SINE4|12": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 12
+    },
+    "SINE4|13": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 13
+    },
+    "SINE4|14": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 14
+    },
+    "SINE4|15": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 15
+    },
+    "SINE4|16": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 16
+    },
+    "SINE4|17": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 17
+    },
+    "SINE4|18": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 18
+    },
+    "SINE4|19": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 19
+    },
+    "SINE4|20": {
+        "series": "SineWave",
+        "amplitude": 4,
+        "frequency": 20
+    },
+    "SINE5|1": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 1
+    },
+    "SINE5|2": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 2
+    },
+    "SINE5|3": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 3
+    },
+    "SINE5|4": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 4
+    },
+    "SINE5|5": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 5
+    },
+    "SINE5|6": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 6
+    },
+    "SINE5|7": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 7
+    },
+    "SINE5|8": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 8
+    },
+    "SINE5|9": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 9
+    },
+    "SINE5|10": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 10
+    },
+    "SINE5|11": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 11
+    },
+    "SINE5|12": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 12
+    },
+    "SINE5|13": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 13
+    },
+    "SINE5|14": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 14
+    },
+    "SINE5|15": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 15
+    },
+    "SINE5|16": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 16
+    },
+    "SINE5|17": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 17
+    },
+    "SINE5|18": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 18
+    },
+    "SINE5|19": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 19
+    },
+    "SINE5|20": {
+        "series": "SineWave",
+        "amplitude": 5,
+        "frequency": 20
+    },
+    "SINE6|1": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 1
+    },
+    "SINE6|2": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 2
+    },
+    "SINE6|3": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 3
+    },
+    "SINE6|4": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 4
+    },
+    "SINE6|5": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 5
+    },
+    "SINE6|6": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 6
+    },
+    "SINE6|7": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 7
+    },
+    "SINE6|8": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 8
+    },
+    "SINE6|9": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 9
+    },
+    "SINE6|10": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 10
+    },
+    "SINE6|11": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 11
+    },
+    "SINE6|12": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 12
+    },
+    "SINE6|13": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 13
+    },
+    "SINE6|14": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 14
+    },
+    "SINE6|15": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 15
+    },
+    "SINE6|16": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 16
+    },
+    "SINE6|17": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 17
+    },
+    "SINE6|18": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 18
+    },
+    "SINE6|19": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 19
+    },
+    "SINE6|20": {
+        "series": "SineWave",
+        "amplitude": 6,
+        "frequency": 20
+    },
+    "SINE7|1": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 1
+    },
+    "SINE7|2": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 2
+    },
+    "SINE7|3": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 3
+    },
+    "SINE7|4": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 4
+    },
+    "SINE7|5": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 5
+    },
+    "SINE7|6": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 6
+    },
+    "SINE7|7": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 7
+    },
+    "SINE7|8": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 8
+    },
+    "SINE7|9": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 9
+    },
+    "SINE7|10": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 10
+    },
+    "SINE7|11": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 11
+    },
+    "SINE7|12": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 12
+    },
+    "SINE7|13": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 13
+    },
+    "SINE7|14": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 14
+    },
+    "SINE7|15": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 15
+    },
+    "SINE7|16": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 16
+    },
+    "SINE7|17": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 17
+    },
+    "SINE7|18": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 18
+    },
+    "SINE7|19": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 19
+    },
+    "SINE7|20": {
+        "series": "SineWave",
+        "amplitude": 7,
+        "frequency": 20
+    },
+    "SINE8|1": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 1
+    },
+    "SINE8|2": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 2
+    },
+    "SINE8|3": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 3
+    },
+    "SINE8|4": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 4
+    },
+    "SINE8|5": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 5
+    },
+    "SINE8|6": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 6
+    },
+    "SINE8|7": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 7
+    },
+    "SINE8|8": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 8
+    },
+    "SINE8|9": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 9
+    },
+    "SINE8|10": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 10
+    },
+    "SINE8|11": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 11
+    },
+    "SINE8|12": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 12
+    },
+    "SINE8|13": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 13
+    },
+    "SINE8|14": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 14
+    },
+    "SINE8|15": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 15
+    },
+    "SINE8|16": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 16
+    },
+    "SINE8|17": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 17
+    },
+    "SINE8|18": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 18
+    },
+    "SINE8|19": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 19
+    },
+    "SINE8|20": {
+        "series": "SineWave",
+        "amplitude": 8,
+        "frequency": 20
+    },
+    "SINE9|1": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 1
+    },
+    "SINE9|2": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 2
+    },
+    "SINE9|3": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 3
+    },
+    "SINE9|4": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 4
+    },
+    "SINE9|5": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 5
+    },
+    "SINE9|6": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 6
+    },
+    "SINE9|7": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 7
+    },
+    "SINE9|8": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 8
+    },
+    "SINE9|9": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 9
+    },
+    "SINE9|10": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 10
+    },
+    "SINE9|11": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 11
+    },
+    "SINE9|12": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 12
+    },
+    "SINE9|13": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 13
+    },
+    "SINE9|14": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 14
+    },
+    "SINE9|15": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 15
+    },
+    "SINE9|16": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 16
+    },
+    "SINE9|17": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 17
+    },
+    "SINE9|18": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 18
+    },
+    "SINE9|19": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 19
+    },
+    "SINE9|20": {
+        "series": "SineWave",
+        "amplitude": 9,
+        "frequency": 20
+    },
+    "SINE10|1": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 1
+    },
+    "SINE10|2": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 2
+    },
+    "SINE10|3": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 3
+    },
+    "SINE10|4": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 4
+    },
+    "SINE10|5": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 5
+    },
+    "SINE10|6": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 6
+    },
+    "SINE10|7": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 7
+    },
+    "SINE10|8": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 8
+    },
+    "SINE10|9": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 9
+    },
+    "SINE10|10": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 10
+    },
+    "SINE10|11": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 11
+    },
+    "SINE10|12": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 12
+    },
+    "SINE10|13": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 13
+    },
+    "SINE10|14": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 14
+    },
+    "SINE10|15": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 15
+    },
+    "SINE10|16": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 16
+    },
+    "SINE10|17": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 17
+    },
+    "SINE10|18": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 18
+    },
+    "SINE10|19": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 19
+    },
+    "SINE10|20": {
+        "series": "SineWave",
+        "amplitude": 10,
+        "frequency": 20
+    },
+    "SINE11|1": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 1
+    },
+    "SINE11|2": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 2
+    },
+    "SINE11|3": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 3
+    },
+    "SINE11|4": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 4
+    },
+    "SINE11|5": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 5
+    },
+    "SINE11|6": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 6
+    },
+    "SINE11|7": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 7
+    },
+    "SINE11|8": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 8
+    },
+    "SINE11|9": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 9
+    },
+    "SINE11|10": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 10
+    },
+    "SINE11|11": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 11
+    },
+    "SINE11|12": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 12
+    },
+    "SINE11|13": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 13
+    },
+    "SINE11|14": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 14
+    },
+    "SINE11|15": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 15
+    },
+    "SINE11|16": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 16
+    },
+    "SINE11|17": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 17
+    },
+    "SINE11|18": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 18
+    },
+    "SINE11|19": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 19
+    },
+    "SINE11|20": {
+        "series": "SineWave",
+        "amplitude": 11,
+        "frequency": 20
+    },
+    "SINE12|1": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 1
+    },
+    "SINE12|2": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 2
+    },
+    "SINE12|3": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 3
+    },
+    "SINE12|4": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 4
+    },
+    "SINE12|5": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 5
+    },
+    "SINE12|6": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 6
+    },
+    "SINE12|7": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 7
+    },
+    "SINE12|8": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 8
+    },
+    "SINE12|9": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 9
+    },
+    "SINE12|10": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 10
+    },
+    "SINE12|11": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 11
+    },
+    "SINE12|12": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 12
+    },
+    "SINE12|13": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 13
+    },
+    "SINE12|14": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 14
+    },
+    "SINE12|15": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 15
+    },
+    "SINE12|16": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 16
+    },
+    "SINE12|17": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 17
+    },
+    "SINE12|18": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 18
+    },
+    "SINE12|19": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 19
+    },
+    "SINE12|20": {
+        "series": "SineWave",
+        "amplitude": 12,
+        "frequency": 20
+    },
+    "SINE13|1": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 1
+    },
+    "SINE13|2": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 2
+    },
+    "SINE13|3": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 3
+    },
+    "SINE13|4": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 4
+    },
+    "SINE13|5": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 5
+    },
+    "SINE13|6": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 6
+    },
+    "SINE13|7": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 7
+    },
+    "SINE13|8": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 8
+    },
+    "SINE13|9": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 9
+    },
+    "SINE13|10": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 10
+    },
+    "SINE13|11": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 11
+    },
+    "SINE13|12": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 12
+    },
+    "SINE13|13": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 13
+    },
+    "SINE13|14": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 14
+    },
+    "SINE13|15": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 15
+    },
+    "SINE13|16": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 16
+    },
+    "SINE13|17": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 17
+    },
+    "SINE13|18": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 18
+    },
+    "SINE13|19": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 19
+    },
+    "SINE13|20": {
+        "series": "SineWave",
+        "amplitude": 13,
+        "frequency": 20
+    },
+    "SINE14|1": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 1
+    },
+    "SINE14|2": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 2
+    },
+    "SINE14|3": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 3
+    },
+    "SINE14|4": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 4
+    },
+    "SINE14|5": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 5
+    },
+    "SINE14|6": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 6
+    },
+    "SINE14|7": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 7
+    },
+    "SINE14|8": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 8
+    },
+    "SINE14|9": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 9
+    },
+    "SINE14|10": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 10
+    },
+    "SINE14|11": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 11
+    },
+    "SINE14|12": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 12
+    },
+    "SINE14|13": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 13
+    },
+    "SINE14|14": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 14
+    },
+    "SINE14|15": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 15
+    },
+    "SINE14|16": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 16
+    },
+    "SINE14|17": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 17
+    },
+    "SINE14|18": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 18
+    },
+    "SINE14|19": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 19
+    },
+    "SINE14|20": {
+        "series": "SineWave",
+        "amplitude": 14,
+        "frequency": 20
+    },
+    "SINE15|1": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 1
+    },
+    "SINE15|2": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 2
+    },
+    "SINE15|3": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 3
+    },
+    "SINE15|4": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 4
+    },
+    "SINE15|5": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 5
+    },
+    "SINE15|6": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 6
+    },
+    "SINE15|7": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 7
+    },
+    "SINE15|8": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 8
+    },
+    "SINE15|9": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 9
+    },
+    "SINE15|10": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 10
+    },
+    "SINE15|11": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 11
+    },
+    "SINE15|12": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 12
+    },
+    "SINE15|13": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 13
+    },
+    "SINE15|14": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 14
+    },
+    "SINE15|15": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 15
+    },
+    "SINE15|16": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 16
+    },
+    "SINE15|17": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 17
+    },
+    "SINE15|18": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 18
+    },
+    "SINE15|19": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 19
+    },
+    "SINE15|20": {
+        "series": "SineWave",
+        "amplitude": 15,
+        "frequency": 20
+    },
+    "SINE16|1": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 1
+    },
+    "SINE16|2": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 2
+    },
+    "SINE16|3": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 3
+    },
+    "SINE16|4": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 4
+    },
+    "SINE16|5": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 5
+    },
+    "SINE16|6": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 6
+    },
+    "SINE16|7": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 7
+    },
+    "SINE16|8": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 8
+    },
+    "SINE16|9": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 9
+    },
+    "SINE16|10": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 10
+    },
+    "SINE16|11": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 11
+    },
+    "SINE16|12": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 12
+    },
+    "SINE16|13": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 13
+    },
+    "SINE16|14": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 14
+    },
+    "SINE16|15": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 15
+    },
+    "SINE16|16": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 16
+    },
+    "SINE16|17": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 17
+    },
+    "SINE16|18": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 18
+    },
+    "SINE16|19": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 19
+    },
+    "SINE16|20": {
+        "series": "SineWave",
+        "amplitude": 16,
+        "frequency": 20
+    },
+    "SINE17|1": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 1
+    },
+    "SINE17|2": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 2
+    },
+    "SINE17|3": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 3
+    },
+    "SINE17|4": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 4
+    },
+    "SINE17|5": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 5
+    },
+    "SINE17|6": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 6
+    },
+    "SINE17|7": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 7
+    },
+    "SINE17|8": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 8
+    },
+    "SINE17|9": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 9
+    },
+    "SINE17|10": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 10
+    },
+    "SINE17|11": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 11
+    },
+    "SINE17|12": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 12
+    },
+    "SINE17|13": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 13
+    },
+    "SINE17|14": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 14
+    },
+    "SINE17|15": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 15
+    },
+    "SINE17|16": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 16
+    },
+    "SINE17|17": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 17
+    },
+    "SINE17|18": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 18
+    },
+    "SINE17|19": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 19
+    },
+    "SINE17|20": {
+        "series": "SineWave",
+        "amplitude": 17,
+        "frequency": 20
+    },
+    "SINE18|1": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 1
+    },
+    "SINE18|2": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 2
+    },
+    "SINE18|3": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 3
+    },
+    "SINE18|4": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 4
+    },
+    "SINE18|5": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 5
+    },
+    "SINE18|6": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 6
+    },
+    "SINE18|7": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 7
+    },
+    "SINE18|8": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 8
+    },
+    "SINE18|9": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 9
+    },
+    "SINE18|10": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 10
+    },
+    "SINE18|11": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 11
+    },
+    "SINE18|12": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 12
+    },
+    "SINE18|13": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 13
+    },
+    "SINE18|14": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 14
+    },
+    "SINE18|15": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 15
+    },
+    "SINE18|16": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 16
+    },
+    "SINE18|17": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 17
+    },
+    "SINE18|18": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 18
+    },
+    "SINE18|19": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 19
+    },
+    "SINE18|20": {
+        "series": "SineWave",
+        "amplitude": 18,
+        "frequency": 20
+    },
+    "SINE19|1": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 1
+    },
+    "SINE19|2": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 2
+    },
+    "SINE19|3": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 3
+    },
+    "SINE19|4": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 4
+    },
+    "SINE19|5": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 5
+    },
+    "SINE19|6": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 6
+    },
+    "SINE19|7": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 7
+    },
+    "SINE19|8": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 8
+    },
+    "SINE19|9": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 9
+    },
+    "SINE19|10": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 10
+    },
+    "SINE19|11": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 11
+    },
+    "SINE19|12": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 12
+    },
+    "SINE19|13": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 13
+    },
+    "SINE19|14": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 14
+    },
+    "SINE19|15": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 15
+    },
+    "SINE19|16": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 16
+    },
+    "SINE19|17": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 17
+    },
+    "SINE19|18": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 18
+    },
+    "SINE19|19": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 19
+    },
+    "SINE19|20": {
+        "series": "SineWave",
+        "amplitude": 19,
+        "frequency": 20
+    },
+    "SINE20|1": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 1
+    },
+    "SINE20|2": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 2
+    },
+    "SINE20|3": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 3
+    },
+    "SINE20|4": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 4
+    },
+    "SINE20|5": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 5
+    },
+    "SINE20|6": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 6
+    },
+    "SINE20|7": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 7
+    },
+    "SINE20|8": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 8
+    },
+    "SINE20|9": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 9
+    },
+    "SINE20|10": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 10
+    },
+    "SINE20|11": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 11
+    },
+    "SINE20|12": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 12
+    },
+    "SINE20|13": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 13
+    },
+    "SINE20|14": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 14
+    },
+    "SINE20|15": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 15
+    },
+    "SINE20|16": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 16
+    },
+    "SINE20|17": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 17
+    },
+    "SINE20|18": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 18
+    },
+    "SINE20|19": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 19
+    },
+    "SINE20|20": {
+        "series": "SineWave",
+        "amplitude": 20,
+        "frequency": 20
+    },
+    "SINE21|1": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 1
+    },
+    "SINE21|2": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 2
+    },
+    "SINE21|3": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 3
+    },
+    "SINE21|4": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 4
+    },
+    "SINE21|5": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 5
+    },
+    "SINE21|6": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 6
+    },
+    "SINE21|7": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 7
+    },
+    "SINE21|8": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 8
+    },
+    "SINE21|9": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 9
+    },
+    "SINE21|10": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 10
+    },
+    "SINE21|11": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 11
+    },
+    "SINE21|12": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 12
+    },
+    "SINE21|13": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 13
+    },
+    "SINE21|14": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 14
+    },
+    "SINE21|15": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 15
+    },
+    "SINE21|16": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 16
+    },
+    "SINE21|17": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 17
+    },
+    "SINE21|18": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 18
+    },
+    "SINE21|19": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 19
+    },
+    "SINE21|20": {
+        "series": "SineWave",
+        "amplitude": 21,
+        "frequency": 20
+    },
+    "SINE22|1": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 1
+    },
+    "SINE22|2": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 2
+    },
+    "SINE22|3": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 3
+    },
+    "SINE22|4": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 4
+    },
+    "SINE22|5": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 5
+    },
+    "SINE22|6": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 6
+    },
+    "SINE22|7": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 7
+    },
+    "SINE22|8": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 8
+    },
+    "SINE22|9": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 9
+    },
+    "SINE22|10": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 10
+    },
+    "SINE22|11": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 11
+    },
+    "SINE22|12": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 12
+    },
+    "SINE22|13": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 13
+    },
+    "SINE22|14": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 14
+    },
+    "SINE22|15": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 15
+    },
+    "SINE22|16": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 16
+    },
+    "SINE22|17": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 17
+    },
+    "SINE22|18": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 18
+    },
+    "SINE22|19": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 19
+    },
+    "SINE22|20": {
+        "series": "SineWave",
+        "amplitude": 22,
+        "frequency": 20
+    },
+    "SINE23|1": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 1
+    },
+    "SINE23|2": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 2
+    },
+    "SINE23|3": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 3
+    },
+    "SINE23|4": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 4
+    },
+    "SINE23|5": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 5
+    },
+    "SINE23|6": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 6
+    },
+    "SINE23|7": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 7
+    },
+    "SINE23|8": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 8
+    },
+    "SINE23|9": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 9
+    },
+    "SINE23|10": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 10
+    },
+    "SINE23|11": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 11
+    },
+    "SINE23|12": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 12
+    },
+    "SINE23|13": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 13
+    },
+    "SINE23|14": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 14
+    },
+    "SINE23|15": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 15
+    },
+    "SINE23|16": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 16
+    },
+    "SINE23|17": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 17
+    },
+    "SINE23|18": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 18
+    },
+    "SINE23|19": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 19
+    },
+    "SINE23|20": {
+        "series": "SineWave",
+        "amplitude": 23,
+        "frequency": 20
+    },
+    "SINE24|1": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 1
+    },
+    "SINE24|2": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 2
+    },
+    "SINE24|3": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 3
+    },
+    "SINE24|4": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 4
+    },
+    "SINE24|5": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 5
+    },
+    "SINE24|6": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 6
+    },
+    "SINE24|7": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 7
+    },
+    "SINE24|8": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 8
+    },
+    "SINE24|9": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 9
+    },
+    "SINE24|10": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 10
+    },
+    "SINE24|11": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 11
+    },
+    "SINE24|12": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 12
+    },
+    "SINE24|13": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 13
+    },
+    "SINE24|14": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 14
+    },
+    "SINE24|15": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 15
+    },
+    "SINE24|16": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 16
+    },
+    "SINE24|17": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 17
+    },
+    "SINE24|18": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 18
+    },
+    "SINE24|19": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 19
+    },
+    "SINE24|20": {
+        "series": "SineWave",
+        "amplitude": 24,
+        "frequency": 20
+    },
+    "SINE25|1": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 1
+    },
+    "SINE25|2": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 2
+    },
+    "SINE25|3": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 3
+    },
+    "SINE25|4": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 4
+    },
+    "SINE25|5": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 5
+    },
+    "SINE25|6": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 6
+    },
+    "SINE25|7": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 7
+    },
+    "SINE25|8": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 8
+    },
+    "SINE25|9": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 9
+    },
+    "SINE25|10": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 10
+    },
+    "SINE25|11": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 11
+    },
+    "SINE25|12": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 12
+    },
+    "SINE25|13": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 13
+    },
+    "SINE25|14": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 14
+    },
+    "SINE25|15": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 15
+    },
+    "SINE25|16": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 16
+    },
+    "SINE25|17": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 17
+    },
+    "SINE25|18": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 18
+    },
+    "SINE25|19": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 19
+    },
+    "SINE25|20": {
+        "series": "SineWave",
+        "amplitude": 25,
+        "frequency": 20
+    },
+    "SINE26|1": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 1
+    },
+    "SINE26|2": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 2
+    },
+    "SINE26|3": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 3
+    },
+    "SINE26|4": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 4
+    },
+    "SINE26|5": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 5
+    },
+    "SINE26|6": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 6
+    },
+    "SINE26|7": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 7
+    },
+    "SINE26|8": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 8
+    },
+    "SINE26|9": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 9
+    },
+    "SINE26|10": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 10
+    },
+    "SINE26|11": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 11
+    },
+    "SINE26|12": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 12
+    },
+    "SINE26|13": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 13
+    },
+    "SINE26|14": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 14
+    },
+    "SINE26|15": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 15
+    },
+    "SINE26|16": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 16
+    },
+    "SINE26|17": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 17
+    },
+    "SINE26|18": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 18
+    },
+    "SINE26|19": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 19
+    },
+    "SINE26|20": {
+        "series": "SineWave",
+        "amplitude": 26,
+        "frequency": 20
+    },
+    "SINE27|1": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 1
+    },
+    "SINE27|2": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 2
+    },
+    "SINE27|3": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 3
+    },
+    "SINE27|4": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 4
+    },
+    "SINE27|5": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 5
+    },
+    "SINE27|6": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 6
+    },
+    "SINE27|7": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 7
+    },
+    "SINE27|8": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 8
+    },
+    "SINE27|9": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 9
+    },
+    "SINE27|10": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 10
+    },
+    "SINE27|11": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 11
+    },
+    "SINE27|12": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 12
+    },
+    "SINE27|13": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 13
+    },
+    "SINE27|14": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 14
+    },
+    "SINE27|15": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 15
+    },
+    "SINE27|16": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 16
+    },
+    "SINE27|17": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 17
+    },
+    "SINE27|18": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 18
+    },
+    "SINE27|19": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 19
+    },
+    "SINE27|20": {
+        "series": "SineWave",
+        "amplitude": 27,
+        "frequency": 20
+    },
+    "SINE28|1": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 1
+    },
+    "SINE28|2": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 2
+    },
+    "SINE28|3": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 3
+    },
+    "SINE28|4": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 4
+    },
+    "SINE28|5": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 5
+    },
+    "SINE28|6": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 6
+    },
+    "SINE28|7": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 7
+    },
+    "SINE28|8": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 8
+    },
+    "SINE28|9": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 9
+    },
+    "SINE28|10": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 10
+    },
+    "SINE28|11": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 11
+    },
+    "SINE28|12": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 12
+    },
+    "SINE28|13": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 13
+    },
+    "SINE28|14": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 14
+    },
+    "SINE28|15": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 15
+    },
+    "SINE28|16": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 16
+    },
+    "SINE28|17": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 17
+    },
+    "SINE28|18": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 18
+    },
+    "SINE28|19": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 19
+    },
+    "SINE28|20": {
+        "series": "SineWave",
+        "amplitude": 28,
+        "frequency": 20
+    },
+    "SINE29|1": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 1
+    },
+    "SINE29|2": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 2
+    },
+    "SINE29|3": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 3
+    },
+    "SINE29|4": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 4
+    },
+    "SINE29|5": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 5
+    },
+    "SINE29|6": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 6
+    },
+    "SINE29|7": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 7
+    },
+    "SINE29|8": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 8
+    },
+    "SINE29|9": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 9
+    },
+    "SINE29|10": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 10
+    },
+    "SINE29|11": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 11
+    },
+    "SINE29|12": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 12
+    },
+    "SINE29|13": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 13
+    },
+    "SINE29|14": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 14
+    },
+    "SINE29|15": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 15
+    },
+    "SINE29|16": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 16
+    },
+    "SINE29|17": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 17
+    },
+    "SINE29|18": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 18
+    },
+    "SINE29|19": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 19
+    },
+    "SINE29|20": {
+        "series": "SineWave",
+        "amplitude": 29,
+        "frequency": 20
+    },
+    "SINE30|1": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 1
+    },
+    "SINE30|2": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 2
+    },
+    "SINE30|3": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 3
+    },
+    "SINE30|4": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 4
+    },
+    "SINE30|5": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 5
+    },
+    "SINE30|6": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 6
+    },
+    "SINE30|7": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 7
+    },
+    "SINE30|8": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 8
+    },
+    "SINE30|9": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 9
+    },
+    "SINE30|10": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 10
+    },
+    "SINE30|11": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 11
+    },
+    "SINE30|12": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 12
+    },
+    "SINE30|13": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 13
+    },
+    "SINE30|14": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 14
+    },
+    "SINE30|15": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 15
+    },
+    "SINE30|16": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 16
+    },
+    "SINE30|17": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 17
+    },
+    "SINE30|18": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 18
+    },
+    "SINE30|19": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 19
+    },
+    "SINE30|20": {
+        "series": "SineWave",
+        "amplitude": 30,
+        "frequency": 20
+    },
+    "SINE31|1": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 1
+    },
+    "SINE31|2": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 2
+    },
+    "SINE31|3": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 3
+    },
+    "SINE31|4": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 4
+    },
+    "SINE31|5": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 5
+    },
+    "SINE31|6": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 6
+    },
+    "SINE31|7": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 7
+    },
+    "SINE31|8": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 8
+    },
+    "SINE31|9": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 9
+    },
+    "SINE31|10": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 10
+    },
+    "SINE31|11": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 11
+    },
+    "SINE31|12": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 12
+    },
+    "SINE31|13": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 13
+    },
+    "SINE31|14": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 14
+    },
+    "SINE31|15": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 15
+    },
+    "SINE31|16": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 16
+    },
+    "SINE31|17": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 17
+    },
+    "SINE31|18": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 18
+    },
+    "SINE31|19": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 19
+    },
+    "SINE31|20": {
+        "series": "SineWave",
+        "amplitude": 31,
+        "frequency": 20
+    },
+    "SINE32|1": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 1
+    },
+    "SINE32|2": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 2
+    },
+    "SINE32|3": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 3
+    },
+    "SINE32|4": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 4
+    },
+    "SINE32|5": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 5
+    },
+    "SINE32|6": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 6
+    },
+    "SINE32|7": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 7
+    },
+    "SINE32|8": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 8
+    },
+    "SINE32|9": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 9
+    },
+    "SINE32|10": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 10
+    },
+    "SINE32|11": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 11
+    },
+    "SINE32|12": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 12
+    },
+    "SINE32|13": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 13
+    },
+    "SINE32|14": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 14
+    },
+    "SINE32|15": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 15
+    },
+    "SINE32|16": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 16
+    },
+    "SINE32|17": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 17
+    },
+    "SINE32|18": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 18
+    },
+    "SINE32|19": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 19
+    },
+    "SINE32|20": {
+        "series": "SineWave",
+        "amplitude": 32,
+        "frequency": 20
+    },
+    "SINE33|1": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 1
+    },
+    "SINE33|2": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 2
+    },
+    "SINE33|3": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 3
+    },
+    "SINE33|4": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 4
+    },
+    "SINE33|5": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 5
+    },
+    "SINE33|6": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 6
+    },
+    "SINE33|7": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 7
+    },
+    "SINE33|8": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 8
+    },
+    "SINE33|9": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 9
+    },
+    "SINE33|10": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 10
+    },
+    "SINE33|11": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 11
+    },
+    "SINE33|12": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 12
+    },
+    "SINE33|13": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 13
+    },
+    "SINE33|14": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 14
+    },
+    "SINE33|15": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 15
+    },
+    "SINE33|16": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 16
+    },
+    "SINE33|17": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 17
+    },
+    "SINE33|18": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 18
+    },
+    "SINE33|19": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 19
+    },
+    "SINE33|20": {
+        "series": "SineWave",
+        "amplitude": 33,
+        "frequency": 20
+    },
+    "SINE34|1": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 1
+    },
+    "SINE34|2": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 2
+    },
+    "SINE34|3": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 3
+    },
+    "SINE34|4": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 4
+    },
+    "SINE34|5": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 5
+    },
+    "SINE34|6": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 6
+    },
+    "SINE34|7": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 7
+    },
+    "SINE34|8": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 8
+    },
+    "SINE34|9": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 9
+    },
+    "SINE34|10": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 10
+    },
+    "SINE34|11": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 11
+    },
+    "SINE34|12": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 12
+    },
+    "SINE34|13": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 13
+    },
+    "SINE34|14": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 14
+    },
+    "SINE34|15": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 15
+    },
+    "SINE34|16": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 16
+    },
+    "SINE34|17": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 17
+    },
+    "SINE34|18": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 18
+    },
+    "SINE34|19": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 19
+    },
+    "SINE34|20": {
+        "series": "SineWave",
+        "amplitude": 34,
+        "frequency": 20
+    },
+    "SINE35|1": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 1
+    },
+    "SINE35|2": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 2
+    },
+    "SINE35|3": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 3
+    },
+    "SINE35|4": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 4
+    },
+    "SINE35|5": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 5
+    },
+    "SINE35|6": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 6
+    },
+    "SINE35|7": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 7
+    },
+    "SINE35|8": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 8
+    },
+    "SINE35|9": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 9
+    },
+    "SINE35|10": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 10
+    },
+    "SINE35|11": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 11
+    },
+    "SINE35|12": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 12
+    },
+    "SINE35|13": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 13
+    },
+    "SINE35|14": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 14
+    },
+    "SINE35|15": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 15
+    },
+    "SINE35|16": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 16
+    },
+    "SINE35|17": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 17
+    },
+    "SINE35|18": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 18
+    },
+    "SINE35|19": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 19
+    },
+    "SINE35|20": {
+        "series": "SineWave",
+        "amplitude": 35,
+        "frequency": 20
+    },
+    "SINE36|1": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 1
+    },
+    "SINE36|2": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 2
+    },
+    "SINE36|3": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 3
+    },
+    "SINE36|4": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 4
+    },
+    "SINE36|5": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 5
+    },
+    "SINE36|6": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 6
+    },
+    "SINE36|7": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 7
+    },
+    "SINE36|8": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 8
+    },
+    "SINE36|9": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 9
+    },
+    "SINE36|10": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 10
+    },
+    "SINE36|11": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 11
+    },
+    "SINE36|12": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 12
+    },
+    "SINE36|13": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 13
+    },
+    "SINE36|14": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 14
+    },
+    "SINE36|15": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 15
+    },
+    "SINE36|16": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 16
+    },
+    "SINE36|17": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 17
+    },
+    "SINE36|18": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 18
+    },
+    "SINE36|19": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 19
+    },
+    "SINE36|20": {
+        "series": "SineWave",
+        "amplitude": 36,
+        "frequency": 20
+    },
+    "SINE37|1": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 1
+    },
+    "SINE37|2": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 2
+    },
+    "SINE37|3": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 3
+    },
+    "SINE37|4": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 4
+    },
+    "SINE37|5": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 5
+    },
+    "SINE37|6": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 6
+    },
+    "SINE37|7": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 7
+    },
+    "SINE37|8": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 8
+    },
+    "SINE37|9": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 9
+    },
+    "SINE37|10": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 10
+    },
+    "SINE37|11": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 11
+    },
+    "SINE37|12": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 12
+    },
+    "SINE37|13": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 13
+    },
+    "SINE37|14": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 14
+    },
+    "SINE37|15": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 15
+    },
+    "SINE37|16": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 16
+    },
+    "SINE37|17": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 17
+    },
+    "SINE37|18": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 18
+    },
+    "SINE37|19": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 19
+    },
+    "SINE37|20": {
+        "series": "SineWave",
+        "amplitude": 37,
+        "frequency": 20
+    },
+    "SINE38|1": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 1
+    },
+    "SINE38|2": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 2
+    },
+    "SINE38|3": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 3
+    },
+    "SINE38|4": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 4
+    },
+    "SINE38|5": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 5
+    },
+    "SINE38|6": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 6
+    },
+    "SINE38|7": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 7
+    },
+    "SINE38|8": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 8
+    },
+    "SINE38|9": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 9
+    },
+    "SINE38|10": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 10
+    },
+    "SINE38|11": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 11
+    },
+    "SINE38|12": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 12
+    },
+    "SINE38|13": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 13
+    },
+    "SINE38|14": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 14
+    },
+    "SINE38|15": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 15
+    },
+    "SINE38|16": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 16
+    },
+    "SINE38|17": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 17
+    },
+    "SINE38|18": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 18
+    },
+    "SINE38|19": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 19
+    },
+    "SINE38|20": {
+        "series": "SineWave",
+        "amplitude": 38,
+        "frequency": 20
+    },
+    "SINE39|1": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 1
+    },
+    "SINE39|2": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 2
+    },
+    "SINE39|3": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 3
+    },
+    "SINE39|4": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 4
+    },
+    "SINE39|5": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 5
+    },
+    "SINE39|6": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 6
+    },
+    "SINE39|7": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 7
+    },
+    "SINE39|8": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 8
+    },
+    "SINE39|9": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 9
+    },
+    "SINE39|10": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 10
+    },
+    "SINE39|11": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 11
+    },
+    "SINE39|12": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 12
+    },
+    "SINE39|13": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 13
+    },
+    "SINE39|14": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 14
+    },
+    "SINE39|15": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 15
+    },
+    "SINE39|16": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 16
+    },
+    "SINE39|17": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 17
+    },
+    "SINE39|18": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 18
+    },
+    "SINE39|19": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 19
+    },
+    "SINE39|20": {
+        "series": "SineWave",
+        "amplitude": 39,
+        "frequency": 20
+    },
+    "SINE40|1": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 1
+    },
+    "SINE40|2": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 2
+    },
+    "SINE40|3": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 3
+    },
+    "SINE40|4": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 4
+    },
+    "SINE40|5": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 5
+    },
+    "SINE40|6": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 6
+    },
+    "SINE40|7": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 7
+    },
+    "SINE40|8": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 8
+    },
+    "SINE40|9": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 9
+    },
+    "SINE40|10": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 10
+    },
+    "SINE40|11": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 11
+    },
+    "SINE40|12": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 12
+    },
+    "SINE40|13": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 13
+    },
+    "SINE40|14": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 14
+    },
+    "SINE40|15": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 15
+    },
+    "SINE40|16": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 16
+    },
+    "SINE40|17": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 17
+    },
+    "SINE40|18": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 18
+    },
+    "SINE40|19": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 19
+    },
+    "SINE40|20": {
+        "series": "SineWave",
+        "amplitude": 40,
+        "frequency": 20
+    },
+    "SINE41|1": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 1
+    },
+    "SINE41|2": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 2
+    },
+    "SINE41|3": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 3
+    },
+    "SINE41|4": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 4
+    },
+    "SINE41|5": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 5
+    },
+    "SINE41|6": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 6
+    },
+    "SINE41|7": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 7
+    },
+    "SINE41|8": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 8
+    },
+    "SINE41|9": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 9
+    },
+    "SINE41|10": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 10
+    },
+    "SINE41|11": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 11
+    },
+    "SINE41|12": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 12
+    },
+    "SINE41|13": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 13
+    },
+    "SINE41|14": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 14
+    },
+    "SINE41|15": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 15
+    },
+    "SINE41|16": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 16
+    },
+    "SINE41|17": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 17
+    },
+    "SINE41|18": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 18
+    },
+    "SINE41|19": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 19
+    },
+    "SINE41|20": {
+        "series": "SineWave",
+        "amplitude": 41,
+        "frequency": 20
+    },
+    "SINE42|1": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 1
+    },
+    "SINE42|2": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 2
+    },
+    "SINE42|3": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 3
+    },
+    "SINE42|4": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 4
+    },
+    "SINE42|5": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 5
+    },
+    "SINE42|6": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 6
+    },
+    "SINE42|7": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 7
+    },
+    "SINE42|8": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 8
+    },
+    "SINE42|9": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 9
+    },
+    "SINE42|10": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 10
+    },
+    "SINE42|11": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 11
+    },
+    "SINE42|12": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 12
+    },
+    "SINE42|13": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 13
+    },
+    "SINE42|14": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 14
+    },
+    "SINE42|15": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 15
+    },
+    "SINE42|16": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 16
+    },
+    "SINE42|17": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 17
+    },
+    "SINE42|18": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 18
+    },
+    "SINE42|19": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 19
+    },
+    "SINE42|20": {
+        "series": "SineWave",
+        "amplitude": 42,
+        "frequency": 20
+    },
+    "SINE43|1": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 1
+    },
+    "SINE43|2": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 2
+    },
+    "SINE43|3": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 3
+    },
+    "SINE43|4": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 4
+    },
+    "SINE43|5": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 5
+    },
+    "SINE43|6": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 6
+    },
+    "SINE43|7": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 7
+    },
+    "SINE43|8": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 8
+    },
+    "SINE43|9": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 9
+    },
+    "SINE43|10": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 10
+    },
+    "SINE43|11": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 11
+    },
+    "SINE43|12": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 12
+    },
+    "SINE43|13": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 13
+    },
+    "SINE43|14": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 14
+    },
+    "SINE43|15": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 15
+    },
+    "SINE43|16": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 16
+    },
+    "SINE43|17": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 17
+    },
+    "SINE43|18": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 18
+    },
+    "SINE43|19": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 19
+    },
+    "SINE43|20": {
+        "series": "SineWave",
+        "amplitude": 43,
+        "frequency": 20
+    },
+    "SINE44|1": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 1
+    },
+    "SINE44|2": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 2
+    },
+    "SINE44|3": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 3
+    },
+    "SINE44|4": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 4
+    },
+    "SINE44|5": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 5
+    },
+    "SINE44|6": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 6
+    },
+    "SINE44|7": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 7
+    },
+    "SINE44|8": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 8
+    },
+    "SINE44|9": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 9
+    },
+    "SINE44|10": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 10
+    },
+    "SINE44|11": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 11
+    },
+    "SINE44|12": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 12
+    },
+    "SINE44|13": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 13
+    },
+    "SINE44|14": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 14
+    },
+    "SINE44|15": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 15
+    },
+    "SINE44|16": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 16
+    },
+    "SINE44|17": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 17
+    },
+    "SINE44|18": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 18
+    },
+    "SINE44|19": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 19
+    },
+    "SINE44|20": {
+        "series": "SineWave",
+        "amplitude": 44,
+        "frequency": 20
+    },
+    "SINE45|1": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 1
+    },
+    "SINE45|2": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 2
+    },
+    "SINE45|3": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 3
+    },
+    "SINE45|4": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 4
+    },
+    "SINE45|5": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 5
+    },
+    "SINE45|6": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 6
+    },
+    "SINE45|7": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 7
+    },
+    "SINE45|8": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 8
+    },
+    "SINE45|9": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 9
+    },
+    "SINE45|10": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 10
+    },
+    "SINE45|11": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 11
+    },
+    "SINE45|12": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 12
+    },
+    "SINE45|13": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 13
+    },
+    "SINE45|14": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 14
+    },
+    "SINE45|15": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 15
+    },
+    "SINE45|16": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 16
+    },
+    "SINE45|17": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 17
+    },
+    "SINE45|18": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 18
+    },
+    "SINE45|19": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 19
+    },
+    "SINE45|20": {
+        "series": "SineWave",
+        "amplitude": 45,
+        "frequency": 20
+    },
+    "SINE46|1": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 1
+    },
+    "SINE46|2": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 2
+    },
+    "SINE46|3": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 3
+    },
+    "SINE46|4": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 4
+    },
+    "SINE46|5": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 5
+    },
+    "SINE46|6": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 6
+    },
+    "SINE46|7": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 7
+    },
+    "SINE46|8": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 8
+    },
+    "SINE46|9": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 9
+    },
+    "SINE46|10": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 10
+    },
+    "SINE46|11": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 11
+    },
+    "SINE46|12": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 12
+    },
+    "SINE46|13": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 13
+    },
+    "SINE46|14": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 14
+    },
+    "SINE46|15": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 15
+    },
+    "SINE46|16": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 16
+    },
+    "SINE46|17": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 17
+    },
+    "SINE46|18": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 18
+    },
+    "SINE46|19": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 19
+    },
+    "SINE46|20": {
+        "series": "SineWave",
+        "amplitude": 46,
+        "frequency": 20
+    },
+    "SINE47|1": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 1
+    },
+    "SINE47|2": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 2
+    },
+    "SINE47|3": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 3
+    },
+    "SINE47|4": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 4
+    },
+    "SINE47|5": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 5
+    },
+    "SINE47|6": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 6
+    },
+    "SINE47|7": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 7
+    },
+    "SINE47|8": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 8
+    },
+    "SINE47|9": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 9
+    },
+    "SINE47|10": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 10
+    },
+    "SINE47|11": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 11
+    },
+    "SINE47|12": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 12
+    },
+    "SINE47|13": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 13
+    },
+    "SINE47|14": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 14
+    },
+    "SINE47|15": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 15
+    },
+    "SINE47|16": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 16
+    },
+    "SINE47|17": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 17
+    },
+    "SINE47|18": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 18
+    },
+    "SINE47|19": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 19
+    },
+    "SINE47|20": {
+        "series": "SineWave",
+        "amplitude": 47,
+        "frequency": 20
+    },
+    "SINE48|1": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 1
+    },
+    "SINE48|2": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 2
+    },
+    "SINE48|3": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 3
+    },
+    "SINE48|4": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 4
+    },
+    "SINE48|5": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 5
+    },
+    "SINE48|6": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 6
+    },
+    "SINE48|7": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 7
+    },
+    "SINE48|8": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 8
+    },
+    "SINE48|9": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 9
+    },
+    "SINE48|10": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 10
+    },
+    "SINE48|11": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 11
+    },
+    "SINE48|12": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 12
+    },
+    "SINE48|13": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 13
+    },
+    "SINE48|14": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 14
+    },
+    "SINE48|15": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 15
+    },
+    "SINE48|16": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 16
+    },
+    "SINE48|17": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 17
+    },
+    "SINE48|18": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 18
+    },
+    "SINE48|19": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 19
+    },
+    "SINE48|20": {
+        "series": "SineWave",
+        "amplitude": 48,
+        "frequency": 20
+    },
+    "SINE49|1": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 1
+    },
+    "SINE49|2": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 2
+    },
+    "SINE49|3": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 3
+    },
+    "SINE49|4": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 4
+    },
+    "SINE49|5": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 5
+    },
+    "SINE49|6": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 6
+    },
+    "SINE49|7": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 7
+    },
+    "SINE49|8": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 8
+    },
+    "SINE49|9": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 9
+    },
+    "SINE49|10": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 10
+    },
+    "SINE49|11": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 11
+    },
+    "SINE49|12": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 12
+    },
+    "SINE49|13": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 13
+    },
+    "SINE49|14": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 14
+    },
+    "SINE49|15": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 15
+    },
+    "SINE49|16": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 16
+    },
+    "SINE49|17": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 17
+    },
+    "SINE49|18": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 18
+    },
+    "SINE49|19": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 19
+    },
+    "SINE49|20": {
+        "series": "SineWave",
+        "amplitude": 49,
+        "frequency": 20
+    },
+    "SINE50|1": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 1
+    },
+    "SINE50|2": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 2
+    },
+    "SINE50|3": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 3
+    },
+    "SINE50|4": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 4
+    },
+    "SINE50|5": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 5
+    },
+    "SINE50|6": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 6
+    },
+    "SINE50|7": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 7
+    },
+    "SINE50|8": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 8
+    },
+    "SINE50|9": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 9
+    },
+    "SINE50|10": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 10
+    },
+    "SINE50|11": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 11
+    },
+    "SINE50|12": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 12
+    },
+    "SINE50|13": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 13
+    },
+    "SINE50|14": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 14
+    },
+    "SINE50|15": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 15
+    },
+    "SINE50|16": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 16
+    },
+    "SINE50|17": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 17
+    },
+    "SINE50|18": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 18
+    },
+    "SINE50|19": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 19
+    },
+    "SINE50|20": {
+        "series": "SineWave",
+        "amplitude": 50,
+        "frequency": 20
+    }
+}

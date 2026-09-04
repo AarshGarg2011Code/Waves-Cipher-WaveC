@@ -1,0 +1,402 @@
+{
+    "DND1": {
+        "series": "DNDWave",
+        "divisor": 1
+    },
+    "DND2": {
+        "series": "DNDWave",
+        "divisor": 2
+    },
+    "DND3": {
+        "series": "DNDWave",
+        "divisor": 3
+    },
+    "DND4": {
+        "series": "DNDWave",
+        "divisor": 4
+    },
+    "DND5": {
+        "series": "DNDWave",
+        "divisor": 5
+    },
+    "DND6": {
+        "series": "DNDWave",
+        "divisor": 6
+    },
+    "DND7": {
+        "series": "DNDWave",
+        "divisor": 7
+    },
+    "DND8": {
+        "series": "DNDWave",
+        "divisor": 8
+    },
+    "DND9": {
+        "series": "DNDWave",
+        "divisor": 9
+    },
+    "DND10": {
+        "series": "DNDWave",
+        "divisor": 10
+    },
+    "DND11": {
+        "series": "DNDWave",
+        "divisor": 11
+    },
+    "DND12": {
+        "series": "DNDWave",
+        "divisor": 12
+    },
+    "DND13": {
+        "series": "DNDWave",
+        "divisor": 13
+    },
+    "DND14": {
+        "series": "DNDWave",
+        "divisor": 14
+    },
+    "DND15": {
+        "series": "DNDWave",
+        "divisor": 15
+    },
+    "DND16": {
+        "series": "DNDWave",
+        "divisor": 16
+    },
+    "DND17": {
+        "series": "DNDWave",
+        "divisor": 17
+    },
+    "DND18": {
+        "series": "DNDWave",
+        "divisor": 18
+    },
+    "DND19": {
+        "series": "DNDWave",
+        "divisor": 19
+    },
+    "DND20": {
+        "series": "DNDWave",
+        "divisor": 20
+    },
+    "DND21": {
+        "series": "DNDWave",
+        "divisor": 21
+    },
+    "DND22": {
+        "series": "DNDWave",
+        "divisor": 22
+    },
+    "DND23": {
+        "series": "DNDWave",
+        "divisor": 23
+    },
+    "DND24": {
+        "series": "DNDWave",
+        "divisor": 24
+    },
+    "DND25": {
+        "series": "DNDWave",
+        "divisor": 25
+    },
+    "DND26": {
+        "series": "DNDWave",
+        "divisor": 26
+    },
+    "DND27": {
+        "series": "DNDWave",
+        "divisor": 27
+    },
+    "DND28": {
+        "series": "DNDWave",
+        "divisor": 28
+    },
+    "DND29": {
+        "series": "DNDWave",
+        "divisor": 29
+    },
+    "DND30": {
+        "series": "DNDWave",
+        "divisor": 30
+    },
+    "DND31": {
+        "series": "DNDWave",
+        "divisor": 31
+    },
+    "DND32": {
+        "series": "DNDWave",
+        "divisor": 32
+    },
+    "DND33": {
+        "series": "DNDWave",
+        "divisor": 33
+    },
+    "DND34": {
+        "series": "DNDWave",
+        "divisor": 34
+    },
+    "DND35": {
+        "series": "DNDWave",
+        "divisor": 35
+    },
+    "DND36": {
+        "series": "DNDWave",
+        "divisor": 36
+    },
+    "DND37": {
+        "series": "DNDWave",
+        "divisor": 37
+    },
+    "DND38": {
+        "series": "DNDWave",
+        "divisor": 38
+    },
+    "DND39": {
+        "series": "DNDWave",
+        "divisor": 39
+    },
+    "DND40": {
+        "series": "DNDWave",
+        "divisor": 40
+    },
+    "DND41": {
+        "series": "DNDWave",
+        "divisor": 41
+    },
+    "DND42": {
+        "series": "DNDWave",
+        "divisor": 42
+    },
+    "DND43": {
+        "series": "DNDWave",
+        "divisor": 43
+    },
+    "DND44": {
+        "series": "DNDWave",
+        "divisor": 44
+    },
+    "DND45": {
+        "series": "DNDWave",
+        "divisor": 45
+    },
+    "DND46": {
+        "series": "DNDWave",
+        "divisor": 46
+    },
+    "DND47": {
+        "series": "DNDWave",
+        "divisor": 47
+    },
+    "DND48": {
+        "series": "DNDWave",
+        "divisor": 48
+    },
+    "DND49": {
+        "series": "DNDWave",
+        "divisor": 49
+    },
+    "DND50": {
+        "series": "DNDWave",
+        "divisor": 50
+    },
+    "DND51": {
+        "series": "DNDWave",
+        "divisor": 51
+    },
+    "DND52": {
+        "series": "DNDWave",
+        "divisor": 52
+    },
+    "DND53": {
+        "series": "DNDWave",
+        "divisor": 53
+    },
+    "DND54": {
+        "series": "DNDWave",
+        "divisor": 54
+    },
+    "DND55": {
+        "series": "DNDWave",
+        "divisor": 55
+    },
+    "DND56": {
+        "series": "DNDWave",
+        "divisor": 56
+    },
+    "DND57": {
+        "series": "DNDWave",
+        "divisor": 57
+    },
+    "DND58": {
+        "series": "DNDWave",
+        "divisor": 58
+    },
+    "DND59": {
+        "series": "DNDWave",
+        "divisor": 59
+    },
+    "DND60": {
+        "series": "DNDWave",
+        "divisor": 60
+    },
+    "DND61": {
+        "series": "DNDWave",
+        "divisor": 61
+    },
+    "DND62": {
+        "series": "DNDWave",
+        "divisor": 62
+    },
+    "DND63": {
+        "series": "DNDWave",
+        "divisor": 63
+    },
+    "DND64": {
+        "series": "DNDWave",
+        "divisor": 64
+    },
+    "DND65": {
+        "series": "DNDWave",
+        "divisor": 65
+    },
+    "DND66": {
+        "series": "DNDWave",
+        "divisor": 66
+    },
+    "DND67": {
+        "series": "DNDWave",
+        "divisor": 67
+    },
+    "DND68": {
+        "series": "DNDWave",
+        "divisor": 68
+    },
+    "DND69": {
+        "series": "DNDWave",
+        "divisor": 69
+    },
+    "DND70": {
+        "series": "DNDWave",
+        "divisor": 70
+    },
+    "DND71": {
+        "series": "DNDWave",
+        "divisor": 71
+    },
+    "DND72": {
+        "series": "DNDWave",
+        "divisor": 72
+    },
+    "DND73": {
+        "series": "DNDWave",
+        "divisor": 73
+    },
+    "DND74": {
+        "series": "DNDWave",
+        "divisor": 74
+    },
+    "DND75": {
+        "series": "DNDWave",
+        "divisor": 75
+    },
+    "DND76": {
+        "series": "DNDWave",
+        "divisor": 76
+    },
+    "DND77": {
+        "series": "DNDWave",
+        "divisor": 77
+    },
+    "DND78": {
+        "series": "DNDWave",
+        "divisor": 78
+    },
+    "DND79": {
+        "series": "DNDWave",
+        "divisor": 79
+    },
+    "DND80": {
+        "series": "DNDWave",
+        "divisor": 80
+    },
+    "DND81": {
+        "series": "DNDWave",
+        "divisor": 81
+    },
+    "DND82": {
+        "series": "DNDWave",
+        "divisor": 82
+    },
+    "DND83": {
+        "series": "DNDWave",
+        "divisor": 83
+    },
+    "DND84": {
+        "series": "DNDWave",
+        "divisor": 84
+    },
+    "DND85": {
+        "series": "DNDWave",
+        "divisor": 85
+    },
+    "DND86": {
+        "series": "DNDWave",
+        "divisor": 86
+    },
+    "DND87": {
+        "series": "DNDWave",
+        "divisor": 87
+    },
+    "DND88": {
+        "series": "DNDWave",
+        "divisor": 88
+    },
+    "DND89": {
+        "series": "DNDWave",
+        "divisor": 89
+    },
+    "DND90": {
+        "series": "DNDWave",
+        "divisor": 90
+    },
+    "DND91": {
+        "series": "DNDWave",
+        "divisor": 91
+    },
+    "DND92": {
+        "series": "DNDWave",
+        "divisor": 92
+    },
+    "DND93": {
+        "series": "DNDWave",
+        "divisor": 93
+    },
+    "DND94": {
+        "series": "DNDWave",
+        "divisor": 94
+    },
+    "DND95": {
+        "series": "DNDWave",
+        "divisor": 95
+    },
+    "DND96": {
+        "series": "DNDWave",
+        "divisor": 96
+    },
+    "DND97": {
+        "series": "DNDWave",
+        "divisor": 97
+    },
+    "DND98": {
+        "series": "DNDWave",
+        "divisor": 98
+    },
+    "DND99": {
+        "series": "DNDWave",
+        "divisor": 99
+    },
+    "DND100": {
+        "series": "DNDWave",
+        "divisor": 100
+    }
+}

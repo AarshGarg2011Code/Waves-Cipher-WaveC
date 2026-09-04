@@ -1,0 +1,5002 @@
+{
+    "SQR1|1": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 1
+    },
+    "SQR1|2": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 2
+    },
+    "SQR1|3": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 3
+    },
+    "SQR1|4": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 4
+    },
+    "SQR1|5": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 5
+    },
+    "SQR1|6": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 6
+    },
+    "SQR1|7": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 7
+    },
+    "SQR1|8": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 8
+    },
+    "SQR1|9": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 9
+    },
+    "SQR1|10": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 10
+    },
+    "SQR1|11": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 11
+    },
+    "SQR1|12": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 12
+    },
+    "SQR1|13": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 13
+    },
+    "SQR1|14": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 14
+    },
+    "SQR1|15": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 15
+    },
+    "SQR1|16": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 16
+    },
+    "SQR1|17": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 17
+    },
+    "SQR1|18": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 18
+    },
+    "SQR1|19": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 19
+    },
+    "SQR1|20": {
+        "series": "SquareWave",
+        "amplitude": 1,
+        "frequency": 20
+    },
+    "SQR2|1": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 1
+    },
+    "SQR2|2": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 2
+    },
+    "SQR2|3": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 3
+    },
+    "SQR2|4": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 4
+    },
+    "SQR2|5": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 5
+    },
+    "SQR2|6": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 6
+    },
+    "SQR2|7": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 7
+    },
+    "SQR2|8": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 8
+    },
+    "SQR2|9": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 9
+    },
+    "SQR2|10": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 10
+    },
+    "SQR2|11": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 11
+    },
+    "SQR2|12": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 12
+    },
+    "SQR2|13": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 13
+    },
+    "SQR2|14": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 14
+    },
+    "SQR2|15": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 15
+    },
+    "SQR2|16": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 16
+    },
+    "SQR2|17": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 17
+    },
+    "SQR2|18": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 18
+    },
+    "SQR2|19": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 19
+    },
+    "SQR2|20": {
+        "series": "SquareWave",
+        "amplitude": 2,
+        "frequency": 20
+    },
+    "SQR3|1": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 1
+    },
+    "SQR3|2": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 2
+    },
+    "SQR3|3": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 3
+    },
+    "SQR3|4": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 4
+    },
+    "SQR3|5": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 5
+    },
+    "SQR3|6": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 6
+    },
+    "SQR3|7": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 7
+    },
+    "SQR3|8": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 8
+    },
+    "SQR3|9": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 9
+    },
+    "SQR3|10": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 10
+    },
+    "SQR3|11": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 11
+    },
+    "SQR3|12": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 12
+    },
+    "SQR3|13": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 13
+    },
+    "SQR3|14": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 14
+    },
+    "SQR3|15": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 15
+    },
+    "SQR3|16": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 16
+    },
+    "SQR3|17": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 17
+    },
+    "SQR3|18": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 18
+    },
+    "SQR3|19": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 19
+    },
+    "SQR3|20": {
+        "series": "SquareWave",
+        "amplitude": 3,
+        "frequency": 20
+    },
+    "SQR4|1": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 1
+    },
+    "SQR4|2": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 2
+    },
+    "SQR4|3": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 3
+    },
+    "SQR4|4": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 4
+    },
+    "SQR4|5": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 5
+    },
+    "SQR4|6": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 6
+    },
+    "SQR4|7": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 7
+    },
+    "SQR4|8": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 8
+    },
+    "SQR4|9": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 9
+    },
+    "SQR4|10": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 10
+    },
+    "SQR4|11": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 11
+    },
+    "SQR4|12": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 12
+    },
+    "SQR4|13": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 13
+    },
+    "SQR4|14": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 14
+    },
+    "SQR4|15": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 15
+    },
+    "SQR4|16": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 16
+    },
+    "SQR4|17": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 17
+    },
+    "SQR4|18": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 18
+    },
+    "SQR4|19": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 19
+    },
+    "SQR4|20": {
+        "series": "SquareWave",
+        "amplitude": 4,
+        "frequency": 20
+    },
+    "SQR5|1": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 1
+    },
+    "SQR5|2": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 2
+    },
+    "SQR5|3": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 3
+    },
+    "SQR5|4": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 4
+    },
+    "SQR5|5": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 5
+    },
+    "SQR5|6": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 6
+    },
+    "SQR5|7": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 7
+    },
+    "SQR5|8": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 8
+    },
+    "SQR5|9": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 9
+    },
+    "SQR5|10": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 10
+    },
+    "SQR5|11": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 11
+    },
+    "SQR5|12": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 12
+    },
+    "SQR5|13": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 13
+    },
+    "SQR5|14": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 14
+    },
+    "SQR5|15": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 15
+    },
+    "SQR5|16": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 16
+    },
+    "SQR5|17": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 17
+    },
+    "SQR5|18": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 18
+    },
+    "SQR5|19": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 19
+    },
+    "SQR5|20": {
+        "series": "SquareWave",
+        "amplitude": 5,
+        "frequency": 20
+    },
+    "SQR6|1": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 1
+    },
+    "SQR6|2": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 2
+    },
+    "SQR6|3": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 3
+    },
+    "SQR6|4": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 4
+    },
+    "SQR6|5": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 5
+    },
+    "SQR6|6": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 6
+    },
+    "SQR6|7": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 7
+    },
+    "SQR6|8": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 8
+    },
+    "SQR6|9": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 9
+    },
+    "SQR6|10": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 10
+    },
+    "SQR6|11": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 11
+    },
+    "SQR6|12": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 12
+    },
+    "SQR6|13": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 13
+    },
+    "SQR6|14": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 14
+    },
+    "SQR6|15": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 15
+    },
+    "SQR6|16": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 16
+    },
+    "SQR6|17": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 17
+    },
+    "SQR6|18": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 18
+    },
+    "SQR6|19": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 19
+    },
+    "SQR6|20": {
+        "series": "SquareWave",
+        "amplitude": 6,
+        "frequency": 20
+    },
+    "SQR7|1": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 1
+    },
+    "SQR7|2": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 2
+    },
+    "SQR7|3": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 3
+    },
+    "SQR7|4": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 4
+    },
+    "SQR7|5": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 5
+    },
+    "SQR7|6": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 6
+    },
+    "SQR7|7": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 7
+    },
+    "SQR7|8": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 8
+    },
+    "SQR7|9": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 9
+    },
+    "SQR7|10": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 10
+    },
+    "SQR7|11": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 11
+    },
+    "SQR7|12": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 12
+    },
+    "SQR7|13": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 13
+    },
+    "SQR7|14": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 14
+    },
+    "SQR7|15": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 15
+    },
+    "SQR7|16": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 16
+    },
+    "SQR7|17": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 17
+    },
+    "SQR7|18": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 18
+    },
+    "SQR7|19": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 19
+    },
+    "SQR7|20": {
+        "series": "SquareWave",
+        "amplitude": 7,
+        "frequency": 20
+    },
+    "SQR8|1": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 1
+    },
+    "SQR8|2": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 2
+    },
+    "SQR8|3": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 3
+    },
+    "SQR8|4": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 4
+    },
+    "SQR8|5": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 5
+    },
+    "SQR8|6": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 6
+    },
+    "SQR8|7": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 7
+    },
+    "SQR8|8": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 8
+    },
+    "SQR8|9": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 9
+    },
+    "SQR8|10": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 10
+    },
+    "SQR8|11": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 11
+    },
+    "SQR8|12": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 12
+    },
+    "SQR8|13": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 13
+    },
+    "SQR8|14": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 14
+    },
+    "SQR8|15": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 15
+    },
+    "SQR8|16": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 16
+    },
+    "SQR8|17": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 17
+    },
+    "SQR8|18": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 18
+    },
+    "SQR8|19": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 19
+    },
+    "SQR8|20": {
+        "series": "SquareWave",
+        "amplitude": 8,
+        "frequency": 20
+    },
+    "SQR9|1": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 1
+    },
+    "SQR9|2": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 2
+    },
+    "SQR9|3": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 3
+    },
+    "SQR9|4": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 4
+    },
+    "SQR9|5": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 5
+    },
+    "SQR9|6": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 6
+    },
+    "SQR9|7": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 7
+    },
+    "SQR9|8": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 8
+    },
+    "SQR9|9": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 9
+    },
+    "SQR9|10": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 10
+    },
+    "SQR9|11": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 11
+    },
+    "SQR9|12": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 12
+    },
+    "SQR9|13": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 13
+    },
+    "SQR9|14": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 14
+    },
+    "SQR9|15": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 15
+    },
+    "SQR9|16": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 16
+    },
+    "SQR9|17": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 17
+    },
+    "SQR9|18": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 18
+    },
+    "SQR9|19": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 19
+    },
+    "SQR9|20": {
+        "series": "SquareWave",
+        "amplitude": 9,
+        "frequency": 20
+    },
+    "SQR10|1": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 1
+    },
+    "SQR10|2": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 2
+    },
+    "SQR10|3": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 3
+    },
+    "SQR10|4": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 4
+    },
+    "SQR10|5": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 5
+    },
+    "SQR10|6": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 6
+    },
+    "SQR10|7": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 7
+    },
+    "SQR10|8": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 8
+    },
+    "SQR10|9": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 9
+    },
+    "SQR10|10": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 10
+    },
+    "SQR10|11": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 11
+    },
+    "SQR10|12": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 12
+    },
+    "SQR10|13": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 13
+    },
+    "SQR10|14": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 14
+    },
+    "SQR10|15": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 15
+    },
+    "SQR10|16": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 16
+    },
+    "SQR10|17": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 17
+    },
+    "SQR10|18": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 18
+    },
+    "SQR10|19": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 19
+    },
+    "SQR10|20": {
+        "series": "SquareWave",
+        "amplitude": 10,
+        "frequency": 20
+    },
+    "SQR11|1": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 1
+    },
+    "SQR11|2": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 2
+    },
+    "SQR11|3": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 3
+    },
+    "SQR11|4": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 4
+    },
+    "SQR11|5": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 5
+    },
+    "SQR11|6": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 6
+    },
+    "SQR11|7": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 7
+    },
+    "SQR11|8": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 8
+    },
+    "SQR11|9": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 9
+    },
+    "SQR11|10": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 10
+    },
+    "SQR11|11": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 11
+    },
+    "SQR11|12": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 12
+    },
+    "SQR11|13": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 13
+    },
+    "SQR11|14": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 14
+    },
+    "SQR11|15": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 15
+    },
+    "SQR11|16": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 16
+    },
+    "SQR11|17": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 17
+    },
+    "SQR11|18": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 18
+    },
+    "SQR11|19": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 19
+    },
+    "SQR11|20": {
+        "series": "SquareWave",
+        "amplitude": 11,
+        "frequency": 20
+    },
+    "SQR12|1": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 1
+    },
+    "SQR12|2": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 2
+    },
+    "SQR12|3": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 3
+    },
+    "SQR12|4": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 4
+    },
+    "SQR12|5": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 5
+    },
+    "SQR12|6": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 6
+    },
+    "SQR12|7": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 7
+    },
+    "SQR12|8": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 8
+    },
+    "SQR12|9": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 9
+    },
+    "SQR12|10": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 10
+    },
+    "SQR12|11": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 11
+    },
+    "SQR12|12": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 12
+    },
+    "SQR12|13": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 13
+    },
+    "SQR12|14": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 14
+    },
+    "SQR12|15": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 15
+    },
+    "SQR12|16": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 16
+    },
+    "SQR12|17": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 17
+    },
+    "SQR12|18": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 18
+    },
+    "SQR12|19": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 19
+    },
+    "SQR12|20": {
+        "series": "SquareWave",
+        "amplitude": 12,
+        "frequency": 20
+    },
+    "SQR13|1": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 1
+    },
+    "SQR13|2": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 2
+    },
+    "SQR13|3": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 3
+    },
+    "SQR13|4": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 4
+    },
+    "SQR13|5": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 5
+    },
+    "SQR13|6": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 6
+    },
+    "SQR13|7": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 7
+    },
+    "SQR13|8": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 8
+    },
+    "SQR13|9": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 9
+    },
+    "SQR13|10": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 10
+    },
+    "SQR13|11": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 11
+    },
+    "SQR13|12": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 12
+    },
+    "SQR13|13": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 13
+    },
+    "SQR13|14": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 14
+    },
+    "SQR13|15": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 15
+    },
+    "SQR13|16": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 16
+    },
+    "SQR13|17": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 17
+    },
+    "SQR13|18": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 18
+    },
+    "SQR13|19": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 19
+    },
+    "SQR13|20": {
+        "series": "SquareWave",
+        "amplitude": 13,
+        "frequency": 20
+    },
+    "SQR14|1": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 1
+    },
+    "SQR14|2": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 2
+    },
+    "SQR14|3": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 3
+    },
+    "SQR14|4": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 4
+    },
+    "SQR14|5": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 5
+    },
+    "SQR14|6": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 6
+    },
+    "SQR14|7": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 7
+    },
+    "SQR14|8": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 8
+    },
+    "SQR14|9": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 9
+    },
+    "SQR14|10": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 10
+    },
+    "SQR14|11": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 11
+    },
+    "SQR14|12": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 12
+    },
+    "SQR14|13": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 13
+    },
+    "SQR14|14": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 14
+    },
+    "SQR14|15": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 15
+    },
+    "SQR14|16": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 16
+    },
+    "SQR14|17": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 17
+    },
+    "SQR14|18": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 18
+    },
+    "SQR14|19": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 19
+    },
+    "SQR14|20": {
+        "series": "SquareWave",
+        "amplitude": 14,
+        "frequency": 20
+    },
+    "SQR15|1": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 1
+    },
+    "SQR15|2": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 2
+    },
+    "SQR15|3": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 3
+    },
+    "SQR15|4": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 4
+    },
+    "SQR15|5": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 5
+    },
+    "SQR15|6": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 6
+    },
+    "SQR15|7": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 7
+    },
+    "SQR15|8": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 8
+    },
+    "SQR15|9": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 9
+    },
+    "SQR15|10": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 10
+    },
+    "SQR15|11": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 11
+    },
+    "SQR15|12": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 12
+    },
+    "SQR15|13": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 13
+    },
+    "SQR15|14": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 14
+    },
+    "SQR15|15": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 15
+    },
+    "SQR15|16": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 16
+    },
+    "SQR15|17": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 17
+    },
+    "SQR15|18": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 18
+    },
+    "SQR15|19": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 19
+    },
+    "SQR15|20": {
+        "series": "SquareWave",
+        "amplitude": 15,
+        "frequency": 20
+    },
+    "SQR16|1": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 1
+    },
+    "SQR16|2": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 2
+    },
+    "SQR16|3": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 3
+    },
+    "SQR16|4": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 4
+    },
+    "SQR16|5": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 5
+    },
+    "SQR16|6": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 6
+    },
+    "SQR16|7": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 7
+    },
+    "SQR16|8": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 8
+    },
+    "SQR16|9": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 9
+    },
+    "SQR16|10": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 10
+    },
+    "SQR16|11": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 11
+    },
+    "SQR16|12": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 12
+    },
+    "SQR16|13": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 13
+    },
+    "SQR16|14": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 14
+    },
+    "SQR16|15": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 15
+    },
+    "SQR16|16": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 16
+    },
+    "SQR16|17": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 17
+    },
+    "SQR16|18": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 18
+    },
+    "SQR16|19": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 19
+    },
+    "SQR16|20": {
+        "series": "SquareWave",
+        "amplitude": 16,
+        "frequency": 20
+    },
+    "SQR17|1": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 1
+    },
+    "SQR17|2": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 2
+    },
+    "SQR17|3": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 3
+    },
+    "SQR17|4": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 4
+    },
+    "SQR17|5": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 5
+    },
+    "SQR17|6": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 6
+    },
+    "SQR17|7": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 7
+    },
+    "SQR17|8": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 8
+    },
+    "SQR17|9": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 9
+    },
+    "SQR17|10": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 10
+    },
+    "SQR17|11": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 11
+    },
+    "SQR17|12": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 12
+    },
+    "SQR17|13": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 13
+    },
+    "SQR17|14": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 14
+    },
+    "SQR17|15": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 15
+    },
+    "SQR17|16": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 16
+    },
+    "SQR17|17": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 17
+    },
+    "SQR17|18": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 18
+    },
+    "SQR17|19": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 19
+    },
+    "SQR17|20": {
+        "series": "SquareWave",
+        "amplitude": 17,
+        "frequency": 20
+    },
+    "SQR18|1": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 1
+    },
+    "SQR18|2": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 2
+    },
+    "SQR18|3": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 3
+    },
+    "SQR18|4": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 4
+    },
+    "SQR18|5": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 5
+    },
+    "SQR18|6": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 6
+    },
+    "SQR18|7": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 7
+    },
+    "SQR18|8": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 8
+    },
+    "SQR18|9": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 9
+    },
+    "SQR18|10": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 10
+    },
+    "SQR18|11": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 11
+    },
+    "SQR18|12": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 12
+    },
+    "SQR18|13": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 13
+    },
+    "SQR18|14": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 14
+    },
+    "SQR18|15": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 15
+    },
+    "SQR18|16": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 16
+    },
+    "SQR18|17": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 17
+    },
+    "SQR18|18": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 18
+    },
+    "SQR18|19": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 19
+    },
+    "SQR18|20": {
+        "series": "SquareWave",
+        "amplitude": 18,
+        "frequency": 20
+    },
+    "SQR19|1": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 1
+    },
+    "SQR19|2": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 2
+    },
+    "SQR19|3": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 3
+    },
+    "SQR19|4": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 4
+    },
+    "SQR19|5": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 5
+    },
+    "SQR19|6": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 6
+    },
+    "SQR19|7": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 7
+    },
+    "SQR19|8": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 8
+    },
+    "SQR19|9": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 9
+    },
+    "SQR19|10": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 10
+    },
+    "SQR19|11": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 11
+    },
+    "SQR19|12": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 12
+    },
+    "SQR19|13": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 13
+    },
+    "SQR19|14": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 14
+    },
+    "SQR19|15": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 15
+    },
+    "SQR19|16": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 16
+    },
+    "SQR19|17": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 17
+    },
+    "SQR19|18": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 18
+    },
+    "SQR19|19": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 19
+    },
+    "SQR19|20": {
+        "series": "SquareWave",
+        "amplitude": 19,
+        "frequency": 20
+    },
+    "SQR20|1": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 1
+    },
+    "SQR20|2": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 2
+    },
+    "SQR20|3": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 3
+    },
+    "SQR20|4": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 4
+    },
+    "SQR20|5": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 5
+    },
+    "SQR20|6": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 6
+    },
+    "SQR20|7": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 7
+    },
+    "SQR20|8": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 8
+    },
+    "SQR20|9": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 9
+    },
+    "SQR20|10": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 10
+    },
+    "SQR20|11": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 11
+    },
+    "SQR20|12": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 12
+    },
+    "SQR20|13": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 13
+    },
+    "SQR20|14": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 14
+    },
+    "SQR20|15": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 15
+    },
+    "SQR20|16": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 16
+    },
+    "SQR20|17": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 17
+    },
+    "SQR20|18": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 18
+    },
+    "SQR20|19": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 19
+    },
+    "SQR20|20": {
+        "series": "SquareWave",
+        "amplitude": 20,
+        "frequency": 20
+    },
+    "SQR21|1": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 1
+    },
+    "SQR21|2": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 2
+    },
+    "SQR21|3": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 3
+    },
+    "SQR21|4": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 4
+    },
+    "SQR21|5": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 5
+    },
+    "SQR21|6": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 6
+    },
+    "SQR21|7": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 7
+    },
+    "SQR21|8": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 8
+    },
+    "SQR21|9": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 9
+    },
+    "SQR21|10": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 10
+    },
+    "SQR21|11": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 11
+    },
+    "SQR21|12": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 12
+    },
+    "SQR21|13": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 13
+    },
+    "SQR21|14": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 14
+    },
+    "SQR21|15": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 15
+    },
+    "SQR21|16": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 16
+    },
+    "SQR21|17": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 17
+    },
+    "SQR21|18": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 18
+    },
+    "SQR21|19": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 19
+    },
+    "SQR21|20": {
+        "series": "SquareWave",
+        "amplitude": 21,
+        "frequency": 20
+    },
+    "SQR22|1": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 1
+    },
+    "SQR22|2": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 2
+    },
+    "SQR22|3": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 3
+    },
+    "SQR22|4": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 4
+    },
+    "SQR22|5": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 5
+    },
+    "SQR22|6": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 6
+    },
+    "SQR22|7": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 7
+    },
+    "SQR22|8": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 8
+    },
+    "SQR22|9": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 9
+    },
+    "SQR22|10": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 10
+    },
+    "SQR22|11": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 11
+    },
+    "SQR22|12": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 12
+    },
+    "SQR22|13": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 13
+    },
+    "SQR22|14": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 14
+    },
+    "SQR22|15": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 15
+    },
+    "SQR22|16": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 16
+    },
+    "SQR22|17": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 17
+    },
+    "SQR22|18": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 18
+    },
+    "SQR22|19": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 19
+    },
+    "SQR22|20": {
+        "series": "SquareWave",
+        "amplitude": 22,
+        "frequency": 20
+    },
+    "SQR23|1": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 1
+    },
+    "SQR23|2": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 2
+    },
+    "SQR23|3": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 3
+    },
+    "SQR23|4": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 4
+    },
+    "SQR23|5": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 5
+    },
+    "SQR23|6": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 6
+    },
+    "SQR23|7": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 7
+    },
+    "SQR23|8": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 8
+    },
+    "SQR23|9": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 9
+    },
+    "SQR23|10": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 10
+    },
+    "SQR23|11": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 11
+    },
+    "SQR23|12": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 12
+    },
+    "SQR23|13": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 13
+    },
+    "SQR23|14": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 14
+    },
+    "SQR23|15": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 15
+    },
+    "SQR23|16": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 16
+    },
+    "SQR23|17": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 17
+    },
+    "SQR23|18": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 18
+    },
+    "SQR23|19": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 19
+    },
+    "SQR23|20": {
+        "series": "SquareWave",
+        "amplitude": 23,
+        "frequency": 20
+    },
+    "SQR24|1": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 1
+    },
+    "SQR24|2": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 2
+    },
+    "SQR24|3": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 3
+    },
+    "SQR24|4": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 4
+    },
+    "SQR24|5": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 5
+    },
+    "SQR24|6": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 6
+    },
+    "SQR24|7": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 7
+    },
+    "SQR24|8": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 8
+    },
+    "SQR24|9": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 9
+    },
+    "SQR24|10": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 10
+    },
+    "SQR24|11": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 11
+    },
+    "SQR24|12": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 12
+    },
+    "SQR24|13": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 13
+    },
+    "SQR24|14": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 14
+    },
+    "SQR24|15": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 15
+    },
+    "SQR24|16": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 16
+    },
+    "SQR24|17": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 17
+    },
+    "SQR24|18": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 18
+    },
+    "SQR24|19": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 19
+    },
+    "SQR24|20": {
+        "series": "SquareWave",
+        "amplitude": 24,
+        "frequency": 20
+    },
+    "SQR25|1": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 1
+    },
+    "SQR25|2": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 2
+    },
+    "SQR25|3": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 3
+    },
+    "SQR25|4": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 4
+    },
+    "SQR25|5": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 5
+    },
+    "SQR25|6": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 6
+    },
+    "SQR25|7": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 7
+    },
+    "SQR25|8": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 8
+    },
+    "SQR25|9": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 9
+    },
+    "SQR25|10": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 10
+    },
+    "SQR25|11": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 11
+    },
+    "SQR25|12": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 12
+    },
+    "SQR25|13": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 13
+    },
+    "SQR25|14": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 14
+    },
+    "SQR25|15": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 15
+    },
+    "SQR25|16": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 16
+    },
+    "SQR25|17": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 17
+    },
+    "SQR25|18": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 18
+    },
+    "SQR25|19": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 19
+    },
+    "SQR25|20": {
+        "series": "SquareWave",
+        "amplitude": 25,
+        "frequency": 20
+    },
+    "SQR26|1": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 1
+    },
+    "SQR26|2": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 2
+    },
+    "SQR26|3": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 3
+    },
+    "SQR26|4": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 4
+    },
+    "SQR26|5": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 5
+    },
+    "SQR26|6": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 6
+    },
+    "SQR26|7": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 7
+    },
+    "SQR26|8": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 8
+    },
+    "SQR26|9": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 9
+    },
+    "SQR26|10": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 10
+    },
+    "SQR26|11": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 11
+    },
+    "SQR26|12": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 12
+    },
+    "SQR26|13": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 13
+    },
+    "SQR26|14": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 14
+    },
+    "SQR26|15": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 15
+    },
+    "SQR26|16": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 16
+    },
+    "SQR26|17": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 17
+    },
+    "SQR26|18": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 18
+    },
+    "SQR26|19": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 19
+    },
+    "SQR26|20": {
+        "series": "SquareWave",
+        "amplitude": 26,
+        "frequency": 20
+    },
+    "SQR27|1": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 1
+    },
+    "SQR27|2": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 2
+    },
+    "SQR27|3": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 3
+    },
+    "SQR27|4": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 4
+    },
+    "SQR27|5": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 5
+    },
+    "SQR27|6": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 6
+    },
+    "SQR27|7": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 7
+    },
+    "SQR27|8": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 8
+    },
+    "SQR27|9": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 9
+    },
+    "SQR27|10": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 10
+    },
+    "SQR27|11": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 11
+    },
+    "SQR27|12": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 12
+    },
+    "SQR27|13": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 13
+    },
+    "SQR27|14": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 14
+    },
+    "SQR27|15": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 15
+    },
+    "SQR27|16": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 16
+    },
+    "SQR27|17": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 17
+    },
+    "SQR27|18": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 18
+    },
+    "SQR27|19": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 19
+    },
+    "SQR27|20": {
+        "series": "SquareWave",
+        "amplitude": 27,
+        "frequency": 20
+    },
+    "SQR28|1": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 1
+    },
+    "SQR28|2": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 2
+    },
+    "SQR28|3": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 3
+    },
+    "SQR28|4": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 4
+    },
+    "SQR28|5": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 5
+    },
+    "SQR28|6": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 6
+    },
+    "SQR28|7": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 7
+    },
+    "SQR28|8": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 8
+    },
+    "SQR28|9": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 9
+    },
+    "SQR28|10": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 10
+    },
+    "SQR28|11": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 11
+    },
+    "SQR28|12": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 12
+    },
+    "SQR28|13": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 13
+    },
+    "SQR28|14": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 14
+    },
+    "SQR28|15": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 15
+    },
+    "SQR28|16": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 16
+    },
+    "SQR28|17": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 17
+    },
+    "SQR28|18": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 18
+    },
+    "SQR28|19": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 19
+    },
+    "SQR28|20": {
+        "series": "SquareWave",
+        "amplitude": 28,
+        "frequency": 20
+    },
+    "SQR29|1": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 1
+    },
+    "SQR29|2": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 2
+    },
+    "SQR29|3": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 3
+    },
+    "SQR29|4": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 4
+    },
+    "SQR29|5": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 5
+    },
+    "SQR29|6": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 6
+    },
+    "SQR29|7": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 7
+    },
+    "SQR29|8": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 8
+    },
+    "SQR29|9": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 9
+    },
+    "SQR29|10": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 10
+    },
+    "SQR29|11": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 11
+    },
+    "SQR29|12": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 12
+    },
+    "SQR29|13": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 13
+    },
+    "SQR29|14": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 14
+    },
+    "SQR29|15": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 15
+    },
+    "SQR29|16": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 16
+    },
+    "SQR29|17": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 17
+    },
+    "SQR29|18": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 18
+    },
+    "SQR29|19": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 19
+    },
+    "SQR29|20": {
+        "series": "SquareWave",
+        "amplitude": 29,
+        "frequency": 20
+    },
+    "SQR30|1": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 1
+    },
+    "SQR30|2": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 2
+    },
+    "SQR30|3": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 3
+    },
+    "SQR30|4": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 4
+    },
+    "SQR30|5": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 5
+    },
+    "SQR30|6": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 6
+    },
+    "SQR30|7": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 7
+    },
+    "SQR30|8": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 8
+    },
+    "SQR30|9": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 9
+    },
+    "SQR30|10": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 10
+    },
+    "SQR30|11": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 11
+    },
+    "SQR30|12": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 12
+    },
+    "SQR30|13": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 13
+    },
+    "SQR30|14": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 14
+    },
+    "SQR30|15": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 15
+    },
+    "SQR30|16": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 16
+    },
+    "SQR30|17": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 17
+    },
+    "SQR30|18": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 18
+    },
+    "SQR30|19": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 19
+    },
+    "SQR30|20": {
+        "series": "SquareWave",
+        "amplitude": 30,
+        "frequency": 20
+    },
+    "SQR31|1": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 1
+    },
+    "SQR31|2": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 2
+    },
+    "SQR31|3": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 3
+    },
+    "SQR31|4": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 4
+    },
+    "SQR31|5": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 5
+    },
+    "SQR31|6": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 6
+    },
+    "SQR31|7": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 7
+    },
+    "SQR31|8": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 8
+    },
+    "SQR31|9": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 9
+    },
+    "SQR31|10": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 10
+    },
+    "SQR31|11": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 11
+    },
+    "SQR31|12": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 12
+    },
+    "SQR31|13": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 13
+    },
+    "SQR31|14": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 14
+    },
+    "SQR31|15": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 15
+    },
+    "SQR31|16": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 16
+    },
+    "SQR31|17": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 17
+    },
+    "SQR31|18": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 18
+    },
+    "SQR31|19": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 19
+    },
+    "SQR31|20": {
+        "series": "SquareWave",
+        "amplitude": 31,
+        "frequency": 20
+    },
+    "SQR32|1": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 1
+    },
+    "SQR32|2": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 2
+    },
+    "SQR32|3": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 3
+    },
+    "SQR32|4": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 4
+    },
+    "SQR32|5": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 5
+    },
+    "SQR32|6": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 6
+    },
+    "SQR32|7": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 7
+    },
+    "SQR32|8": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 8
+    },
+    "SQR32|9": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 9
+    },
+    "SQR32|10": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 10
+    },
+    "SQR32|11": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 11
+    },
+    "SQR32|12": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 12
+    },
+    "SQR32|13": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 13
+    },
+    "SQR32|14": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 14
+    },
+    "SQR32|15": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 15
+    },
+    "SQR32|16": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 16
+    },
+    "SQR32|17": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 17
+    },
+    "SQR32|18": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 18
+    },
+    "SQR32|19": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 19
+    },
+    "SQR32|20": {
+        "series": "SquareWave",
+        "amplitude": 32,
+        "frequency": 20
+    },
+    "SQR33|1": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 1
+    },
+    "SQR33|2": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 2
+    },
+    "SQR33|3": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 3
+    },
+    "SQR33|4": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 4
+    },
+    "SQR33|5": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 5
+    },
+    "SQR33|6": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 6
+    },
+    "SQR33|7": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 7
+    },
+    "SQR33|8": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 8
+    },
+    "SQR33|9": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 9
+    },
+    "SQR33|10": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 10
+    },
+    "SQR33|11": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 11
+    },
+    "SQR33|12": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 12
+    },
+    "SQR33|13": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 13
+    },
+    "SQR33|14": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 14
+    },
+    "SQR33|15": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 15
+    },
+    "SQR33|16": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 16
+    },
+    "SQR33|17": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 17
+    },
+    "SQR33|18": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 18
+    },
+    "SQR33|19": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 19
+    },
+    "SQR33|20": {
+        "series": "SquareWave",
+        "amplitude": 33,
+        "frequency": 20
+    },
+    "SQR34|1": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 1
+    },
+    "SQR34|2": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 2
+    },
+    "SQR34|3": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 3
+    },
+    "SQR34|4": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 4
+    },
+    "SQR34|5": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 5
+    },
+    "SQR34|6": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 6
+    },
+    "SQR34|7": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 7
+    },
+    "SQR34|8": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 8
+    },
+    "SQR34|9": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 9
+    },
+    "SQR34|10": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 10
+    },
+    "SQR34|11": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 11
+    },
+    "SQR34|12": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 12
+    },
+    "SQR34|13": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 13
+    },
+    "SQR34|14": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 14
+    },
+    "SQR34|15": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 15
+    },
+    "SQR34|16": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 16
+    },
+    "SQR34|17": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 17
+    },
+    "SQR34|18": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 18
+    },
+    "SQR34|19": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 19
+    },
+    "SQR34|20": {
+        "series": "SquareWave",
+        "amplitude": 34,
+        "frequency": 20
+    },
+    "SQR35|1": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 1
+    },
+    "SQR35|2": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 2
+    },
+    "SQR35|3": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 3
+    },
+    "SQR35|4": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 4
+    },
+    "SQR35|5": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 5
+    },
+    "SQR35|6": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 6
+    },
+    "SQR35|7": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 7
+    },
+    "SQR35|8": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 8
+    },
+    "SQR35|9": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 9
+    },
+    "SQR35|10": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 10
+    },
+    "SQR35|11": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 11
+    },
+    "SQR35|12": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 12
+    },
+    "SQR35|13": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 13
+    },
+    "SQR35|14": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 14
+    },
+    "SQR35|15": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 15
+    },
+    "SQR35|16": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 16
+    },
+    "SQR35|17": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 17
+    },
+    "SQR35|18": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 18
+    },
+    "SQR35|19": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 19
+    },
+    "SQR35|20": {
+        "series": "SquareWave",
+        "amplitude": 35,
+        "frequency": 20
+    },
+    "SQR36|1": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 1
+    },
+    "SQR36|2": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 2
+    },
+    "SQR36|3": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 3
+    },
+    "SQR36|4": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 4
+    },
+    "SQR36|5": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 5
+    },
+    "SQR36|6": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 6
+    },
+    "SQR36|7": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 7
+    },
+    "SQR36|8": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 8
+    },
+    "SQR36|9": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 9
+    },
+    "SQR36|10": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 10
+    },
+    "SQR36|11": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 11
+    },
+    "SQR36|12": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 12
+    },
+    "SQR36|13": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 13
+    },
+    "SQR36|14": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 14
+    },
+    "SQR36|15": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 15
+    },
+    "SQR36|16": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 16
+    },
+    "SQR36|17": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 17
+    },
+    "SQR36|18": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 18
+    },
+    "SQR36|19": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 19
+    },
+    "SQR36|20": {
+        "series": "SquareWave",
+        "amplitude": 36,
+        "frequency": 20
+    },
+    "SQR37|1": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 1
+    },
+    "SQR37|2": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 2
+    },
+    "SQR37|3": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 3
+    },
+    "SQR37|4": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 4
+    },
+    "SQR37|5": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 5
+    },
+    "SQR37|6": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 6
+    },
+    "SQR37|7": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 7
+    },
+    "SQR37|8": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 8
+    },
+    "SQR37|9": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 9
+    },
+    "SQR37|10": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 10
+    },
+    "SQR37|11": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 11
+    },
+    "SQR37|12": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 12
+    },
+    "SQR37|13": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 13
+    },
+    "SQR37|14": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 14
+    },
+    "SQR37|15": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 15
+    },
+    "SQR37|16": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 16
+    },
+    "SQR37|17": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 17
+    },
+    "SQR37|18": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 18
+    },
+    "SQR37|19": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 19
+    },
+    "SQR37|20": {
+        "series": "SquareWave",
+        "amplitude": 37,
+        "frequency": 20
+    },
+    "SQR38|1": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 1
+    },
+    "SQR38|2": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 2
+    },
+    "SQR38|3": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 3
+    },
+    "SQR38|4": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 4
+    },
+    "SQR38|5": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 5
+    },
+    "SQR38|6": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 6
+    },
+    "SQR38|7": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 7
+    },
+    "SQR38|8": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 8
+    },
+    "SQR38|9": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 9
+    },
+    "SQR38|10": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 10
+    },
+    "SQR38|11": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 11
+    },
+    "SQR38|12": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 12
+    },
+    "SQR38|13": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 13
+    },
+    "SQR38|14": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 14
+    },
+    "SQR38|15": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 15
+    },
+    "SQR38|16": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 16
+    },
+    "SQR38|17": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 17
+    },
+    "SQR38|18": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 18
+    },
+    "SQR38|19": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 19
+    },
+    "SQR38|20": {
+        "series": "SquareWave",
+        "amplitude": 38,
+        "frequency": 20
+    },
+    "SQR39|1": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 1
+    },
+    "SQR39|2": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 2
+    },
+    "SQR39|3": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 3
+    },
+    "SQR39|4": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 4
+    },
+    "SQR39|5": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 5
+    },
+    "SQR39|6": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 6
+    },
+    "SQR39|7": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 7
+    },
+    "SQR39|8": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 8
+    },
+    "SQR39|9": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 9
+    },
+    "SQR39|10": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 10
+    },
+    "SQR39|11": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 11
+    },
+    "SQR39|12": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 12
+    },
+    "SQR39|13": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 13
+    },
+    "SQR39|14": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 14
+    },
+    "SQR39|15": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 15
+    },
+    "SQR39|16": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 16
+    },
+    "SQR39|17": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 17
+    },
+    "SQR39|18": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 18
+    },
+    "SQR39|19": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 19
+    },
+    "SQR39|20": {
+        "series": "SquareWave",
+        "amplitude": 39,
+        "frequency": 20
+    },
+    "SQR40|1": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 1
+    },
+    "SQR40|2": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 2
+    },
+    "SQR40|3": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 3
+    },
+    "SQR40|4": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 4
+    },
+    "SQR40|5": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 5
+    },
+    "SQR40|6": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 6
+    },
+    "SQR40|7": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 7
+    },
+    "SQR40|8": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 8
+    },
+    "SQR40|9": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 9
+    },
+    "SQR40|10": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 10
+    },
+    "SQR40|11": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 11
+    },
+    "SQR40|12": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 12
+    },
+    "SQR40|13": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 13
+    },
+    "SQR40|14": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 14
+    },
+    "SQR40|15": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 15
+    },
+    "SQR40|16": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 16
+    },
+    "SQR40|17": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 17
+    },
+    "SQR40|18": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 18
+    },
+    "SQR40|19": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 19
+    },
+    "SQR40|20": {
+        "series": "SquareWave",
+        "amplitude": 40,
+        "frequency": 20
+    },
+    "SQR41|1": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 1
+    },
+    "SQR41|2": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 2
+    },
+    "SQR41|3": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 3
+    },
+    "SQR41|4": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 4
+    },
+    "SQR41|5": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 5
+    },
+    "SQR41|6": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 6
+    },
+    "SQR41|7": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 7
+    },
+    "SQR41|8": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 8
+    },
+    "SQR41|9": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 9
+    },
+    "SQR41|10": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 10
+    },
+    "SQR41|11": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 11
+    },
+    "SQR41|12": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 12
+    },
+    "SQR41|13": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 13
+    },
+    "SQR41|14": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 14
+    },
+    "SQR41|15": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 15
+    },
+    "SQR41|16": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 16
+    },
+    "SQR41|17": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 17
+    },
+    "SQR41|18": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 18
+    },
+    "SQR41|19": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 19
+    },
+    "SQR41|20": {
+        "series": "SquareWave",
+        "amplitude": 41,
+        "frequency": 20
+    },
+    "SQR42|1": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 1
+    },
+    "SQR42|2": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 2
+    },
+    "SQR42|3": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 3
+    },
+    "SQR42|4": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 4
+    },
+    "SQR42|5": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 5
+    },
+    "SQR42|6": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 6
+    },
+    "SQR42|7": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 7
+    },
+    "SQR42|8": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 8
+    },
+    "SQR42|9": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 9
+    },
+    "SQR42|10": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 10
+    },
+    "SQR42|11": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 11
+    },
+    "SQR42|12": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 12
+    },
+    "SQR42|13": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 13
+    },
+    "SQR42|14": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 14
+    },
+    "SQR42|15": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 15
+    },
+    "SQR42|16": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 16
+    },
+    "SQR42|17": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 17
+    },
+    "SQR42|18": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 18
+    },
+    "SQR42|19": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 19
+    },
+    "SQR42|20": {
+        "series": "SquareWave",
+        "amplitude": 42,
+        "frequency": 20
+    },
+    "SQR43|1": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 1
+    },
+    "SQR43|2": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 2
+    },
+    "SQR43|3": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 3
+    },
+    "SQR43|4": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 4
+    },
+    "SQR43|5": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 5
+    },
+    "SQR43|6": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 6
+    },
+    "SQR43|7": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 7
+    },
+    "SQR43|8": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 8
+    },
+    "SQR43|9": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 9
+    },
+    "SQR43|10": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 10
+    },
+    "SQR43|11": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 11
+    },
+    "SQR43|12": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 12
+    },
+    "SQR43|13": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 13
+    },
+    "SQR43|14": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 14
+    },
+    "SQR43|15": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 15
+    },
+    "SQR43|16": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 16
+    },
+    "SQR43|17": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 17
+    },
+    "SQR43|18": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 18
+    },
+    "SQR43|19": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 19
+    },
+    "SQR43|20": {
+        "series": "SquareWave",
+        "amplitude": 43,
+        "frequency": 20
+    },
+    "SQR44|1": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 1
+    },
+    "SQR44|2": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 2
+    },
+    "SQR44|3": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 3
+    },
+    "SQR44|4": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 4
+    },
+    "SQR44|5": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 5
+    },
+    "SQR44|6": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 6
+    },
+    "SQR44|7": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 7
+    },
+    "SQR44|8": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 8
+    },
+    "SQR44|9": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 9
+    },
+    "SQR44|10": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 10
+    },
+    "SQR44|11": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 11
+    },
+    "SQR44|12": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 12
+    },
+    "SQR44|13": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 13
+    },
+    "SQR44|14": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 14
+    },
+    "SQR44|15": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 15
+    },
+    "SQR44|16": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 16
+    },
+    "SQR44|17": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 17
+    },
+    "SQR44|18": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 18
+    },
+    "SQR44|19": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 19
+    },
+    "SQR44|20": {
+        "series": "SquareWave",
+        "amplitude": 44,
+        "frequency": 20
+    },
+    "SQR45|1": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 1
+    },
+    "SQR45|2": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 2
+    },
+    "SQR45|3": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 3
+    },
+    "SQR45|4": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 4
+    },
+    "SQR45|5": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 5
+    },
+    "SQR45|6": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 6
+    },
+    "SQR45|7": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 7
+    },
+    "SQR45|8": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 8
+    },
+    "SQR45|9": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 9
+    },
+    "SQR45|10": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 10
+    },
+    "SQR45|11": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 11
+    },
+    "SQR45|12": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 12
+    },
+    "SQR45|13": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 13
+    },
+    "SQR45|14": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 14
+    },
+    "SQR45|15": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 15
+    },
+    "SQR45|16": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 16
+    },
+    "SQR45|17": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 17
+    },
+    "SQR45|18": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 18
+    },
+    "SQR45|19": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 19
+    },
+    "SQR45|20": {
+        "series": "SquareWave",
+        "amplitude": 45,
+        "frequency": 20
+    },
+    "SQR46|1": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 1
+    },
+    "SQR46|2": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 2
+    },
+    "SQR46|3": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 3
+    },
+    "SQR46|4": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 4
+    },
+    "SQR46|5": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 5
+    },
+    "SQR46|6": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 6
+    },
+    "SQR46|7": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 7
+    },
+    "SQR46|8": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 8
+    },
+    "SQR46|9": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 9
+    },
+    "SQR46|10": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 10
+    },
+    "SQR46|11": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 11
+    },
+    "SQR46|12": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 12
+    },
+    "SQR46|13": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 13
+    },
+    "SQR46|14": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 14
+    },
+    "SQR46|15": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 15
+    },
+    "SQR46|16": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 16
+    },
+    "SQR46|17": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 17
+    },
+    "SQR46|18": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 18
+    },
+    "SQR46|19": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 19
+    },
+    "SQR46|20": {
+        "series": "SquareWave",
+        "amplitude": 46,
+        "frequency": 20
+    },
+    "SQR47|1": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 1
+    },
+    "SQR47|2": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 2
+    },
+    "SQR47|3": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 3
+    },
+    "SQR47|4": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 4
+    },
+    "SQR47|5": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 5
+    },
+    "SQR47|6": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 6
+    },
+    "SQR47|7": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 7
+    },
+    "SQR47|8": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 8
+    },
+    "SQR47|9": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 9
+    },
+    "SQR47|10": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 10
+    },
+    "SQR47|11": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 11
+    },
+    "SQR47|12": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 12
+    },
+    "SQR47|13": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 13
+    },
+    "SQR47|14": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 14
+    },
+    "SQR47|15": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 15
+    },
+    "SQR47|16": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 16
+    },
+    "SQR47|17": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 17
+    },
+    "SQR47|18": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 18
+    },
+    "SQR47|19": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 19
+    },
+    "SQR47|20": {
+        "series": "SquareWave",
+        "amplitude": 47,
+        "frequency": 20
+    },
+    "SQR48|1": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 1
+    },
+    "SQR48|2": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 2
+    },
+    "SQR48|3": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 3
+    },
+    "SQR48|4": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 4
+    },
+    "SQR48|5": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 5
+    },
+    "SQR48|6": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 6
+    },
+    "SQR48|7": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 7
+    },
+    "SQR48|8": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 8
+    },
+    "SQR48|9": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 9
+    },
+    "SQR48|10": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 10
+    },
+    "SQR48|11": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 11
+    },
+    "SQR48|12": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 12
+    },
+    "SQR48|13": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 13
+    },
+    "SQR48|14": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 14
+    },
+    "SQR48|15": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 15
+    },
+    "SQR48|16": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 16
+    },
+    "SQR48|17": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 17
+    },
+    "SQR48|18": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 18
+    },
+    "SQR48|19": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 19
+    },
+    "SQR48|20": {
+        "series": "SquareWave",
+        "amplitude": 48,
+        "frequency": 20
+    },
+    "SQR49|1": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 1
+    },
+    "SQR49|2": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 2
+    },
+    "SQR49|3": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 3
+    },
+    "SQR49|4": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 4
+    },
+    "SQR49|5": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 5
+    },
+    "SQR49|6": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 6
+    },
+    "SQR49|7": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 7
+    },
+    "SQR49|8": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 8
+    },
+    "SQR49|9": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 9
+    },
+    "SQR49|10": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 10
+    },
+    "SQR49|11": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 11
+    },
+    "SQR49|12": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 12
+    },
+    "SQR49|13": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 13
+    },
+    "SQR49|14": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 14
+    },
+    "SQR49|15": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 15
+    },
+    "SQR49|16": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 16
+    },
+    "SQR49|17": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 17
+    },
+    "SQR49|18": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 18
+    },
+    "SQR49|19": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 19
+    },
+    "SQR49|20": {
+        "series": "SquareWave",
+        "amplitude": 49,
+        "frequency": 20
+    },
+    "SQR50|1": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 1
+    },
+    "SQR50|2": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 2
+    },
+    "SQR50|3": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 3
+    },
+    "SQR50|4": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 4
+    },
+    "SQR50|5": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 5
+    },
+    "SQR50|6": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 6
+    },
+    "SQR50|7": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 7
+    },
+    "SQR50|8": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 8
+    },
+    "SQR50|9": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 9
+    },
+    "SQR50|10": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 10
+    },
+    "SQR50|11": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 11
+    },
+    "SQR50|12": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 12
+    },
+    "SQR50|13": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 13
+    },
+    "SQR50|14": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 14
+    },
+    "SQR50|15": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 15
+    },
+    "SQR50|16": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 16
+    },
+    "SQR50|17": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 17
+    },
+    "SQR50|18": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 18
+    },
+    "SQR50|19": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 19
+    },
+    "SQR50|20": {
+        "series": "SquareWave",
+        "amplitude": 50,
+        "frequency": 20
+    }
+}

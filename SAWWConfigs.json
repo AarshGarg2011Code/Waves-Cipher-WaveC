@@ -1,0 +1,5002 @@
+{
+    "SAW1|1": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 1
+    },
+    "SAW1|2": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 2
+    },
+    "SAW1|3": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 3
+    },
+    "SAW1|4": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 4
+    },
+    "SAW1|5": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 5
+    },
+    "SAW1|6": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 6
+    },
+    "SAW1|7": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 7
+    },
+    "SAW1|8": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 8
+    },
+    "SAW1|9": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 9
+    },
+    "SAW1|10": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 10
+    },
+    "SAW1|11": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 11
+    },
+    "SAW1|12": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 12
+    },
+    "SAW1|13": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 13
+    },
+    "SAW1|14": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 14
+    },
+    "SAW1|15": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 15
+    },
+    "SAW1|16": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 16
+    },
+    "SAW1|17": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 17
+    },
+    "SAW1|18": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 18
+    },
+    "SAW1|19": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 19
+    },
+    "SAW1|20": {
+        "series": "SawtoothWave",
+        "amplitude": 1,
+        "frequency": 20
+    },
+    "SAW2|1": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 1
+    },
+    "SAW2|2": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 2
+    },
+    "SAW2|3": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 3
+    },
+    "SAW2|4": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 4
+    },
+    "SAW2|5": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 5
+    },
+    "SAW2|6": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 6
+    },
+    "SAW2|7": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 7
+    },
+    "SAW2|8": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 8
+    },
+    "SAW2|9": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 9
+    },
+    "SAW2|10": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 10
+    },
+    "SAW2|11": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 11
+    },
+    "SAW2|12": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 12
+    },
+    "SAW2|13": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 13
+    },
+    "SAW2|14": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 14
+    },
+    "SAW2|15": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 15
+    },
+    "SAW2|16": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 16
+    },
+    "SAW2|17": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 17
+    },
+    "SAW2|18": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 18
+    },
+    "SAW2|19": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 19
+    },
+    "SAW2|20": {
+        "series": "SawtoothWave",
+        "amplitude": 2,
+        "frequency": 20
+    },
+    "SAW3|1": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 1
+    },
+    "SAW3|2": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 2
+    },
+    "SAW3|3": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 3
+    },
+    "SAW3|4": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 4
+    },
+    "SAW3|5": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 5
+    },
+    "SAW3|6": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 6
+    },
+    "SAW3|7": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 7
+    },
+    "SAW3|8": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 8
+    },
+    "SAW3|9": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 9
+    },
+    "SAW3|10": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 10
+    },
+    "SAW3|11": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 11
+    },
+    "SAW3|12": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 12
+    },
+    "SAW3|13": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 13
+    },
+    "SAW3|14": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 14
+    },
+    "SAW3|15": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 15
+    },
+    "SAW3|16": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 16
+    },
+    "SAW3|17": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 17
+    },
+    "SAW3|18": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 18
+    },
+    "SAW3|19": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 19
+    },
+    "SAW3|20": {
+        "series": "SawtoothWave",
+        "amplitude": 3,
+        "frequency": 20
+    },
+    "SAW4|1": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 1
+    },
+    "SAW4|2": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 2
+    },
+    "SAW4|3": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 3
+    },
+    "SAW4|4": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 4
+    },
+    "SAW4|5": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 5
+    },
+    "SAW4|6": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 6
+    },
+    "SAW4|7": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 7
+    },
+    "SAW4|8": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 8
+    },
+    "SAW4|9": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 9
+    },
+    "SAW4|10": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 10
+    },
+    "SAW4|11": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 11
+    },
+    "SAW4|12": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 12
+    },
+    "SAW4|13": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 13
+    },
+    "SAW4|14": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 14
+    },
+    "SAW4|15": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 15
+    },
+    "SAW4|16": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 16
+    },
+    "SAW4|17": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 17
+    },
+    "SAW4|18": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 18
+    },
+    "SAW4|19": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 19
+    },
+    "SAW4|20": {
+        "series": "SawtoothWave",
+        "amplitude": 4,
+        "frequency": 20
+    },
+    "SAW5|1": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 1
+    },
+    "SAW5|2": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 2
+    },
+    "SAW5|3": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 3
+    },
+    "SAW5|4": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 4
+    },
+    "SAW5|5": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 5
+    },
+    "SAW5|6": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 6
+    },
+    "SAW5|7": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 7
+    },
+    "SAW5|8": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 8
+    },
+    "SAW5|9": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 9
+    },
+    "SAW5|10": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 10
+    },
+    "SAW5|11": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 11
+    },
+    "SAW5|12": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 12
+    },
+    "SAW5|13": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 13
+    },
+    "SAW5|14": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 14
+    },
+    "SAW5|15": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 15
+    },
+    "SAW5|16": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 16
+    },
+    "SAW5|17": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 17
+    },
+    "SAW5|18": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 18
+    },
+    "SAW5|19": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 19
+    },
+    "SAW5|20": {
+        "series": "SawtoothWave",
+        "amplitude": 5,
+        "frequency": 20
+    },
+    "SAW6|1": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 1
+    },
+    "SAW6|2": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 2
+    },
+    "SAW6|3": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 3
+    },
+    "SAW6|4": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 4
+    },
+    "SAW6|5": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 5
+    },
+    "SAW6|6": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 6
+    },
+    "SAW6|7": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 7
+    },
+    "SAW6|8": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 8
+    },
+    "SAW6|9": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 9
+    },
+    "SAW6|10": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 10
+    },
+    "SAW6|11": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 11
+    },
+    "SAW6|12": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 12
+    },
+    "SAW6|13": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 13
+    },
+    "SAW6|14": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 14
+    },
+    "SAW6|15": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 15
+    },
+    "SAW6|16": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 16
+    },
+    "SAW6|17": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 17
+    },
+    "SAW6|18": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 18
+    },
+    "SAW6|19": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 19
+    },
+    "SAW6|20": {
+        "series": "SawtoothWave",
+        "amplitude": 6,
+        "frequency": 20
+    },
+    "SAW7|1": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 1
+    },
+    "SAW7|2": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 2
+    },
+    "SAW7|3": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 3
+    },
+    "SAW7|4": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 4
+    },
+    "SAW7|5": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 5
+    },
+    "SAW7|6": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 6
+    },
+    "SAW7|7": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 7
+    },
+    "SAW7|8": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 8
+    },
+    "SAW7|9": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 9
+    },
+    "SAW7|10": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 10
+    },
+    "SAW7|11": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 11
+    },
+    "SAW7|12": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 12
+    },
+    "SAW7|13": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 13
+    },
+    "SAW7|14": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 14
+    },
+    "SAW7|15": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 15
+    },
+    "SAW7|16": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 16
+    },
+    "SAW7|17": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 17
+    },
+    "SAW7|18": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 18
+    },
+    "SAW7|19": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 19
+    },
+    "SAW7|20": {
+        "series": "SawtoothWave",
+        "amplitude": 7,
+        "frequency": 20
+    },
+    "SAW8|1": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 1
+    },
+    "SAW8|2": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 2
+    },
+    "SAW8|3": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 3
+    },
+    "SAW8|4": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 4
+    },
+    "SAW8|5": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 5
+    },
+    "SAW8|6": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 6
+    },
+    "SAW8|7": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 7
+    },
+    "SAW8|8": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 8
+    },
+    "SAW8|9": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 9
+    },
+    "SAW8|10": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 10
+    },
+    "SAW8|11": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 11
+    },
+    "SAW8|12": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 12
+    },
+    "SAW8|13": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 13
+    },
+    "SAW8|14": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 14
+    },
+    "SAW8|15": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 15
+    },
+    "SAW8|16": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 16
+    },
+    "SAW8|17": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 17
+    },
+    "SAW8|18": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 18
+    },
+    "SAW8|19": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 19
+    },
+    "SAW8|20": {
+        "series": "SawtoothWave",
+        "amplitude": 8,
+        "frequency": 20
+    },
+    "SAW9|1": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 1
+    },
+    "SAW9|2": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 2
+    },
+    "SAW9|3": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 3
+    },
+    "SAW9|4": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 4
+    },
+    "SAW9|5": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 5
+    },
+    "SAW9|6": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 6
+    },
+    "SAW9|7": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 7
+    },
+    "SAW9|8": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 8
+    },
+    "SAW9|9": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 9
+    },
+    "SAW9|10": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 10
+    },
+    "SAW9|11": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 11
+    },
+    "SAW9|12": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 12
+    },
+    "SAW9|13": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 13
+    },
+    "SAW9|14": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 14
+    },
+    "SAW9|15": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 15
+    },
+    "SAW9|16": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 16
+    },
+    "SAW9|17": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 17
+    },
+    "SAW9|18": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 18
+    },
+    "SAW9|19": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 19
+    },
+    "SAW9|20": {
+        "series": "SawtoothWave",
+        "amplitude": 9,
+        "frequency": 20
+    },
+    "SAW10|1": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 1
+    },
+    "SAW10|2": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 2
+    },
+    "SAW10|3": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 3
+    },
+    "SAW10|4": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 4
+    },
+    "SAW10|5": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 5
+    },
+    "SAW10|6": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 6
+    },
+    "SAW10|7": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 7
+    },
+    "SAW10|8": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 8
+    },
+    "SAW10|9": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 9
+    },
+    "SAW10|10": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 10
+    },
+    "SAW10|11": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 11
+    },
+    "SAW10|12": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 12
+    },
+    "SAW10|13": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 13
+    },
+    "SAW10|14": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 14
+    },
+    "SAW10|15": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 15
+    },
+    "SAW10|16": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 16
+    },
+    "SAW10|17": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 17
+    },
+    "SAW10|18": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 18
+    },
+    "SAW10|19": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 19
+    },
+    "SAW10|20": {
+        "series": "SawtoothWave",
+        "amplitude": 10,
+        "frequency": 20
+    },
+    "SAW11|1": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 1
+    },
+    "SAW11|2": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 2
+    },
+    "SAW11|3": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 3
+    },
+    "SAW11|4": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 4
+    },
+    "SAW11|5": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 5
+    },
+    "SAW11|6": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 6
+    },
+    "SAW11|7": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 7
+    },
+    "SAW11|8": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 8
+    },
+    "SAW11|9": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 9
+    },
+    "SAW11|10": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 10
+    },
+    "SAW11|11": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 11
+    },
+    "SAW11|12": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 12
+    },
+    "SAW11|13": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 13
+    },
+    "SAW11|14": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 14
+    },
+    "SAW11|15": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 15
+    },
+    "SAW11|16": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 16
+    },
+    "SAW11|17": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 17
+    },
+    "SAW11|18": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 18
+    },
+    "SAW11|19": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 19
+    },
+    "SAW11|20": {
+        "series": "SawtoothWave",
+        "amplitude": 11,
+        "frequency": 20
+    },
+    "SAW12|1": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 1
+    },
+    "SAW12|2": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 2
+    },
+    "SAW12|3": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 3
+    },
+    "SAW12|4": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 4
+    },
+    "SAW12|5": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 5
+    },
+    "SAW12|6": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 6
+    },
+    "SAW12|7": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 7
+    },
+    "SAW12|8": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 8
+    },
+    "SAW12|9": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 9
+    },
+    "SAW12|10": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 10
+    },
+    "SAW12|11": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 11
+    },
+    "SAW12|12": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 12
+    },
+    "SAW12|13": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 13
+    },
+    "SAW12|14": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 14
+    },
+    "SAW12|15": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 15
+    },
+    "SAW12|16": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 16
+    },
+    "SAW12|17": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 17
+    },
+    "SAW12|18": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 18
+    },
+    "SAW12|19": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 19
+    },
+    "SAW12|20": {
+        "series": "SawtoothWave",
+        "amplitude": 12,
+        "frequency": 20
+    },
+    "SAW13|1": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 1
+    },
+    "SAW13|2": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 2
+    },
+    "SAW13|3": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 3
+    },
+    "SAW13|4": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 4
+    },
+    "SAW13|5": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 5
+    },
+    "SAW13|6": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 6
+    },
+    "SAW13|7": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 7
+    },
+    "SAW13|8": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 8
+    },
+    "SAW13|9": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 9
+    },
+    "SAW13|10": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 10
+    },
+    "SAW13|11": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 11
+    },
+    "SAW13|12": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 12
+    },
+    "SAW13|13": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 13
+    },
+    "SAW13|14": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 14
+    },
+    "SAW13|15": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 15
+    },
+    "SAW13|16": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 16
+    },
+    "SAW13|17": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 17
+    },
+    "SAW13|18": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 18
+    },
+    "SAW13|19": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 19
+    },
+    "SAW13|20": {
+        "series": "SawtoothWave",
+        "amplitude": 13,
+        "frequency": 20
+    },
+    "SAW14|1": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 1
+    },
+    "SAW14|2": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 2
+    },
+    "SAW14|3": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 3
+    },
+    "SAW14|4": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 4
+    },
+    "SAW14|5": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 5
+    },
+    "SAW14|6": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 6
+    },
+    "SAW14|7": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 7
+    },
+    "SAW14|8": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 8
+    },
+    "SAW14|9": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 9
+    },
+    "SAW14|10": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 10
+    },
+    "SAW14|11": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 11
+    },
+    "SAW14|12": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 12
+    },
+    "SAW14|13": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 13
+    },
+    "SAW14|14": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 14
+    },
+    "SAW14|15": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 15
+    },
+    "SAW14|16": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 16
+    },
+    "SAW14|17": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 17
+    },
+    "SAW14|18": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 18
+    },
+    "SAW14|19": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 19
+    },
+    "SAW14|20": {
+        "series": "SawtoothWave",
+        "amplitude": 14,
+        "frequency": 20
+    },
+    "SAW15|1": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 1
+    },
+    "SAW15|2": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 2
+    },
+    "SAW15|3": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 3
+    },
+    "SAW15|4": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 4
+    },
+    "SAW15|5": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 5
+    },
+    "SAW15|6": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 6
+    },
+    "SAW15|7": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 7
+    },
+    "SAW15|8": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 8
+    },
+    "SAW15|9": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 9
+    },
+    "SAW15|10": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 10
+    },
+    "SAW15|11": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 11
+    },
+    "SAW15|12": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 12
+    },
+    "SAW15|13": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 13
+    },
+    "SAW15|14": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 14
+    },
+    "SAW15|15": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 15
+    },
+    "SAW15|16": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 16
+    },
+    "SAW15|17": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 17
+    },
+    "SAW15|18": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 18
+    },
+    "SAW15|19": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 19
+    },
+    "SAW15|20": {
+        "series": "SawtoothWave",
+        "amplitude": 15,
+        "frequency": 20
+    },
+    "SAW16|1": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 1
+    },
+    "SAW16|2": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 2
+    },
+    "SAW16|3": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 3
+    },
+    "SAW16|4": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 4
+    },
+    "SAW16|5": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 5
+    },
+    "SAW16|6": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 6
+    },
+    "SAW16|7": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 7
+    },
+    "SAW16|8": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 8
+    },
+    "SAW16|9": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 9
+    },
+    "SAW16|10": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 10
+    },
+    "SAW16|11": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 11
+    },
+    "SAW16|12": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 12
+    },
+    "SAW16|13": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 13
+    },
+    "SAW16|14": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 14
+    },
+    "SAW16|15": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 15
+    },
+    "SAW16|16": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 16
+    },
+    "SAW16|17": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 17
+    },
+    "SAW16|18": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 18
+    },
+    "SAW16|19": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 19
+    },
+    "SAW16|20": {
+        "series": "SawtoothWave",
+        "amplitude": 16,
+        "frequency": 20
+    },
+    "SAW17|1": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 1
+    },
+    "SAW17|2": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 2
+    },
+    "SAW17|3": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 3
+    },
+    "SAW17|4": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 4
+    },
+    "SAW17|5": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 5
+    },
+    "SAW17|6": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 6
+    },
+    "SAW17|7": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 7
+    },
+    "SAW17|8": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 8
+    },
+    "SAW17|9": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 9
+    },
+    "SAW17|10": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 10
+    },
+    "SAW17|11": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 11
+    },
+    "SAW17|12": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 12
+    },
+    "SAW17|13": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 13
+    },
+    "SAW17|14": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 14
+    },
+    "SAW17|15": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 15
+    },
+    "SAW17|16": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 16
+    },
+    "SAW17|17": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 17
+    },
+    "SAW17|18": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 18
+    },
+    "SAW17|19": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 19
+    },
+    "SAW17|20": {
+        "series": "SawtoothWave",
+        "amplitude": 17,
+        "frequency": 20
+    },
+    "SAW18|1": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 1
+    },
+    "SAW18|2": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 2
+    },
+    "SAW18|3": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 3
+    },
+    "SAW18|4": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 4
+    },
+    "SAW18|5": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 5
+    },
+    "SAW18|6": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 6
+    },
+    "SAW18|7": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 7
+    },
+    "SAW18|8": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 8
+    },
+    "SAW18|9": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 9
+    },
+    "SAW18|10": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 10
+    },
+    "SAW18|11": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 11
+    },
+    "SAW18|12": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 12
+    },
+    "SAW18|13": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 13
+    },
+    "SAW18|14": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 14
+    },
+    "SAW18|15": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 15
+    },
+    "SAW18|16": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 16
+    },
+    "SAW18|17": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 17
+    },
+    "SAW18|18": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 18
+    },
+    "SAW18|19": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 19
+    },
+    "SAW18|20": {
+        "series": "SawtoothWave",
+        "amplitude": 18,
+        "frequency": 20
+    },
+    "SAW19|1": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 1
+    },
+    "SAW19|2": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 2
+    },
+    "SAW19|3": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 3
+    },
+    "SAW19|4": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 4
+    },
+    "SAW19|5": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 5
+    },
+    "SAW19|6": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 6
+    },
+    "SAW19|7": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 7
+    },
+    "SAW19|8": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 8
+    },
+    "SAW19|9": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 9
+    },
+    "SAW19|10": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 10
+    },
+    "SAW19|11": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 11
+    },
+    "SAW19|12": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 12
+    },
+    "SAW19|13": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 13
+    },
+    "SAW19|14": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 14
+    },
+    "SAW19|15": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 15
+    },
+    "SAW19|16": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 16
+    },
+    "SAW19|17": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 17
+    },
+    "SAW19|18": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 18
+    },
+    "SAW19|19": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 19
+    },
+    "SAW19|20": {
+        "series": "SawtoothWave",
+        "amplitude": 19,
+        "frequency": 20
+    },
+    "SAW20|1": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 1
+    },
+    "SAW20|2": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 2
+    },
+    "SAW20|3": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 3
+    },
+    "SAW20|4": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 4
+    },
+    "SAW20|5": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 5
+    },
+    "SAW20|6": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 6
+    },
+    "SAW20|7": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 7
+    },
+    "SAW20|8": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 8
+    },
+    "SAW20|9": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 9
+    },
+    "SAW20|10": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 10
+    },
+    "SAW20|11": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 11
+    },
+    "SAW20|12": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 12
+    },
+    "SAW20|13": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 13
+    },
+    "SAW20|14": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 14
+    },
+    "SAW20|15": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 15
+    },
+    "SAW20|16": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 16
+    },
+    "SAW20|17": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 17
+    },
+    "SAW20|18": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 18
+    },
+    "SAW20|19": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 19
+    },
+    "SAW20|20": {
+        "series": "SawtoothWave",
+        "amplitude": 20,
+        "frequency": 20
+    },
+    "SAW21|1": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 1
+    },
+    "SAW21|2": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 2
+    },
+    "SAW21|3": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 3
+    },
+    "SAW21|4": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 4
+    },
+    "SAW21|5": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 5
+    },
+    "SAW21|6": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 6
+    },
+    "SAW21|7": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 7
+    },
+    "SAW21|8": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 8
+    },
+    "SAW21|9": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 9
+    },
+    "SAW21|10": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 10
+    },
+    "SAW21|11": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 11
+    },
+    "SAW21|12": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 12
+    },
+    "SAW21|13": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 13
+    },
+    "SAW21|14": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 14
+    },
+    "SAW21|15": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 15
+    },
+    "SAW21|16": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 16
+    },
+    "SAW21|17": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 17
+    },
+    "SAW21|18": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 18
+    },
+    "SAW21|19": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 19
+    },
+    "SAW21|20": {
+        "series": "SawtoothWave",
+        "amplitude": 21,
+        "frequency": 20
+    },
+    "SAW22|1": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 1
+    },
+    "SAW22|2": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 2
+    },
+    "SAW22|3": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 3
+    },
+    "SAW22|4": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 4
+    },
+    "SAW22|5": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 5
+    },
+    "SAW22|6": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 6
+    },
+    "SAW22|7": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 7
+    },
+    "SAW22|8": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 8
+    },
+    "SAW22|9": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 9
+    },
+    "SAW22|10": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 10
+    },
+    "SAW22|11": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 11
+    },
+    "SAW22|12": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 12
+    },
+    "SAW22|13": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 13
+    },
+    "SAW22|14": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 14
+    },
+    "SAW22|15": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 15
+    },
+    "SAW22|16": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 16
+    },
+    "SAW22|17": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 17
+    },
+    "SAW22|18": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 18
+    },
+    "SAW22|19": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 19
+    },
+    "SAW22|20": {
+        "series": "SawtoothWave",
+        "amplitude": 22,
+        "frequency": 20
+    },
+    "SAW23|1": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 1
+    },
+    "SAW23|2": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 2
+    },
+    "SAW23|3": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 3
+    },
+    "SAW23|4": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 4
+    },
+    "SAW23|5": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 5
+    },
+    "SAW23|6": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 6
+    },
+    "SAW23|7": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 7
+    },
+    "SAW23|8": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 8
+    },
+    "SAW23|9": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 9
+    },
+    "SAW23|10": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 10
+    },
+    "SAW23|11": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 11
+    },
+    "SAW23|12": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 12
+    },
+    "SAW23|13": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 13
+    },
+    "SAW23|14": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 14
+    },
+    "SAW23|15": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 15
+    },
+    "SAW23|16": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 16
+    },
+    "SAW23|17": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 17
+    },
+    "SAW23|18": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 18
+    },
+    "SAW23|19": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 19
+    },
+    "SAW23|20": {
+        "series": "SawtoothWave",
+        "amplitude": 23,
+        "frequency": 20
+    },
+    "SAW24|1": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 1
+    },
+    "SAW24|2": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 2
+    },
+    "SAW24|3": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 3
+    },
+    "SAW24|4": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 4
+    },
+    "SAW24|5": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 5
+    },
+    "SAW24|6": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 6
+    },
+    "SAW24|7": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 7
+    },
+    "SAW24|8": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 8
+    },
+    "SAW24|9": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 9
+    },
+    "SAW24|10": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 10
+    },
+    "SAW24|11": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 11
+    },
+    "SAW24|12": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 12
+    },
+    "SAW24|13": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 13
+    },
+    "SAW24|14": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 14
+    },
+    "SAW24|15": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 15
+    },
+    "SAW24|16": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 16
+    },
+    "SAW24|17": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 17
+    },
+    "SAW24|18": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 18
+    },
+    "SAW24|19": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 19
+    },
+    "SAW24|20": {
+        "series": "SawtoothWave",
+        "amplitude": 24,
+        "frequency": 20
+    },
+    "SAW25|1": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 1
+    },
+    "SAW25|2": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 2
+    },
+    "SAW25|3": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 3
+    },
+    "SAW25|4": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 4
+    },
+    "SAW25|5": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 5
+    },
+    "SAW25|6": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 6
+    },
+    "SAW25|7": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 7
+    },
+    "SAW25|8": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 8
+    },
+    "SAW25|9": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 9
+    },
+    "SAW25|10": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 10
+    },
+    "SAW25|11": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 11
+    },
+    "SAW25|12": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 12
+    },
+    "SAW25|13": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 13
+    },
+    "SAW25|14": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 14
+    },
+    "SAW25|15": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 15
+    },
+    "SAW25|16": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 16
+    },
+    "SAW25|17": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 17
+    },
+    "SAW25|18": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 18
+    },
+    "SAW25|19": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 19
+    },
+    "SAW25|20": {
+        "series": "SawtoothWave",
+        "amplitude": 25,
+        "frequency": 20
+    },
+    "SAW26|1": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 1
+    },
+    "SAW26|2": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 2
+    },
+    "SAW26|3": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 3
+    },
+    "SAW26|4": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 4
+    },
+    "SAW26|5": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 5
+    },
+    "SAW26|6": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 6
+    },
+    "SAW26|7": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 7
+    },
+    "SAW26|8": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 8
+    },
+    "SAW26|9": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 9
+    },
+    "SAW26|10": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 10
+    },
+    "SAW26|11": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 11
+    },
+    "SAW26|12": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 12
+    },
+    "SAW26|13": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 13
+    },
+    "SAW26|14": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 14
+    },
+    "SAW26|15": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 15
+    },
+    "SAW26|16": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 16
+    },
+    "SAW26|17": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 17
+    },
+    "SAW26|18": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 18
+    },
+    "SAW26|19": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 19
+    },
+    "SAW26|20": {
+        "series": "SawtoothWave",
+        "amplitude": 26,
+        "frequency": 20
+    },
+    "SAW27|1": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 1
+    },
+    "SAW27|2": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 2
+    },
+    "SAW27|3": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 3
+    },
+    "SAW27|4": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 4
+    },
+    "SAW27|5": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 5
+    },
+    "SAW27|6": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 6
+    },
+    "SAW27|7": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 7
+    },
+    "SAW27|8": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 8
+    },
+    "SAW27|9": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 9
+    },
+    "SAW27|10": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 10
+    },
+    "SAW27|11": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 11
+    },
+    "SAW27|12": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 12
+    },
+    "SAW27|13": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 13
+    },
+    "SAW27|14": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 14
+    },
+    "SAW27|15": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 15
+    },
+    "SAW27|16": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 16
+    },
+    "SAW27|17": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 17
+    },
+    "SAW27|18": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 18
+    },
+    "SAW27|19": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 19
+    },
+    "SAW27|20": {
+        "series": "SawtoothWave",
+        "amplitude": 27,
+        "frequency": 20
+    },
+    "SAW28|1": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 1
+    },
+    "SAW28|2": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 2
+    },
+    "SAW28|3": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 3
+    },
+    "SAW28|4": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 4
+    },
+    "SAW28|5": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 5
+    },
+    "SAW28|6": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 6
+    },
+    "SAW28|7": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 7
+    },
+    "SAW28|8": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 8
+    },
+    "SAW28|9": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 9
+    },
+    "SAW28|10": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 10
+    },
+    "SAW28|11": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 11
+    },
+    "SAW28|12": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 12
+    },
+    "SAW28|13": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 13
+    },
+    "SAW28|14": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 14
+    },
+    "SAW28|15": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 15
+    },
+    "SAW28|16": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 16
+    },
+    "SAW28|17": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 17
+    },
+    "SAW28|18": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 18
+    },
+    "SAW28|19": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 19
+    },
+    "SAW28|20": {
+        "series": "SawtoothWave",
+        "amplitude": 28,
+        "frequency": 20
+    },
+    "SAW29|1": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 1
+    },
+    "SAW29|2": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 2
+    },
+    "SAW29|3": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 3
+    },
+    "SAW29|4": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 4
+    },
+    "SAW29|5": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 5
+    },
+    "SAW29|6": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 6
+    },
+    "SAW29|7": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 7
+    },
+    "SAW29|8": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 8
+    },
+    "SAW29|9": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 9
+    },
+    "SAW29|10": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 10
+    },
+    "SAW29|11": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 11
+    },
+    "SAW29|12": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 12
+    },
+    "SAW29|13": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 13
+    },
+    "SAW29|14": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 14
+    },
+    "SAW29|15": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 15
+    },
+    "SAW29|16": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 16
+    },
+    "SAW29|17": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 17
+    },
+    "SAW29|18": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 18
+    },
+    "SAW29|19": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 19
+    },
+    "SAW29|20": {
+        "series": "SawtoothWave",
+        "amplitude": 29,
+        "frequency": 20
+    },
+    "SAW30|1": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 1
+    },
+    "SAW30|2": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 2
+    },
+    "SAW30|3": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 3
+    },
+    "SAW30|4": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 4
+    },
+    "SAW30|5": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 5
+    },
+    "SAW30|6": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 6
+    },
+    "SAW30|7": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 7
+    },
+    "SAW30|8": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 8
+    },
+    "SAW30|9": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 9
+    },
+    "SAW30|10": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 10
+    },
+    "SAW30|11": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 11
+    },
+    "SAW30|12": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 12
+    },
+    "SAW30|13": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 13
+    },
+    "SAW30|14": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 14
+    },
+    "SAW30|15": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 15
+    },
+    "SAW30|16": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 16
+    },
+    "SAW30|17": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 17
+    },
+    "SAW30|18": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 18
+    },
+    "SAW30|19": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 19
+    },
+    "SAW30|20": {
+        "series": "SawtoothWave",
+        "amplitude": 30,
+        "frequency": 20
+    },
+    "SAW31|1": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 1
+    },
+    "SAW31|2": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 2
+    },
+    "SAW31|3": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 3
+    },
+    "SAW31|4": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 4
+    },
+    "SAW31|5": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 5
+    },
+    "SAW31|6": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 6
+    },
+    "SAW31|7": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 7
+    },
+    "SAW31|8": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 8
+    },
+    "SAW31|9": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 9
+    },
+    "SAW31|10": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 10
+    },
+    "SAW31|11": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 11
+    },
+    "SAW31|12": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 12
+    },
+    "SAW31|13": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 13
+    },
+    "SAW31|14": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 14
+    },
+    "SAW31|15": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 15
+    },
+    "SAW31|16": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 16
+    },
+    "SAW31|17": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 17
+    },
+    "SAW31|18": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 18
+    },
+    "SAW31|19": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 19
+    },
+    "SAW31|20": {
+        "series": "SawtoothWave",
+        "amplitude": 31,
+        "frequency": 20
+    },
+    "SAW32|1": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 1
+    },
+    "SAW32|2": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 2
+    },
+    "SAW32|3": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 3
+    },
+    "SAW32|4": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 4
+    },
+    "SAW32|5": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 5
+    },
+    "SAW32|6": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 6
+    },
+    "SAW32|7": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 7
+    },
+    "SAW32|8": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 8
+    },
+    "SAW32|9": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 9
+    },
+    "SAW32|10": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 10
+    },
+    "SAW32|11": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 11
+    },
+    "SAW32|12": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 12
+    },
+    "SAW32|13": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 13
+    },
+    "SAW32|14": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 14
+    },
+    "SAW32|15": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 15
+    },
+    "SAW32|16": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 16
+    },
+    "SAW32|17": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 17
+    },
+    "SAW32|18": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 18
+    },
+    "SAW32|19": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 19
+    },
+    "SAW32|20": {
+        "series": "SawtoothWave",
+        "amplitude": 32,
+        "frequency": 20
+    },
+    "SAW33|1": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 1
+    },
+    "SAW33|2": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 2
+    },
+    "SAW33|3": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 3
+    },
+    "SAW33|4": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 4
+    },
+    "SAW33|5": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 5
+    },
+    "SAW33|6": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 6
+    },
+    "SAW33|7": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 7
+    },
+    "SAW33|8": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 8
+    },
+    "SAW33|9": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 9
+    },
+    "SAW33|10": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 10
+    },
+    "SAW33|11": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 11
+    },
+    "SAW33|12": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 12
+    },
+    "SAW33|13": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 13
+    },
+    "SAW33|14": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 14
+    },
+    "SAW33|15": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 15
+    },
+    "SAW33|16": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 16
+    },
+    "SAW33|17": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 17
+    },
+    "SAW33|18": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 18
+    },
+    "SAW33|19": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 19
+    },
+    "SAW33|20": {
+        "series": "SawtoothWave",
+        "amplitude": 33,
+        "frequency": 20
+    },
+    "SAW34|1": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 1
+    },
+    "SAW34|2": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 2
+    },
+    "SAW34|3": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 3
+    },
+    "SAW34|4": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 4
+    },
+    "SAW34|5": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 5
+    },
+    "SAW34|6": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 6
+    },
+    "SAW34|7": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 7
+    },
+    "SAW34|8": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 8
+    },
+    "SAW34|9": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 9
+    },
+    "SAW34|10": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 10
+    },
+    "SAW34|11": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 11
+    },
+    "SAW34|12": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 12
+    },
+    "SAW34|13": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 13
+    },
+    "SAW34|14": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 14
+    },
+    "SAW34|15": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 15
+    },
+    "SAW34|16": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 16
+    },
+    "SAW34|17": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 17
+    },
+    "SAW34|18": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 18
+    },
+    "SAW34|19": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 19
+    },
+    "SAW34|20": {
+        "series": "SawtoothWave",
+        "amplitude": 34,
+        "frequency": 20
+    },
+    "SAW35|1": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 1
+    },
+    "SAW35|2": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 2
+    },
+    "SAW35|3": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 3
+    },
+    "SAW35|4": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 4
+    },
+    "SAW35|5": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 5
+    },
+    "SAW35|6": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 6
+    },
+    "SAW35|7": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 7
+    },
+    "SAW35|8": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 8
+    },
+    "SAW35|9": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 9
+    },
+    "SAW35|10": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 10
+    },
+    "SAW35|11": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 11
+    },
+    "SAW35|12": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 12
+    },
+    "SAW35|13": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 13
+    },
+    "SAW35|14": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 14
+    },
+    "SAW35|15": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 15
+    },
+    "SAW35|16": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 16
+    },
+    "SAW35|17": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 17
+    },
+    "SAW35|18": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 18
+    },
+    "SAW35|19": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 19
+    },
+    "SAW35|20": {
+        "series": "SawtoothWave",
+        "amplitude": 35,
+        "frequency": 20
+    },
+    "SAW36|1": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 1
+    },
+    "SAW36|2": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 2
+    },
+    "SAW36|3": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 3
+    },
+    "SAW36|4": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 4
+    },
+    "SAW36|5": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 5
+    },
+    "SAW36|6": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 6
+    },
+    "SAW36|7": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 7
+    },
+    "SAW36|8": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 8
+    },
+    "SAW36|9": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 9
+    },
+    "SAW36|10": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 10
+    },
+    "SAW36|11": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 11
+    },
+    "SAW36|12": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 12
+    },
+    "SAW36|13": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 13
+    },
+    "SAW36|14": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 14
+    },
+    "SAW36|15": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 15
+    },
+    "SAW36|16": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 16
+    },
+    "SAW36|17": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 17
+    },
+    "SAW36|18": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 18
+    },
+    "SAW36|19": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 19
+    },
+    "SAW36|20": {
+        "series": "SawtoothWave",
+        "amplitude": 36,
+        "frequency": 20
+    },
+    "SAW37|1": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 1
+    },
+    "SAW37|2": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 2
+    },
+    "SAW37|3": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 3
+    },
+    "SAW37|4": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 4
+    },
+    "SAW37|5": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 5
+    },
+    "SAW37|6": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 6
+    },
+    "SAW37|7": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 7
+    },
+    "SAW37|8": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 8
+    },
+    "SAW37|9": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 9
+    },
+    "SAW37|10": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 10
+    },
+    "SAW37|11": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 11
+    },
+    "SAW37|12": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 12
+    },
+    "SAW37|13": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 13
+    },
+    "SAW37|14": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 14
+    },
+    "SAW37|15": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 15
+    },
+    "SAW37|16": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 16
+    },
+    "SAW37|17": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 17
+    },
+    "SAW37|18": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 18
+    },
+    "SAW37|19": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 19
+    },
+    "SAW37|20": {
+        "series": "SawtoothWave",
+        "amplitude": 37,
+        "frequency": 20
+    },
+    "SAW38|1": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 1
+    },
+    "SAW38|2": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 2
+    },
+    "SAW38|3": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 3
+    },
+    "SAW38|4": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 4
+    },
+    "SAW38|5": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 5
+    },
+    "SAW38|6": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 6
+    },
+    "SAW38|7": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 7
+    },
+    "SAW38|8": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 8
+    },
+    "SAW38|9": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 9
+    },
+    "SAW38|10": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 10
+    },
+    "SAW38|11": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 11
+    },
+    "SAW38|12": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 12
+    },
+    "SAW38|13": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 13
+    },
+    "SAW38|14": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 14
+    },
+    "SAW38|15": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 15
+    },
+    "SAW38|16": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 16
+    },
+    "SAW38|17": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 17
+    },
+    "SAW38|18": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 18
+    },
+    "SAW38|19": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 19
+    },
+    "SAW38|20": {
+        "series": "SawtoothWave",
+        "amplitude": 38,
+        "frequency": 20
+    },
+    "SAW39|1": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 1
+    },
+    "SAW39|2": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 2
+    },
+    "SAW39|3": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 3
+    },
+    "SAW39|4": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 4
+    },
+    "SAW39|5": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 5
+    },
+    "SAW39|6": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 6
+    },
+    "SAW39|7": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 7
+    },
+    "SAW39|8": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 8
+    },
+    "SAW39|9": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 9
+    },
+    "SAW39|10": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 10
+    },
+    "SAW39|11": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 11
+    },
+    "SAW39|12": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 12
+    },
+    "SAW39|13": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 13
+    },
+    "SAW39|14": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 14
+    },
+    "SAW39|15": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 15
+    },
+    "SAW39|16": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 16
+    },
+    "SAW39|17": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 17
+    },
+    "SAW39|18": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 18
+    },
+    "SAW39|19": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 19
+    },
+    "SAW39|20": {
+        "series": "SawtoothWave",
+        "amplitude": 39,
+        "frequency": 20
+    },
+    "SAW40|1": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 1
+    },
+    "SAW40|2": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 2
+    },
+    "SAW40|3": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 3
+    },
+    "SAW40|4": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 4
+    },
+    "SAW40|5": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 5
+    },
+    "SAW40|6": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 6
+    },
+    "SAW40|7": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 7
+    },
+    "SAW40|8": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 8
+    },
+    "SAW40|9": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 9
+    },
+    "SAW40|10": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 10
+    },
+    "SAW40|11": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 11
+    },
+    "SAW40|12": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 12
+    },
+    "SAW40|13": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 13
+    },
+    "SAW40|14": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 14
+    },
+    "SAW40|15": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 15
+    },
+    "SAW40|16": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 16
+    },
+    "SAW40|17": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 17
+    },
+    "SAW40|18": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 18
+    },
+    "SAW40|19": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 19
+    },
+    "SAW40|20": {
+        "series": "SawtoothWave",
+        "amplitude": 40,
+        "frequency": 20
+    },
+    "SAW41|1": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 1
+    },
+    "SAW41|2": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 2
+    },
+    "SAW41|3": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 3
+    },
+    "SAW41|4": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 4
+    },
+    "SAW41|5": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 5
+    },
+    "SAW41|6": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 6
+    },
+    "SAW41|7": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 7
+    },
+    "SAW41|8": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 8
+    },
+    "SAW41|9": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 9
+    },
+    "SAW41|10": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 10
+    },
+    "SAW41|11": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 11
+    },
+    "SAW41|12": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 12
+    },
+    "SAW41|13": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 13
+    },
+    "SAW41|14": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 14
+    },
+    "SAW41|15": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 15
+    },
+    "SAW41|16": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 16
+    },
+    "SAW41|17": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 17
+    },
+    "SAW41|18": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 18
+    },
+    "SAW41|19": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 19
+    },
+    "SAW41|20": {
+        "series": "SawtoothWave",
+        "amplitude": 41,
+        "frequency": 20
+    },
+    "SAW42|1": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 1
+    },
+    "SAW42|2": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 2
+    },
+    "SAW42|3": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 3
+    },
+    "SAW42|4": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 4
+    },
+    "SAW42|5": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 5
+    },
+    "SAW42|6": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 6
+    },
+    "SAW42|7": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 7
+    },
+    "SAW42|8": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 8
+    },
+    "SAW42|9": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 9
+    },
+    "SAW42|10": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 10
+    },
+    "SAW42|11": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 11
+    },
+    "SAW42|12": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 12
+    },
+    "SAW42|13": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 13
+    },
+    "SAW42|14": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 14
+    },
+    "SAW42|15": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 15
+    },
+    "SAW42|16": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 16
+    },
+    "SAW42|17": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 17
+    },
+    "SAW42|18": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 18
+    },
+    "SAW42|19": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 19
+    },
+    "SAW42|20": {
+        "series": "SawtoothWave",
+        "amplitude": 42,
+        "frequency": 20
+    },
+    "SAW43|1": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 1
+    },
+    "SAW43|2": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 2
+    },
+    "SAW43|3": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 3
+    },
+    "SAW43|4": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 4
+    },
+    "SAW43|5": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 5
+    },
+    "SAW43|6": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 6
+    },
+    "SAW43|7": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 7
+    },
+    "SAW43|8": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 8
+    },
+    "SAW43|9": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 9
+    },
+    "SAW43|10": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 10
+    },
+    "SAW43|11": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 11
+    },
+    "SAW43|12": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 12
+    },
+    "SAW43|13": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 13
+    },
+    "SAW43|14": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 14
+    },
+    "SAW43|15": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 15
+    },
+    "SAW43|16": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 16
+    },
+    "SAW43|17": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 17
+    },
+    "SAW43|18": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 18
+    },
+    "SAW43|19": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 19
+    },
+    "SAW43|20": {
+        "series": "SawtoothWave",
+        "amplitude": 43,
+        "frequency": 20
+    },
+    "SAW44|1": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 1
+    },
+    "SAW44|2": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 2
+    },
+    "SAW44|3": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 3
+    },
+    "SAW44|4": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 4
+    },
+    "SAW44|5": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 5
+    },
+    "SAW44|6": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 6
+    },
+    "SAW44|7": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 7
+    },
+    "SAW44|8": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 8
+    },
+    "SAW44|9": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 9
+    },
+    "SAW44|10": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 10
+    },
+    "SAW44|11": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 11
+    },
+    "SAW44|12": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 12
+    },
+    "SAW44|13": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 13
+    },
+    "SAW44|14": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 14
+    },
+    "SAW44|15": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 15
+    },
+    "SAW44|16": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 16
+    },
+    "SAW44|17": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 17
+    },
+    "SAW44|18": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 18
+    },
+    "SAW44|19": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 19
+    },
+    "SAW44|20": {
+        "series": "SawtoothWave",
+        "amplitude": 44,
+        "frequency": 20
+    },
+    "SAW45|1": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 1
+    },
+    "SAW45|2": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 2
+    },
+    "SAW45|3": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 3
+    },
+    "SAW45|4": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 4
+    },
+    "SAW45|5": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 5
+    },
+    "SAW45|6": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 6
+    },
+    "SAW45|7": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 7
+    },
+    "SAW45|8": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 8
+    },
+    "SAW45|9": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 9
+    },
+    "SAW45|10": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 10
+    },
+    "SAW45|11": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 11
+    },
+    "SAW45|12": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 12
+    },
+    "SAW45|13": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 13
+    },
+    "SAW45|14": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 14
+    },
+    "SAW45|15": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 15
+    },
+    "SAW45|16": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 16
+    },
+    "SAW45|17": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 17
+    },
+    "SAW45|18": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 18
+    },
+    "SAW45|19": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 19
+    },
+    "SAW45|20": {
+        "series": "SawtoothWave",
+        "amplitude": 45,
+        "frequency": 20
+    },
+    "SAW46|1": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 1
+    },
+    "SAW46|2": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 2
+    },
+    "SAW46|3": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 3
+    },
+    "SAW46|4": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 4
+    },
+    "SAW46|5": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 5
+    },
+    "SAW46|6": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 6
+    },
+    "SAW46|7": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 7
+    },
+    "SAW46|8": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 8
+    },
+    "SAW46|9": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 9
+    },
+    "SAW46|10": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 10
+    },
+    "SAW46|11": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 11
+    },
+    "SAW46|12": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 12
+    },
+    "SAW46|13": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 13
+    },
+    "SAW46|14": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 14
+    },
+    "SAW46|15": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 15
+    },
+    "SAW46|16": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 16
+    },
+    "SAW46|17": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 17
+    },
+    "SAW46|18": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 18
+    },
+    "SAW46|19": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 19
+    },
+    "SAW46|20": {
+        "series": "SawtoothWave",
+        "amplitude": 46,
+        "frequency": 20
+    },
+    "SAW47|1": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 1
+    },
+    "SAW47|2": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 2
+    },
+    "SAW47|3": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 3
+    },
+    "SAW47|4": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 4
+    },
+    "SAW47|5": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 5
+    },
+    "SAW47|6": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 6
+    },
+    "SAW47|7": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 7
+    },
+    "SAW47|8": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 8
+    },
+    "SAW47|9": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 9
+    },
+    "SAW47|10": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 10
+    },
+    "SAW47|11": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 11
+    },
+    "SAW47|12": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 12
+    },
+    "SAW47|13": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 13
+    },
+    "SAW47|14": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 14
+    },
+    "SAW47|15": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 15
+    },
+    "SAW47|16": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 16
+    },
+    "SAW47|17": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 17
+    },
+    "SAW47|18": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 18
+    },
+    "SAW47|19": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 19
+    },
+    "SAW47|20": {
+        "series": "SawtoothWave",
+        "amplitude": 47,
+        "frequency": 20
+    },
+    "SAW48|1": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 1
+    },
+    "SAW48|2": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 2
+    },
+    "SAW48|3": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 3
+    },
+    "SAW48|4": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 4
+    },
+    "SAW48|5": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 5
+    },
+    "SAW48|6": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 6
+    },
+    "SAW48|7": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 7
+    },
+    "SAW48|8": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 8
+    },
+    "SAW48|9": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 9
+    },
+    "SAW48|10": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 10
+    },
+    "SAW48|11": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 11
+    },
+    "SAW48|12": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 12
+    },
+    "SAW48|13": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 13
+    },
+    "SAW48|14": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 14
+    },
+    "SAW48|15": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 15
+    },
+    "SAW48|16": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 16
+    },
+    "SAW48|17": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 17
+    },
+    "SAW48|18": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 18
+    },
+    "SAW48|19": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 19
+    },
+    "SAW48|20": {
+        "series": "SawtoothWave",
+        "amplitude": 48,
+        "frequency": 20
+    },
+    "SAW49|1": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 1
+    },
+    "SAW49|2": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 2
+    },
+    "SAW49|3": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 3
+    },
+    "SAW49|4": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 4
+    },
+    "SAW49|5": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 5
+    },
+    "SAW49|6": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 6
+    },
+    "SAW49|7": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 7
+    },
+    "SAW49|8": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 8
+    },
+    "SAW49|9": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 9
+    },
+    "SAW49|10": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 10
+    },
+    "SAW49|11": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 11
+    },
+    "SAW49|12": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 12
+    },
+    "SAW49|13": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 13
+    },
+    "SAW49|14": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 14
+    },
+    "SAW49|15": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 15
+    },
+    "SAW49|16": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 16
+    },
+    "SAW49|17": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 17
+    },
+    "SAW49|18": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 18
+    },
+    "SAW49|19": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 19
+    },
+    "SAW49|20": {
+        "series": "SawtoothWave",
+        "amplitude": 49,
+        "frequency": 20
+    },
+    "SAW50|1": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 1
+    },
+    "SAW50|2": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 2
+    },
+    "SAW50|3": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 3
+    },
+    "SAW50|4": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 4
+    },
+    "SAW50|5": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 5
+    },
+    "SAW50|6": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 6
+    },
+    "SAW50|7": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 7
+    },
+    "SAW50|8": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 8
+    },
+    "SAW50|9": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 9
+    },
+    "SAW50|10": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 10
+    },
+    "SAW50|11": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 11
+    },
+    "SAW50|12": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 12
+    },
+    "SAW50|13": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 13
+    },
+    "SAW50|14": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 14
+    },
+    "SAW50|15": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 15
+    },
+    "SAW50|16": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 16
+    },
+    "SAW50|17": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 17
+    },
+    "SAW50|18": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 18
+    },
+    "SAW50|19": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 19
+    },
+    "SAW50|20": {
+        "series": "SawtoothWave",
+        "amplitude": 50,
+        "frequency": 20
+    }
+}

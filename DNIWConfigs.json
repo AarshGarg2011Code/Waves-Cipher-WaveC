@@ -1,0 +1,402 @@
+{
+    "DNI1": {
+        "series": "DNIWave",
+        "divisor": 1
+    },
+    "DNI2": {
+        "series": "DNIWave",
+        "divisor": 2
+    },
+    "DNI3": {
+        "series": "DNIWave",
+        "divisor": 3
+    },
+    "DNI4": {
+        "series": "DNIWave",
+        "divisor": 4
+    },
+    "DNI5": {
+        "series": "DNIWave",
+        "divisor": 5
+    },
+    "DNI6": {
+        "series": "DNIWave",
+        "divisor": 6
+    },
+    "DNI7": {
+        "series": "DNIWave",
+        "divisor": 7
+    },
+    "DNI8": {
+        "series": "DNIWave",
+        "divisor": 8
+    },
+    "DNI9": {
+        "series": "DNIWave",
+        "divisor": 9
+    },
+    "DNI10": {
+        "series": "DNIWave",
+        "divisor": 10
+    },
+    "DNI11": {
+        "series": "DNIWave",
+        "divisor": 11
+    },
+    "DNI12": {
+        "series": "DNIWave",
+        "divisor": 12
+    },
+    "DNI13": {
+        "series": "DNIWave",
+        "divisor": 13
+    },
+    "DNI14": {
+        "series": "DNIWave",
+        "divisor": 14
+    },
+    "DNI15": {
+        "series": "DNIWave",
+        "divisor": 15
+    },
+    "DNI16": {
+        "series": "DNIWave",
+        "divisor": 16
+    },
+    "DNI17": {
+        "series": "DNIWave",
+        "divisor": 17
+    },
+    "DNI18": {
+        "series": "DNIWave",
+        "divisor": 18
+    },
+    "DNI19": {
+        "series": "DNIWave",
+        "divisor": 19
+    },
+    "DNI20": {
+        "series": "DNIWave",
+        "divisor": 20
+    },
+    "DNI21": {
+        "series": "DNIWave",
+        "divisor": 21
+    },
+    "DNI22": {
+        "series": "DNIWave",
+        "divisor": 22
+    },
+    "DNI23": {
+        "series": "DNIWave",
+        "divisor": 23
+    },
+    "DNI24": {
+        "series": "DNIWave",
+        "divisor": 24
+    },
+    "DNI25": {
+        "series": "DNIWave",
+        "divisor": 25
+    },
+    "DNI26": {
+        "series": "DNIWave",
+        "divisor": 26
+    },
+    "DNI27": {
+        "series": "DNIWave",
+        "divisor": 27
+    },
+    "DNI28": {
+        "series": "DNIWave",
+        "divisor": 28
+    },
+    "DNI29": {
+        "series": "DNIWave",
+        "divisor": 29
+    },
+    "DNI30": {
+        "series": "DNIWave",
+        "divisor": 30
+    },
+    "DNI31": {
+        "series": "DNIWave",
+        "divisor": 31
+    },
+    "DNI32": {
+        "series": "DNIWave",
+        "divisor": 32
+    },
+    "DNI33": {
+        "series": "DNIWave",
+        "divisor": 33
+    },
+    "DNI34": {
+        "series": "DNIWave",
+        "divisor": 34
+    },
+    "DNI35": {
+        "series": "DNIWave",
+        "divisor": 35
+    },
+    "DNI36": {
+        "series": "DNIWave",
+        "divisor": 36
+    },
+    "DNI37": {
+        "series": "DNIWave",
+        "divisor": 37
+    },
+    "DNI38": {
+        "series": "DNIWave",
+        "divisor": 38
+    },
+    "DNI39": {
+        "series": "DNIWave",
+        "divisor": 39
+    },
+    "DNI40": {
+        "series": "DNIWave",
+        "divisor": 40
+    },
+    "DNI41": {
+        "series": "DNIWave",
+        "divisor": 41
+    },
+    "DNI42": {
+        "series": "DNIWave",
+        "divisor": 42
+    },
+    "DNI43": {
+        "series": "DNIWave",
+        "divisor": 43
+    },
+    "DNI44": {
+        "series": "DNIWave",
+        "divisor": 44
+    },
+    "DNI45": {
+        "series": "DNIWave",
+        "divisor": 45
+    },
+    "DNI46": {
+        "series": "DNIWave",
+        "divisor": 46
+    },
+    "DNI47": {
+        "series": "DNIWave",
+        "divisor": 47
+    },
+    "DNI48": {
+        "series": "DNIWave",
+        "divisor": 48
+    },
+    "DNI49": {
+        "series": "DNIWave",
+        "divisor": 49
+    },
+    "DNI50": {
+        "series": "DNIWave",
+        "divisor": 50
+    },
+    "DNI51": {
+        "series": "DNIWave",
+        "divisor": 51
+    },
+    "DNI52": {
+        "series": "DNIWave",
+        "divisor": 52
+    },
+    "DNI53": {
+        "series": "DNIWave",
+        "divisor": 53
+    },
+    "DNI54": {
+        "series": "DNIWave",
+        "divisor": 54
+    },
+    "DNI55": {
+        "series": "DNIWave",
+        "divisor": 55
+    },
+    "DNI56": {
+        "series": "DNIWave",
+        "divisor": 56
+    },
+    "DNI57": {
+        "series": "DNIWave",
+        "divisor": 57
+    },
+    "DNI58": {
+        "series": "DNIWave",
+        "divisor": 58
+    },
+    "DNI59": {
+        "series": "DNIWave",
+        "divisor": 59
+    },
+    "DNI60": {
+        "series": "DNIWave",
+        "divisor": 60
+    },
+    "DNI61": {
+        "series": "DNIWave",
+        "divisor": 61
+    },
+    "DNI62": {
+        "series": "DNIWave",
+        "divisor": 62
+    },
+    "DNI63": {
+        "series": "DNIWave",
+        "divisor": 63
+    },
+    "DNI64": {
+        "series": "DNIWave",
+        "divisor": 64
+    },
+    "DNI65": {
+        "series": "DNIWave",
+        "divisor": 65
+    },
+    "DNI66": {
+        "series": "DNIWave",
+        "divisor": 66
+    },
+    "DNI67": {
+        "series": "DNIWave",
+        "divisor": 67
+    },
+    "DNI68": {
+        "series": "DNIWave",
+        "divisor": 68
+    },
+    "DNI69": {
+        "series": "DNIWave",
+        "divisor": 69
+    },
+    "DNI70": {
+        "series": "DNIWave",
+        "divisor": 70
+    },
+    "DNI71": {
+        "series": "DNIWave",
+        "divisor": 71
+    },
+    "DNI72": {
+        "series": "DNIWave",
+        "divisor": 72
+    },
+    "DNI73": {
+        "series": "DNIWave",
+        "divisor": 73
+    },
+    "DNI74": {
+        "series": "DNIWave",
+        "divisor": 74
+    },
+    "DNI75": {
+        "series": "DNIWave",
+        "divisor": 75
+    },
+    "DNI76": {
+        "series": "DNIWave",
+        "divisor": 76
+    },
+    "DNI77": {
+        "series": "DNIWave",
+        "divisor": 77
+    },
+    "DNI78": {
+        "series": "DNIWave",
+        "divisor": 78
+    },
+    "DNI79": {
+        "series": "DNIWave",
+        "divisor": 79
+    },
+    "DNI80": {
+        "series": "DNIWave",
+        "divisor": 80
+    },
+    "DNI81": {
+        "series": "DNIWave",
+        "divisor": 81
+    },
+    "DNI82": {
+        "series": "DNIWave",
+        "divisor": 82
+    },
+    "DNI83": {
+        "series": "DNIWave",
+        "divisor": 83
+    },
+    "DNI84": {
+        "series": "DNIWave",
+        "divisor": 84
+    },
+    "DNI85": {
+        "series": "DNIWave",
+        "divisor": 85
+    },
+    "DNI86": {
+        "series": "DNIWave",
+        "divisor": 86
+    },
+    "DNI87": {
+        "series": "DNIWave",
+        "divisor": 87
+    },
+    "DNI88": {
+        "series": "DNIWave",
+        "divisor": 88
+    },
+    "DNI89": {
+        "series": "DNIWave",
+        "divisor": 89
+    },
+    "DNI90": {
+        "series": "DNIWave",
+        "divisor": 90
+    },
+    "DNI91": {
+        "series": "DNIWave",
+        "divisor": 91
+    },
+    "DNI92": {
+        "series": "DNIWave",
+        "divisor": 92
+    },
+    "DNI93": {
+        "series": "DNIWave",
+        "divisor": 93
+    },
+    "DNI94": {
+        "series": "DNIWave",
+        "divisor": 94
+    },
+    "DNI95": {
+        "series": "DNIWave",
+        "divisor": 95
+    },
+    "DNI96": {
+        "series": "DNIWave",
+        "divisor": 96
+    },
+    "DNI97": {
+        "series": "DNIWave",
+        "divisor": 97
+    },
+    "DNI98": {
+        "series": "DNIWave",
+        "divisor": 98
+    },
+    "DNI99": {
+        "series": "DNIWave",
+        "divisor": 99
+    },
+    "DNI100": {
+        "series": "DNIWave",
+        "divisor": 100
+    }
+}
